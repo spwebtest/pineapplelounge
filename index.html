@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>The Pineapple Lounge</title>
+<style>
+:root{--ink:#17251d;--cream:#fff8e7;--yellow:#ffd84d;--green:#1f6f43;--card:#fffdf5}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:linear-gradient(145deg,#fff3b0,#e8f5dc);color:var(--ink);min-height:100vh}
+.wrap{max-width:900px;margin:auto;padding:24px}.brand{text-align:center;margin:30px 0}.brand .fruit{font-size:64px}.brand h1{margin:4px 0;font-size:clamp(32px,7vw,58px)}.brand p{margin:0;opacity:.7}
+.panel{background:rgba(255,253,245,.92);border:2px solid rgba(31,111,67,.15);border-radius:24px;padding:24px;box-shadow:0 15px 40px #244b2b22}
+#gate{max-width:460px;margin:40px auto;text-align:center}.pin{font-size:28px;letter-spacing:12px;text-align:center;width:100%;padding:15px;border:2px solid #ccd9c8;border-radius:14px;margin:15px 0}
+button,.game{border:0;border-radius:14px;padding:15px 20px;font-weight:800;cursor:pointer}.unlock{width:100%;background:var(--green);color:white;font-size:17px}.error{color:#a52323;min-height:24px}
+#hub{display:none}.top{display:flex;justify-content:space-between;align-items:center;gap:15px}.lock{background:#eee;color:#333;padding:10px 14px}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:15px;margin-top:20px}
+.game{display:block;text-decoration:none;background:var(--card);color:var(--ink);border:2px solid #dbe8d8;min-height:135px;font-size:18px}.game span{display:block;font-size:38px;margin-bottom:7px}.game small{display:block;font-weight:500;opacity:.65;margin-top:5px}.ready{border-color:#f2c62f;background:#fff8cf}
+.note{text-align:center;font-size:13px;opacity:.6;margin:25px}
+</style>
+</head>
+<body><main class="wrap">
+<section id="gate" class="panel">
+<div class="brand"><div class="fruit">🍍</div><h1>The Pineapple Lounge</h1><p>Private games for the Pineapple crew</p></div>
+<form id="pinForm"><label for="pin">Enter lounge PIN</label><input class="pin" id="pin" type="password" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="••••"><button class="unlock">ENTER THE LOUNGE</button><div class="error" id="error"></div></form>
+</section>
+<section id="hub">
+<div class="brand"><div class="fruit">🍍</div><h1>The Pineapple Lounge</h1><p>Pick a game and cause some chaos.</p></div>
+<div class="panel"><div class="top"><div><strong>🍍 Games Hub</strong><br><small>More games will be added here.</small></div><button class="lock" id="lock">Lock Lounge</button></div>
+<div class="grid">
+<a class="game ready" href="deal-or-no-deal.html"><span>💰</span>Deal or No Deal<small>First game — ready to build/play.</small></a>
+<div class="game"><span>🎡</span>Wheel Games<small>Coming soon</small></div>
+<div class="game"><span>🕵️</span>Where's Scotty?<small>Coming soon</small></div>
+<div class="game"><span>🧳</span>Lost Luggage<small>Coming soon</small></div>
+<div class="game"><span>😈</span>Truth or Dare<small>Coming soon</small></div>
+<div class="game"><span>⚔️</span>Showdown<small>Coming soon</small></div>
+</div></div><div class="note">Unlisted community site • Search indexing disabled</div>
+</section></main>
+<script>
+const PIN='2468'; // Change this value whenever you want a new 4-digit PIN.
+const gate=document.getElementById('gate'),hub=document.getElementById('hub');
+function openLounge(){gate.style.display='none';hub.style.display='block'}
+if(sessionStorage.getItem('pineappleAccess')==='yes')openLounge();
+document.getElementById('pinForm').addEventListener('submit',e=>{e.preventDefault();if(document.getElementById('pin').value===PIN){sessionStorage.setItem('pineappleAccess','yes');openLounge()}else{document.getElementById('error').textContent='🍍 Nope — wrong PIN. Try again.'}});
+document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappleAccess');location.reload()};
+</script></body></html>
