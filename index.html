@@ -24,14 +24,14 @@ button,.game{border:0;border-radius:14px;padding:15px 20px;font-weight:800;curso
 <section id="hub">
 <div class="brand"><div class="fruit">🍍</div><h1>The Pineapple Lounge</h1><p>Pick a game and cause some chaos.</p></div>
 <div class="panel"><div class="top"><div><strong>🍍 Games Hub</strong><br><small>More games will be added here.</small></div><button class="lock" id="lock">Lock Lounge</button></div>
-<div class="grid">
+<div class="grid" id="gamesGrid">
 <a class="game ready" href="deal-or-no-deal.html"><span>💰</span>Deal or No Deal<small>First game — ready to build/play.</small></a>
 <div class="game"><span>🎡</span>Wheel Games<small>Coming soon</small></div>
 <a class="game ready" href="wheres-scotty.html"><span>🕵️</span>Where's Scotty?<small>12-square interactive test round</small></a>
 <div class="game"><span>🧳</span>Lost Luggage<small>Coming soon</small></div>
 <a class="game ready" href="roll-the-dice.html"><span>🎲</span>Roll the Dice<small>Roll a random number from 1–6</small></a>
 <div class="game"><span>⚔️</span>Showdown<small>Coming soon</small></div>
-<a class="game ready" href="insult-generator.html"><span>🍍🔥</span>Insult Generator<small>Enter your name, pick a category & get roasted</small></a>
+<a class="game ready" id="sundayRoast" href="insult-generator.html"><span>🔥🍍</span>Sunday Roast<small>Enter your name, choose your roast level & face the consequences</small></a>
 </div></div><div class="note">Unlisted community site • Search indexing disabled</div>
 </section></main>
 <script>
@@ -41,4 +41,8 @@ function openLounge(){gate.style.display='none';hub.style.display='block'}
 if(sessionStorage.getItem('pineappleAccess')==='yes')openLounge();
 document.getElementById('pinForm').addEventListener('submit',e=>{e.preventDefault();if(document.getElementById('pin').value===PIN){sessionStorage.setItem('pineappleAccess','yes');openLounge()}else{document.getElementById('error').textContent='🍍 Nope — wrong PIN. Try again.'}});
 document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappleAccess');location.reload()};
+const today=new Date();
+if(today.getFullYear()===2026&&today.getMonth()===9&&today.getDate()===4){
+ document.querySelectorAll('#gamesGrid .game').forEach(g=>{if(g.id!=='sundayRoast')g.style.display='none'});
+}
 </script></body></html>
