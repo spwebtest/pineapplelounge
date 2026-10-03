@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>Pineapple Insult Generator | Pineapple Lounge</title>
+<style>
+:root{--ink:#17251d;--cream:#fffdf5;--green:#1f6f43;--yellow:#ffd84d}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,sans-serif;background:linear-gradient(145deg,#fff3b0,#dff2d7);color:var(--ink);min-height:100vh}
+.wrap{max-width:680px;margin:auto;padding:22px}.home{color:var(--green);text-decoration:none;font-weight:800}.head{text-align:center}.fruit{font-size:52px;margin-top:18px}h1{font-size:clamp(34px,9vw,56px);margin:3px 0}.sub{opacity:.7}
+.card{background:var(--cream);border-radius:26px;padding:24px;margin-top:20px;box-shadow:0 15px 40px #244b2b22}
+label{display:block;font-weight:850;margin:5px 0 8px}.name{width:100%;font:inherit;font-size:18px;padding:15px;border:2px solid #d6e3d2;border-radius:14px;background:white}
+.cats{display:grid;grid-template-columns:repeat(2,1fr);gap:9px;margin:10px 0 20px}.cat{border:2px solid #dbe8d8;background:white;border-radius:14px;padding:12px 7px;font-weight:800;cursor:pointer}.cat.on{border-color:#e3b600;background:#fff4b5}
+.roastbtn,.again,.copy{width:100%;border:0;border-radius:15px;padding:17px;font-size:18px;font-weight:900;cursor:pointer}.roastbtn{background:var(--green);color:white}.result{display:none;text-align:center}.badge{font-weight:900;font-size:15px}.result h2{margin:7px 0 15px}.roast{font-size:clamp(22px,5vw,30px);font-weight:800;line-height:1.3;margin:20px 0}.actions{display:grid;grid-template-columns:1fr 1fr;gap:10px}.again{background:#ffd84d;color:#17251d}.copy{background:#eee;color:#17251d}.tiny{font-size:12px;opacity:.55;text-align:center;margin-top:18px}
+@media(max-width:420px){.cats{grid-template-columns:1fr}.actions{grid-template-columns:1fr}}
+</style></head>
+<body><main class="wrap"><a class="home" href="index.html">← Games Hub</a>
+<div class="head"><div class="fruit">🍍🔥</div><h1>Insult Generator</h1><p class="sub">Enter your name. Choose your fate. Get roasted.</p></div>
+<section class="card" id="setup"><label for="name">Who's getting roasted?</label><input class="name" id="name" maxlength="24" autocomplete="off" placeholder="Enter a name…">
+<label style="margin-top:18px">Choose a category</label><div class="cats" id="cats">
+<button class="cat on" data-cat="mild">😇 Mild</button><button class="cat" data-cat="funny">😂 Funny</button>
+<button class="cat" data-cat="spicy">🌶️ Spicy</button><button class="cat" data-cat="flirty">😈 Flirty</button>
+<button class="cat" data-cat="pineapple">🍍 Pineapple</button><button class="cat" data-cat="savage">🔥 Savage</button>
+<button class="cat" data-cat="unhinged">☠️ Unhinged</button><button class="cat" data-cat="roulette">🎲 Russian Roulette</button>
+</div><button class="roastbtn" id="go">🔥 ROAST ME</button></section>
+<section class="card result" id="result"><div class="badge" id="badge"></div><h2 id="title"></h2><div class="roast" id="roast"></div><div class="actions"><button class="again" id="again">🔥 Roast Again</button><button class="copy" id="copy">📋 Copy Roast</button></div><div class="tiny">For laughs — roast the moment, not real insecurities.</div></section>
+</main><script>
+if(sessionStorage.getItem('pineappleAccess')!=='yes')location.replace('index.html');
+const banks={
+mild:[
+"{n} has the kind of luck that makes toast land butter-side down twice.",
+"{n} could get lost following a one-way sign.",
+"{n} brings a calculator to work out a 50/50 split.",
+"{n} is the reason instructions come with pictures.",
+"{n} could trip over a wireless connection.",
+"{n} has big 'I'll remember it' energy and remembers absolutely nothing.",
+"{n} would lose hide and seek in an empty room.",
+"{n} could make a five-minute job last until Tuesday.",
+"{n} has the navigation skills of a shopping trolley with one bad wheel.",
+"{n} looks both ways before crossing a Zoom call."
+],
+funny:[
+"{n} looks like they'd lose an argument with a self-checkout.",
+"{n} has the confidence of someone who's never watched themselves dance.",
+"If common sense were Wi-Fi, {n} would be permanently buffering.",
+"{n} could turn making a cup of tea into a three-part documentary.",
+"{n} has the reaction speed of Internet Explorer on hotel Wi-Fi.",
+"{n} is living proof that autocorrect can't fix everything.",
+"{n} would press 'remind me tomorrow' on a fire alarm.",
+"Some people light up a room. {n} accidentally unplugs the lamp.",
+"{n} has two speeds: too early and somehow still late.",
+"{n} could make a dramatic entrance into the wrong building."
+],
+spicy:[
+"{n} has enough attitude for three people and enough sense for half of one.",
+"{n} talks a lot of game for someone who'd lose a fight with a duvet cover.",
+"{n} has main-character energy in somebody else's episode.",
+"{n} doesn't enter a room — they arrive with unnecessary plot twists.",
+"{n}'s filter isn't broken. It was never installed.",
+"{n} could start drama in a silent retreat.",
+"{n} has the confidence of a five-star review written by themselves.",
+"{n} gives advice with the authority of someone who definitely didn't read the instructions.",
+"{n} can turn 'nothing happened' into a 40-minute story.",
+"{n} doesn't hold grudges — they lovingly maintain a complete archive."
+],
+flirty:[
+"{n} flirts like they're accepting cookies on a website — pressing everything until something works.",
+"{n}'s chat-up technique is 20% charm and 80% hoping nobody asks follow-up questions.",
+"{n} could make eye contact with a mannequin and think there was chemistry.",
+"{n} doesn't have a type. They have Wi-Fi range.",
+"{n}'s idea of subtle flirting is basically a fire alarm.",
+"{n} could turn 'hello' into something requiring a cold shower and an apology.",
+"{n} brings enough mixed signals to control airport traffic.",
+"{n}'s flirting has two settings: invisible and absolutely everybody knows.",
+"{n} falls in lust faster than their phone battery falls below 20%.",
+"{n} could find chemistry in the queue for Greggs."
+],
+pineapple:[
+"{n} joined Pineapple for the conversation. Absolutely nobody believes them.",
+"{n} opens the Pineapple chat for five minutes and resurfaces three hours later.",
+"{n} has typed 'I'm behaving tonight' in Pineapple far too many times for it to be credible.",
+"{n} treats the Pineapple group chat like a full-time job with terrible HR.",
+"{n} would survive a Pineapple scandal purely by sending the correct GIF.",
+"{n}'s Pineapple speciality is arriving after 200 messages and asking 'what did I miss?'",
+"{n} doesn't create chaos in Pineapple. Chaos simply recognises its leader.",
+"{n} has definitely muted Pineapple and then checked it every four minutes.",
+"{n} reads the Pineapple chat like it's the morning newspaper — except considerably less respectable.",
+"{n} came for the banter and stayed because leaving would require explaining themselves."
+],
+savage:[
+"{n} could start an argument in an empty room and somehow still lose.",
+"{n} has the confidence of someone who's never been corrected successfully.",
+"{n} is the human version of a reply-all email.",
+"{n} has plenty of potential. It's just doing an excellent job of hiding.",
+"{n} could disappoint a participation trophy.",
+"{n} is proof that volume and accuracy are completely unrelated.",
+"{n} has a talent for making simple things look medically complicated.",
+"{n} could be given the answer sheet and still ask for a hint.",
+"{n}'s biggest enemy is the sentence 'think before you speak.'",
+"{n} doesn't miss the point — they sprint enthusiastically past it."
+],
+unhinged:[
+"{n} looks like they'd get banned from a buffet for asking where the tasting menu is.",
+"{n} has the energy of a raccoon discovering online banking.",
+"{n} could accidentally summon a demon trying to reset the Wi-Fi router.",
+"{n} would survive the apocalypse and immediately complain there was no group chat.",
+"{n} looks like the final boss of making questionable decisions after midnight.",
+"{n} could turn a routine Tesco trip into an international incident.",
+"{n} has the decision-making skills of a pigeon inside a Greggs.",
+"{n} would absolutely press the mysterious red button just to see what happens.",
+"{n} is three bad ideas in a trench coat pretending to be an adult.",
+"{n} could be left alone with a spoon and somehow return with a court date."
+]};
+const labels={mild:'😇 MILD',funny:'😂 FUNNY',spicy:'🌶️ SPICY',flirty:'😈 FLIRTY',pineapple:'🍍 PINEAPPLE',savage:'🔥 SAVAGE',unhinged:'☠️ UNHINGED'};
+let selected='mild',last='',current='';
+document.querySelectorAll('.cat').forEach(b=>b.onclick=()=>{document.querySelectorAll('.cat').forEach(x=>x.classList.remove('on'));b.classList.add('on');selected=b.dataset.cat});
+function makeRoast(){const name=document.getElementById('name').value.trim();if(!name){document.getElementById('name').focus();document.getElementById('name').placeholder='Name required 😈';return}let cat=selected;if(cat==='roulette'){const keys=Object.keys(banks);cat=keys[Math.floor(Math.random()*keys.length)]}const pool=banks[cat];let line;do{line=pool[Math.floor(Math.random()*pool.length)]}while(pool.length>1&&line===last);last=line;current=line.replaceAll('{n}',name);document.getElementById('badge').textContent=labels[cat];document.getElementById('title').textContent=name.toUpperCase()+"'S ROAST";document.getElementById('roast').textContent='“'+current+'”';document.getElementById('result').style.display='block';document.getElementById('result').scrollIntoView({behavior:'smooth',block:'center'})}
+document.getElementById('go').onclick=makeRoast;document.getElementById('again').onclick=makeRoast;document.getElementById('name').addEventListener('keydown',e=>{if(e.key==='Enter')makeRoast()});
+document.getElementById('copy').onclick=async()=>{if(!current)return;const t='🍍🔥 PINEAPPLE ROAST 🔥🍍\n\n'+current;try{await navigator.clipboard.writeText(t);document.getElementById('copy').textContent='✅ Copied!';setTimeout(()=>document.getElementById('copy').textContent='📋 Copy Roast',1200)}catch(e){alert(t)}};
+</script></body></html>
