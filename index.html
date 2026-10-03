@@ -41,5 +41,9 @@ function openLounge(){gate.style.display='none';hub.style.display='block'}
 if(sessionStorage.getItem('pineappleAccess')==='yes')openLounge();
 document.getElementById('pinForm').addEventListener('submit',e=>{e.preventDefault();if(document.getElementById('pin').value===PIN){sessionStorage.setItem('pineappleAccess','yes');openLounge()}else{document.getElementById('error').textContent='🍍 Nope — wrong PIN. Try again.'}});
 document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappleAccess');location.reload()};
-document.querySelectorAll('#gamesGrid .game').forEach(g=>{if(g.id!=='sundayRoast')g.style.display='none'});
+// ACTIVE GAME MODE — change this value when Scott says "Run [game]".
+const ACTIVE_GAME='sundayRoast';
+document.querySelectorAll('#gamesGrid .game').forEach(g=>{
+  g.style.display=(ACTIVE_GAME==='all'||g.id===ACTIVE_GAME)?'block':'none';
+});
 </script></body></html>
