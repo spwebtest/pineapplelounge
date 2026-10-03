@@ -118,17 +118,41 @@ const labels={mild:'😇 MILD',funny:'😂 FUNNY',spicy:'🌶️ SPICY',flirty:'
 let selected='mild',last='',current='';
 document.querySelectorAll('.cat').forEach(b=>b.onclick=()=>{document.querySelectorAll('.cat').forEach(x=>x.classList.remove('on'));b.classList.add('on');selected=b.dataset.cat});
 function makeRoast(){const name=document.getElementById('name').value.trim();if(!name){document.getElementById('name').focus();document.getElementById('name').placeholder='Name required 😈';return}let cat=selected;if(cat==='roulette'){const keys=Object.keys(banks);cat=keys[Math.floor(Math.random()*keys.length)]}const pool=banks[cat];let line;do{line=pool[Math.floor(Math.random()*pool.length)]}while(pool.length>1&&line===last);last=line;current=line.replaceAll('{n}',name);
-const ammo=document.getElementById('ammo').value.trim();
+const ammo=document.getElementById('ammo').value.trim().toLowerCase();
 if(ammo){
- const extras=[
-  " And then there's the information "+name+" willingly supplied as ammunition: “"+ammo+"”. Nobody even had to investigate — they just handed the roast over gift-wrapped.",
-  " As if that wasn't enough, "+name+" actually confessed: “"+ammo+"”. That's not background information; that's evidence for the prosecution.",
-  " But the real gift is that "+name+" told us: “"+ammo+"”. Imagine volunteering that information and still expecting mercy.",
-  " And according to "+name+"'s own admission: “"+ammo+"”. At this point the roast is practically writing itself.",
-  " Then "+name+" decided to help by revealing: “"+ammo+"”. Bold move. That's less 'tell us about yourself' and more 'please use this against me.'"
+ const personal=[
+  {keys:['ginger','redhead','red hair'],lines:["The ginger hair already provides enough warning signs without needing a hazard light.","Even the hair colour arrives with its own built-in warning label."]},
+  {keys:['short','5ft','5 ft','5\'','small'],lines:["They've somehow compressed a full-sized amount of chaos into travel-size packaging.","Proof that bad decisions don't need much vertical storage space."]},
+  {keys:['dad joke','dad jokes','puns','pun'],lines:["The dad jokes are so relentless even Christmas crackers have asked for some professional distance.","Their sense of humour comes with the unmistakable sound of an entire room groaning at once."]},
+  {keys:['website','web design','wordpress','developer','coding','code'],lines:["They build websites, which is fitting because their personality also seems to be permanently in need of bug fixes.","They can troubleshoot a website for hours but real-life error messages apparently get ignored."]},
+  {keys:['factory','shift','night shift','operator'],lines:["Long shifts haven't exhausted them nearly as effectively as their own decision-making has.","They work shifts long enough to know better and still somehow clock out with fresh bad ideas."]},
+  {keys:['gym','fitness','running','run','bootcamp','workout'],lines:["All that exercise and they're still unable to outrun their own questionable choices.","They train regularly, presumably because carrying this much chaos requires decent conditioning."]},
+  {keys:['football','soccer'],lines:["Their football opinions have all the calm objectivity of someone shouting at a television.","Football isn't a hobby for them; it's apparently permission to become an unpaid tactical expert."]},
+  {keys:['gaming','gamer','xbox','playstation','video games'],lines:["They've spent enough time gaming to know respawning is easier than reconsidering a bad decision.","Their strongest relationship may still be with a controller that has no choice in the matter."]},
+  {keys:['camping','camper','tent'],lines:["They voluntarily sleep outdoors, as if indoor plumbing somehow wasn't persuasive enough.","Camping proves they'll pay money to temporarily recreate having no house."]},
+  {keys:['travel','travelling','holiday','holidays'],lines:["They love travelling, presumably because one postcode couldn't contain all the questionable decisions.","Their passport has witnessed more poor judgement than most group chats."]},
+  {keys:['drink','drinking','booze','pub','beer','wine','cocktail'],lines:["Add a drink and suddenly every questionable idea starts presenting itself as a brilliant plan.","Their relationship with sensible decisions gets noticeably more long-distance after a few drinks."]},
+  {keys:['dating','date','single','tinder','bumble'],lines:["Their dating history sounds less like romance and more like a beta-testing programme.","Dating for them is apparently just collecting plot twists with profile pictures."]},
+  {keys:['swinger','swingers','swinging','lifestyle','fab swingers','fabswingers'],lines:["They're in the lifestyle, because apparently one person's drama was never going to provide enough variety.","Their social calendar has more negotiations, introductions and plot twists than an international summit.","They call it 'the lifestyle' because 'advanced-level diary management with flirting' was too long."]},
+  {keys:['bdsm','kink','kinky','dominant','dom','submissive','sub','switch'],lines:["They've got a kinky side, because apparently ordinary hobbies weren't providing enough paperwork and negotiation.","Their idea of relaxation comes with more rules, boundaries and equipment than most workplace inductions.","They approach kink with the confidence of someone who's definitely read the instructions — or at least confidently claims they have."]},
+  {keys:['flogger','paddle','crop','restraints','rope','cuffs'],lines:["Their hobby cupboard sounds less like storage and more like something requiring an inventory system.","They own enough specialist kit that 'just a hobby' is becoming increasingly difficult to defend."]},
+  {keys:['admin','telegram','group chat','group','pineapple'],lines:["They run a group chat, which is basically volunteering to supervise adults who specifically don't want supervision.","Being an admin hasn't given them power so much as front-row seats to everybody else's chaos."]},
+  {keys:['shopping','buying','gadgets','gadget'],lines:["They don't impulse-buy; they conduct surprise financial experiments.","Every new gadget is apparently essential right up until the next essential gadget appears."]},
+  {keys:['sarcastic','sarcasm'],lines:["Sarcasm isn't their second language; at this point it's their emergency contact.","Their sarcasm arrives so quickly sincerity barely gets through the door."]},
+  {keys:['stubborn'],lines:["They're not stubborn — they simply remain committed to being wrong for impressively long periods.","Changing their mind requires paperwork, witnesses and probably a cooling-off period."]},
+  {keys:['late','always late'],lines:["Their relationship with punctuality is mostly theoretical.","They don't arrive late; they give everyone else extra time to appreciate their absence."]}
  ];
- current+=extras[Math.floor(Math.random()*extras.length)];
-}document.getElementById('badge').textContent=labels[cat];document.getElementById('title').textContent=name.toUpperCase()+"'S ROAST";document.getElementById('roast').textContent='“'+current+'”';document.getElementById('result').style.display='block';document.getElementById('result').scrollIntoView({behavior:'smooth',block:'center'})}
+ let matches=[];
+ personal.forEach(p=>{if(p.keys.some(k=>ammo.includes(k)))matches.push(p.lines[Math.floor(Math.random()*p.lines.length)])});
+ matches=[...new Set(matches)].sort(()=>Math.random()-.5).slice(0,3);
+ const generic=[
+  name+" has provided enough background information to confirm the chaos is not an isolated incident.",
+  "The worrying part is that the more you learn about "+name+", the more the original roast starts looking generous.",
+  name+" contains enough hobbies, habits and questionable choices to keep a roast committee employed full-time."
+ ];
+ if(matches.length===0)matches.push(generic[Math.floor(Math.random()*generic.length)]);
+ current+=" "+matches.join(" ");
+}}document.getElementById('badge').textContent=labels[cat];document.getElementById('title').textContent=name.toUpperCase()+"'S ROAST";document.getElementById('roast').textContent='“'+current+'”';document.getElementById('result').style.display='block';document.getElementById('result').scrollIntoView({behavior:'smooth',block:'center'})}
 document.getElementById('go').onclick=makeRoast;document.getElementById('again').onclick=makeRoast;document.getElementById('name').addEventListener('keydown',e=>{if(e.key==='Enter')makeRoast()});
 document.getElementById('copy').onclick=async()=>{if(!current)return;const t='🍍🔥 PINEAPPLE ROAST 🔥🍍\n\n'+current;try{await navigator.clipboard.writeText(t);document.getElementById('copy').textContent='✅ Copied!';setTimeout(()=>document.getElementById('copy').textContent='📋 Copy Roast',1200)}catch(e){alert(t)}};
 </script></body></html>
