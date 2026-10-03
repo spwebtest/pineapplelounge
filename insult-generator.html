@@ -152,7 +152,7 @@ if(ammo){
  ];
  if(matches.length===0)matches.push(generic[Math.floor(Math.random()*generic.length)]);
  current+=" "+matches.join(" ");
-}}document.getElementById('badge').textContent=labels[cat];document.getElementById('title').textContent=name.toUpperCase()+"'S ROAST";document.getElementById('roast').textContent='“'+current+'”';document.getElementById('result').style.display='block';document.getElementById('result').scrollIntoView({behavior:'smooth',block:'center'})}
+}document.getElementById('badge').textContent=labels[cat];document.getElementById('title').textContent=name.toUpperCase()+"'S ROAST";document.getElementById('roast').textContent='“'+current+'”';document.getElementById('result').style.display='block';document.getElementById('result').scrollIntoView({behavior:'smooth',block:'center'})}
 document.getElementById('go').onclick=makeRoast;document.getElementById('again').onclick=makeRoast;document.getElementById('name').addEventListener('keydown',e=>{if(e.key==='Enter')makeRoast()});
 document.getElementById('copy').onclick=async()=>{if(!current)return;const t='🍍🔥 PINEAPPLE ROAST 🔥🍍\n\n'+current;try{await navigator.clipboard.writeText(t);document.getElementById('copy').textContent='✅ Copied!';setTimeout(()=>document.getElementById('copy').textContent='📋 Copy Roast',1200)}catch(e){alert(t)}};
 </script></body></html>
