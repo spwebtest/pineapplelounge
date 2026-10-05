@@ -49,7 +49,7 @@ if(sessionStorage.getItem('pineappleAccess')==='yes')openLounge();
 document.getElementById('pinForm').addEventListener('submit',e=>{e.preventDefault();if(document.getElementById('pin').value===PIN){sessionStorage.setItem('pineappleAccess','yes');openLounge()}else{document.getElementById('error').textContent='🍍 Nope — wrong PIN. Try again.'}});
 document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappleAccess');location.reload()};
 // ACTIVE GAME MODE — change this value when Scott says "Run [game]".
-const ACTIVE_GAME='pineappleWheel';
+const ACTIVE_GAME='all';
 document.querySelectorAll('#gamesGrid .game').forEach(g=>{
   g.style.display=(ACTIVE_GAME==='all'||g.id===ACTIVE_GAME)?'block':'none';
 });
