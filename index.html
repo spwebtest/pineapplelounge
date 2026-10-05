@@ -45,7 +45,7 @@ button,.game{border:0;border-radius:14px;padding:15px 20px;font-weight:800;curso
 const PIN='7319'; // Change this value whenever you want a new 4-digit PIN.
 const gate=document.getElementById('gate'),hub=document.getElementById('hub');
 function openLounge(){gate.style.display='none';hub.style.display='block'}
-if(sessionStorage.getItem('pineappleAccess')==='yes')openLounge();
+openLounge();
 document.getElementById('pinForm').addEventListener('submit',e=>{e.preventDefault();if(document.getElementById('pin').value===PIN){sessionStorage.setItem('pineappleAccess','yes');openLounge()}else{document.getElementById('error').textContent='🍍 Nope — wrong PIN. Try again.'}});
 document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappleAccess');location.reload()};
 // ACTIVE GAME MODE — change this value when Scott says "Run [game]".
