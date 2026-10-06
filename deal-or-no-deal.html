@@ -11,7 +11,7 @@
 <div id="ending" class="controls"></div><p class="tiny">Pineapple Lounge edition • Values are shuffled for every new game.</p>
 </div>
 <script>
-if(sessionStorage.getItem('pineappleAccess')!=='yes') location.replace('index.html');
+
 const values=[1,10,50,100,250,500,750,1000,3000,5000,10000,15000,20000,35000,50000,75000,100000,150000,200000,250000,500000,1000000];
 const rounds=[5,3,3,3,3,2,1,1];let boxValues={},chosen=null,opened=[],round=0,toOpen=rounds[0],gameOver=false,offerNow=0;
 const fmt=n=>'£'+n.toLocaleString('en-GB');
