@@ -20,36 +20,48 @@ const choices=$('horseChoices');
 horseRoster.forEach((name,i)=>{let label=document.createElement('label'),input=document.createElement('input');input.type='checkbox';input.value=name;input.checked=true;label.append(input,document.createTextNode(name));choices.append(label)});
 $('allHorses').onclick=()=>choices.querySelectorAll('input').forEach(x=>x.checked=true);
 $('clearHorses').onclick=()=>choices.querySelectorAll('input').forEach(x=>x.checked=false);
-let audioCtx=null,hoofTimer=null,masterGain=null;
-function audioReady(){
+// Real WAV audio played through HTMLAudioElement (iOS media playback).
+const sounds={};let hoofTimer=null,hoofAudio=null;
+function makeWav(notes,duration){
+ const rate=22050,count=Math.floor(duration*rate),pcm=new Int16Array(count);
+ for(let i=0;i<count;i++){
+  let t=i/rate,v=0;
+  for(const n of notes){let dt=t-n.at;if(dt>=0&&dt<n.len){let env=Math.pow(Math.max(0,1-dt/n.len),n.decay||1.6);v+=Math.sin(2*Math.PI*n.freq*dt)*env*n.vol;}}
+  pcm[i]=Math.max(-32767,Math.min(32767,Math.round(v*32767)));
+ }
+ const buf=new ArrayBuffer(44+pcm.byteLength),d=new DataView(buf);
+ const str=(offset,value)=>{for(let i=0;i<value.length;i++)d.setUint8(offset+i,value.charCodeAt(i))};
+ str(0,'RIFF');d.setUint32(4,36+pcm.byteLength,true);str(8,'WAVE');str(12,'fmt ');d.setUint32(16,16,true);d.setUint16(20,1,true);d.setUint16(22,1,true);d.setUint32(24,rate,true);d.setUint32(28,rate*2,true);d.setUint16(32,2,true);d.setUint16(34,16,true);str(36,'data');d.setUint32(40,pcm.byteLength,true);
+ new Int16Array(buf,44).set(pcm);
+ return URL.createObjectURL(new Blob([buf],{type:'audio/wav'}))
+}
+function prepareSounds(){
+ if(sounds.bell)return;
+ sounds.bell=makeWav([{at:0,len:.8,freq:880,vol:.42},{at:0,len:.9,freq:1320,vol:.19},{at:0,len:.8,freq:1760,vol:.12}],1.05);
+ sounds.hoof=makeWav([{at:0,len:.11,freq:110,vol:.6},{at:.14,len:.1,freq:125,vol:.55},{at:.30,len:.11,freq:105,vol:.6},{at:.45,len:.1,freq:135,vol:.55}],.62);
+ sounds.fanfare=makeWav([523,659,784,1047].flatMap((freq,i)=>[{at:i*.22,len:.3,freq,vol:.32},{at:i*.22,len:.3,freq:freq/2,vol:.15}]),1.3);
+}
+function soundPlayer(kind,loop=false){
+ prepareSounds();
+ const audio=new Audio(sounds[kind]);audio.preload='auto';audio.volume=1;audio.loop=loop;
+ return audio
+}
+async function playSound(kind){
  if(!$('soundEnabled').checked)return false;
- try{
-  if(!audioCtx){const C=window.AudioContext||window.webkitAudioContext;if(!C)throw Error('Audio not supported');audioCtx=new C();masterGain=audioCtx.createGain();masterGain.gain.value=.8;masterGain.connect(audioCtx.destination)}
-  if(audioCtx.state!=='running')audioCtx.resume().catch(()=>{$('audioStatus').textContent='⚠️ Browser has blocked audio playback.'});
-  return true
- }catch(e){$('audioStatus').textContent='⚠️ Audio unavailable in this browser.';return false}
+ try{const a=soundPlayer(kind);await a.play();return true}
+ catch(e){$('audioStatus').textContent='⚠️ Audio blocked: '+e.name+'. Try tapping Test sound again.';return false}
 }
-function tone(freq,at,length,volume=.12,type='sine'){
- if(!audioCtx)return;
- let osc=audioCtx.createOscillator(),gain=audioCtx.createGain();
- osc.type=type;osc.frequency.setValueAtTime(freq,at);
- gain.gain.setValueAtTime(.0001,at);
- gain.gain.exponentialRampToValueAtTime(Math.max(.0002,volume),at+.015);
- gain.gain.exponentialRampToValueAtTime(.0001,at+length);
- osc.connect(gain).connect(masterGain);osc.start(at);osc.stop(at+length+.03)
-}
-function bell(){if(!audioReady())return;let t=audioCtx.currentTime+.03;[880,1320,1760].forEach((f,i)=>tone(f,t,.9,.16/(i+1)))}
-function hoof(){if(!audioCtx||audioCtx.state!=='running'||!$('soundEnabled').checked)return;let t=audioCtx.currentTime+.02;for(let i=0;i<2;i++){tone(120+i*30,t+i*.12,.09,.18,'triangle');tone(65+i*15,t+i*.12,.07,.08,'sawtooth')}}
-function startHooves(){stopHooves();if(!audioReady())return;hoof();hoofTimer=setInterval(hoof,360)}
-function stopHooves(){if(hoofTimer!==null){clearInterval(hoofTimer);hoofTimer=null}}
-function fanfare(){stopHooves();if(!audioReady())return;let t=audioCtx.currentTime+.03;[523,659,784,1047].forEach((f,i)=>{tone(f,t+i*.22,.34,.17,'triangle');tone(f/2,t+i*.22,.34,.07,'sine')})}
+function bell(){playSound('bell')}
+function startHooves(){stopHooves();if(!$('soundEnabled').checked)return;hoofAudio=soundPlayer('hoof',true);hoofAudio.volume=.7;hoofAudio.play().catch(()=>{$('audioStatus').textContent='⚠️ Hoofbeat audio could not start.'})}
+function stopHooves(){if(hoofAudio){hoofAudio.pause();hoofAudio.currentTime=0;hoofAudio=null}}
+function fanfare(){stopHooves();playSound('fanfare')}
 $('testSound').addEventListener('click',async()=>{
  $('soundEnabled').checked=true;
- if(!audioReady())return;
- try{await audioCtx.resume();if(audioCtx.state!=='running'){$('audioStatus').textContent='⚠️ Audio status: '+audioCtx.state+' — sound is not running.';return}bell();setTimeout(fanfare,950);$('audioStatus').textContent='🔊 Audio system running. If silent: turn Silent Mode off, raise media volume and check Bluetooth/AirPlay output.'}
- catch(e){$('audioStatus').textContent='⚠️ Sound blocked. Try opening in Safari and tapping Test sound.'}
+ $('audioStatus').textContent='🔊 Testing WAV audio playback...';
+ const ok=await playSound('bell');
+ if(ok){$('audioStatus').textContent='🔊 WAV audio playback started. Did you hear the bell?';setTimeout(()=>playSound('fanfare'),1100)}
 });
-$('soundEnabled').addEventListener('change',()=>{if(!$('soundEnabled').checked){stopHooves();$('audioStatus').textContent='🔇 Sound muted'}else{audioReady();if(active)startHooves()}});
+$('soundEnabled').addEventListener('change',()=>{if(!$('soundEnabled').checked){stopHooves();$('audioStatus').textContent='🔇 Sound muted'}else if(active)startHooves()});
 function randomOrder(n){let a=Array.from({length:n},(_,i)=>i);for(let i=n-1;i>0;i--){let j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
 function prepare(){cancelAnimationFrame(frame);active=false;let custom=$('names').value.split(/\n/).map(s=>s.trim()).filter(Boolean);let selected=[...choices.querySelectorAll('input:checked')].map(x=>x.value);racers=(custom.length?custom:selected).slice(0,24).map(name=>({name}));if(racers.length<2){alert('Enter at least two names');return false}let track=$('track');track.replaceChildren();racers.forEach((r,i)=>{let lane=document.createElement('div');lane.className='lane';let finish=document.createElement('div');finish.className='finish';let runner=document.createElement('div');runner.className='runner';let horse=document.createElement('span');horse.className='sprite-horse';const horseImages=['horse-brown_0.png','horse-black_0.png','horse-gray_0.png','horse-golden_0.png','horse-white_0.png'];const url='https://opengameart.org/sites/default/files/'+horseImages[i%5];horse.style.backgroundImage='url("'+url+'")';horse.style.setProperty('--sheet',url);let label=document.createElement('div');label.className='name';label.textContent=r.name;let visual=document.createElement('div');visual.className='horse-facing';visual.append(horse);runner.append(visual,label);lane.append(finish,runner);track.append(lane);r.lane=lane;r.runner=runner;r.progress=0});$('results').textContent='';$('again').hidden=true;$('edit').hidden=true;return true}
 function say(line){$('commentaryText').textContent=line}
@@ -82,6 +94,6 @@ function commentaryUpdate(elapsed,now){
  let message=pickComment(type,a,racers[second].name);if(horseJokes[a]&&commentNumber%3===0){let available=horseJokes[a].filter(x=>!usedHorseJokes.has(x));if(available.length){message=available[Math.floor(Math.random()*available.length)];usedHorseJokes.add(message)}}say(message);commentNumber++;
  lastCommentAt=now;lastLeader=lead;lastStage=stage;previousPositions=standings.map(x=>x.i);
 }
-function run(){if(!prepare())return;audioReady();stopHooves();lastCommentAt=0;lastLeader=-1;lastStage=-1;previousPositions=[];usedCommentLines.clear();usedHorseJokes.clear();lastCommentType='';commentNumber=0;say('🏇 The horses are heading to the starting gates!');$('setup').hidden=true;document.body.classList.add('racing');$('start').disabled=true;let t=3;$('count').textContent=t;let timer=setInterval(()=>{t--;if(t>0){$('count').textContent=t}else{clearInterval(timer);$('count').textContent='🏁 GO!';bell();say('🏁 AND THEY’RE OFF! The Pineapple Grand National is underway!');race()}},1000)}
+function run(){if(!prepare())return;prepareSounds();stopHooves();lastCommentAt=0;lastLeader=-1;lastStage=-1;previousPositions=[];usedCommentLines.clear();usedHorseJokes.clear();lastCommentType='';commentNumber=0;say('🏇 The horses are heading to the starting gates!');$('setup').hidden=true;document.body.classList.add('racing');$('start').disabled=true;let t=3;$('count').textContent=t;let timer=setInterval(()=>{t--;if(t>0){$('count').textContent=t}else{clearInterval(timer);$('count').textContent='🏁 GO!';bell();say('🏁 AND THEY’RE OFF! The Pineapple Grand National is underway!');race()}},1000)}
 function race(){active=true;startHooves();let duration=Number($('duration').value)*1000;let order=randomOrder(racers.length);let rank=Array(racers.length);order.forEach((id,i)=>rank[id]=i);let start=performance.now();let seed=racers.map(()=>Math.random()*100);function tick(now){if(!active)return;let elapsed=Math.min(1,(now-start)/duration);let eased=elapsed*elapsed*(3-2*elapsed);racers.forEach((r,i)=>{let target=.994-rank[i]*.008;let wobble=Math.sin(elapsed*22+seed[i])*.028*Math.sin(Math.PI*elapsed);let p=Math.max(0,Math.min(target,elapsed*.68+eased*(target-.68)+wobble));if(elapsed===1)p=target;r.progress=p;let max=r.lane.clientWidth*.91-r.runner.clientWidth; r.runner.style.transform='translateX('+Math.max(0,max*p/0.994)+'px)'});if(elapsed<1){commentaryUpdate(elapsed,now);frame=requestAnimationFrame(tick)}else{active=false;fanfare();$('count').textContent='🏁 FINISH!';say('🏆 '+racers[order[0]].name.toUpperCase()+' WINS! 🥈 '+racers[order[1]].name+' takes second'+(order[2]!==undefined?' and 🥉 '+racers[order[2]].name+' takes third!':'!'));let out=document.createElement('div');let heading=document.createElement('strong');heading.textContent='🏆 '+racers[order[0]].name+' WINS!';out.append(heading,document.createElement('br'));order.slice(0,3).forEach((id,i)=>{let row=document.createElement('div');row.textContent=['🥇 ','🥈 ','🥉 '][i]+racers[id].name;out.append(row)});$('results').replaceChildren(out);$('again').hidden=false;$('edit').hidden=false;$('start').disabled=false}}frame=requestAnimationFrame(tick)}
 $('start').addEventListener('click',run);$('again').addEventListener('click',run);$('edit').addEventListener('click',()=>{active=false;stopHooves();cancelAnimationFrame(frame);document.body.classList.remove('racing');$('setup').hidden=false;$('track').replaceChildren();$('results').textContent='';$('count').textContent='';$('again').hidden=true;$('edit').hidden=true});</script><footer style="font-size:11px;padding:14px;color:#b9c5c0">Horse sprites by bluecarrot16 — <a style="color:#f9c846" href="https://opengameart.org/content/lpc-horses">OpenGameArt (CC BY 3.0)</a></footer></body></html>
