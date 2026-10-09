@@ -25,7 +25,7 @@ function audioReady(){
  if(!$('soundEnabled').checked)return false;
  try{
   if(!audioCtx){const C=window.AudioContext||window.webkitAudioContext;if(!C)throw Error('Audio not supported');audioCtx=new C();masterGain=audioCtx.createGain();masterGain.gain.value=.8;masterGain.connect(audioCtx.destination)}
-  if(audioCtx.state!=='running')audioCtx.resume().then(()=>{$('audioStatus').textContent='🔊 Audio ready — turn up your media volume.'}).catch(()=>{$('audioStatus').textContent='⚠️ Tap Test sound to enable audio.'});
+  if(audioCtx.state!=='running')audioCtx.resume().catch(()=>{$('audioStatus').textContent='⚠️ Browser has blocked audio playback.'});
   return true
  }catch(e){$('audioStatus').textContent='⚠️ Audio unavailable in this browser.';return false}
 }
@@ -46,7 +46,7 @@ function fanfare(){stopHooves();if(!audioReady())return;let t=audioCtx.currentTi
 $('testSound').addEventListener('click',async()=>{
  $('soundEnabled').checked=true;
  if(!audioReady())return;
- try{await audioCtx.resume();bell();setTimeout(fanfare,950);$('audioStatus').textContent='🔊 Playing test bell and fanfare. Increase your iPhone media volume if needed.'}
+ try{await audioCtx.resume();if(audioCtx.state!=='running'){$('audioStatus').textContent='⚠️ Audio status: '+audioCtx.state+' — sound is not running.';return}bell();setTimeout(fanfare,950);$('audioStatus').textContent='🔊 Audio system running. If silent: turn Silent Mode off, raise media volume and check Bluetooth/AirPlay output.'}
  catch(e){$('audioStatus').textContent='⚠️ Sound blocked. Try opening in Safari and tapping Test sound.'}
 });
 $('soundEnabled').addEventListener('change',()=>{if(!$('soundEnabled').checked){stopHooves();$('audioStatus').textContent='🔇 Sound muted'}else{audioReady();if(active)startHooves()}});
