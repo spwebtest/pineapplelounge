@@ -368,6 +368,52 @@
         "full box-by-box elimination sequence",
         "earlier banker offers"
       ]
+    },
+    {
+      "id": "mystery-monday-tim-curry",
+      "game_id": "mystery-monday",
+      "label": "Tim Curry",
+      "answer": "Tim Curry",
+      "status": "identity_recorded",
+      "date": null,
+      "source_note": "Previously recorded Mystery Monday celebrity clue history; exact round date unverified"
+    },
+    {
+      "id": "mystery-monday-david-tennant",
+      "game_id": "mystery-monday",
+      "label": "David Tennant",
+      "answer": "David Tennant",
+      "status": "identity_recorded",
+      "date": null,
+      "clue": "Two hearts",
+      "source_note": "Previously recorded Mystery Monday celebrity clue history; exact round date unverified"
+    },
+    {
+      "id": "mystery-monday-helena-bonham-carter",
+      "game_id": "mystery-monday",
+      "label": "Helena Bonham Carter",
+      "answer": "Helena Bonham Carter",
+      "status": "identity_recorded",
+      "date": null,
+      "source_note": "Previously recorded Mystery Monday celebrity clue history; exact round date unverified"
+    },
+    {
+      "id": "mystery-monday-michael-keaton",
+      "game_id": "mystery-monday",
+      "label": "Michael Keaton",
+      "answer": "Michael Keaton",
+      "status": "identity_recorded",
+      "date": null,
+      "source_note": "Previously recorded Mystery Monday reveal history; exact round date unverified"
+    },
+    {
+      "id": "who-am-i-chuckle-brothers",
+      "game_id": "mystery-monday",
+      "label": "Chuckle Brothers",
+      "answer": "The Chuckle Brothers",
+      "status": "prepared_not_confirmed_played",
+      "date": null,
+      "source_note": "Square-reveal game was requested/reset; not established that round was played or solved"
     }
   ],
   "game_metadata": {
@@ -447,6 +493,10 @@
     "deal-or-no-deal": {
       "status": "two_game_endings_imported",
       "games": 2
+    },
+    "mystery-monday": {
+      "status": "four_recorded_identities_one_prepared_unconfirmed",
+      "note": "Identity records only, not a claim that every prepared game was played."
     }
   }
 }
