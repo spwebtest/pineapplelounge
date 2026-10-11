@@ -1,0 +1,71 @@
+# 🍍 PINEAPPLE MASTER GAMES LIST
+
+Full master list. Weekday games, any-day games, developing ideas, and Mystery Monday variations are kept in separate sections. Items can appear in more than one section when a specific variant exists.
+
+| Day / section | Game | What it’s about |
+|---|---|---|
+| **MONDAY** | 🕵️ Mystery Monday | Solve mysteries from clues throughout the day |
+|  | 😈 Wrong ’Un Monday | Funny mischievous choices and ridiculous responses |
+|  | 🎉 Monday Mayhem | Wheel spins, surprise challenges and mini-games |
+| **TUESDAY** | 🚂 Choo Choo Choose Tuesday | Choose between two options |
+|  | 🎵 Tunes Tuesday | Music guessing and challenges |
+|  | 📺 Telly Tuesday | TV trivia, quotes and characters |
+| **WEDNESDAY** | 🔎 Where’s Scotty Wednesday | Find Scotty hidden in a busy image |
+|  | 🛠️ Workshop Wednesday | Creative activities and member contributions |
+|  | 🃏 Wildcard Wednesday | A surprise game each week |
+|  | 🎡 Wheel of Whatever Wednesday | Spin for random games and challenges |
+| **THURSDAY** | 🎲 Throw the Dice Thursday | Roll 1–6 to choose a question or challenge |
+|  | ✨ Transform Thursday | Funny AI photo transformations |
+|  | 🤬 For F… Sake Thursday | Funny rants about everyday frustrations |
+| **FRIDAY** | 😂 Thank GIF It’s Friday | Reply to prompts using GIFs |
+|  | ☝️ One Word Friday | Answer questions in just one word |
+|  | 🏁 Finish Line Friday | Virtual races and finishing positions |
+| **SATURDAY** | 📸 Snap It Saturday | Photo challenges |
+|  | 💰 Sell It Saturday | Ridiculous sales pitches |
+|  | ⚔️ Showdown Saturday | Compete across ten popular-choice polls |
+|  | 🏇 Sweepstake Saturday | Choose racers and watch a virtual race |
+| **SUNDAY** | 🔥 Sunday Roast | Playful jokes and memes about a featured member |
+|  | 💬 Say It Sunday | Group opinions and open discussion |
+| **🍍 PLAY ANY DAY** | 💨 Pineapple Speed Chat | Fast-paced chat and quick-fire questions |
+|  | 👑 Member Takeover | A member runs questions or activities |
+|  | 🍍 Pass the Pineapple | Pass a challenge to another member |
+|  | 👨‍👩‍👧‍👦 Pineapple Fortunes | Family Fortunes-style guessing |
+|  | 🎨 Pineapple Creative | Creative captions, pictures and tasks |
+|  | 🤥 Porky Pineapple | Spot which statement is a lie |
+|  | 🧠 Pineapple Pursuit | Trivia and quiz questions |
+|  | 💬 Caption This! | Write the funniest picture caption |
+|  | 🎤 Voice Note Roulette | Random voice-note challenges |
+|  | ❓ Who Am I? | Identify a person from clues |
+|  | 🔎 Zoom In! | Guess an object from a close-up |
+|  | 🎵 Name That Tune! | Identify songs from clips or clues |
+|  | 🧩 Pineapple Puzzle | Riddles and visual puzzles |
+|  | 🎁 Lucky Dip | Random questions and challenges |
+|  | 💼 Deal or No Deal | Boxes, hidden values and Banker offers |
+|  | 🌍 Where’s Scotty? Hot or Cold | Guess a city using distance-temperature clues |
+| **💡 OTHER GAME IDEAS** | 🎡 Wheel of Misfortune | Spin for funny challenges |
+|  | 😈 Truth or Dare Roulette | Spin for truth or dare |
+|  | 🚂 Choo Choo Choose Roulette | Random two-choice questions |
+|  | 🧳 Travel Roulette | Spin for destinations |
+|  | 🎵 Name That Tune Roulette | Wheel selects a music category |
+|  | 📺 Telly Roulette | Wheel selects a TV category |
+|  | 🤥 Porky Pineapple Roulette | Wheel selects the next bluffer |
+|  | 🕵️ Mystery Wheel | Spin for a mystery type |
+|  | 😂 GIF Roulette | Wheel selects a GIF prompt |
+|  | 🎭 Impression Roulette | Wheel selects an impression |
+|  | 🗣️ Voice Note Roulette | Wheel selects a voice task |
+|  | 🏆 Wheel Knockout | Eliminate names until one remains |
+|  | 💰 Banker’s Wheel | Spin for cash values and offers |
+|  | 🎁 Mystery Prize Wheel | Spin for hidden surprises |
+|  | 👑 King/Queen for a Round | Select who controls the next round |
+|  | ⚔️ Showdown Roulette | Random head-to-head pairings |
+|  | 🔥 Hot Seat Roulette | Wheel selects a Hot Seat player |
+|  | 🤬 Sunday Roast Roulette | Spin for a funny rant topic |
+|  | 🎲 Six of the Best | Six secret challenges |
+|  | 🧳 Lost Luggage | Solve a travel suitcase mystery |
+|  | 🛂 Passport Control | Guess places from travel clues |
+| **🕵️ MYSTERY MONDAY VARIATIONS** | 👤 Mystery Member | Identify a Pineapple member |
+|  | ⭐ Mystery Celebrity | Identify a celebrity |
+|  | ❓ Who Am I? | Guess a mystery person |
+|  | 🔎 Mystery Object | Identify an object |
+|  | 📍 Mystery Location | Guess the hidden place |
+|  | 🔪 Murder Mystery | Solve a fictional crime |
