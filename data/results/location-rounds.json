@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "image_reveals": [
+    "Liverpool",
+    "Amsterdam",
+    "Milan",
+    "Dubrovnik"
+  ],
+  "hot_cold": [
+    "Split",
+    "Porto",
+    "Tallinn",
+    "Cape Town",
+    "Brisbane"
+  ],
+  "note": "Recovered target locations; winners and precise round outcomes still require verification."
+}
