@@ -43,6 +43,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Thong Thursday** — Cheeky underwear or outfit details
 - **Throwback Thursday** — An old photo or favourite memory
 - **Top or Bottom Thursday** — Choose between two outfits, looks or preferences
+- **Tartan Thursday** — Show off tartan, kilts, Scottish outfits or accessories (promotional artwork shown in Telegram screenshot)
+- **Bootylicious Thursday** — Cheeky bum-focused poses, outfits or dance moves (promotional artwork shown in Telegram screenshot)
+- **Tight Fit Thursday** — Snug-fitting clothes, body-hugging outfits or confident looks (promotional artwork shown in Telegram screenshot)
 ### Friday
 
 - **Face Pic Friday** — Selfies and face photos
