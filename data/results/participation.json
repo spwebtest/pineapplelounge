@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "game_id": "saturday-showdown",
+  "weeks": [
+    "showdown-week-1",
+    "showdown-week-2",
+    "showdown-week-3"
+  ],
+  "rules": {
+    "participated": "At least one confirmed vote in that week",
+    "polls_answered": "Count of distinct polls with confirmed votes",
+    "points": "Count of votes for majority answer",
+    "accuracy": "points divided by polls_answered; null if zero or unverified",
+    "absence": "Only mark absent if complete voter coverage has been checked",
+    "unverified": "null, not false or zero"
+  },
+  "players": [
+    {
+      "name": "Alex",
+      "weeks": {
+        "showdown-week-1": {
+          "participated": null,
+          "polls_answered": null,
+          "points": null
+        },
+        "showdown-week-2": {
+          "participated": true,
+          "polls_answered": null,
+          "points": null
+        },
+        "showdown-week-3": {
+          "participated": true,
+          "polls_answered": null,
+          "points": null
+        }
+      },
+      "cumulative_points_reported": 25
+    },
+    {
+      "name": "Kar",
+      "weeks": {
+        "showdown-week-1": {
+          "participated": true,
+          "polls_answered": null,
+          "points": null
+        },
+        "showdown-week-2": {
+          "participated": true,
+          "polls_answered": null,
+          "points": null
+        },
+        "showdown-week-3": {
+          "participated": null,
+          "polls_answered": null,
+          "points": null
+        }
+      },
+      "cumulative_points_reported": 22
+    },
+    {
+      "name": "Coral",
+      "weeks": {
+        "showdown-week-1": {
+          "participated": true,
+          "polls_answered": null,
+          "points": null
+        },
+        "showdown-week-2": {
+          "participated": true,
+          "polls_answered": null,
+          "points": null
+        },
+        "showdown-week-3": {
+          "participated": null,
+          "polls_answered": null,
+          "points": null
+        }
+      },
+      "cumulative_points_reported": 20
+    }
+  ],
+  "note": "Initial participation facts from winner lists and visible Week 1 screenshot names. A player can appear in only some weeks; do not interpret missing screenshots as absence. This is not yet a complete roster."
+}
