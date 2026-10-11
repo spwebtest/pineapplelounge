@@ -332,6 +332,42 @@
       "missing": [
         "complete finish order beyond podium"
       ]
+    },
+    {
+      "id": "deal-or-no-deal-game-1",
+      "game_id": "deal-or-no-deal",
+      "label": "Game 1",
+      "date": "2026-09-29",
+      "status": "partial",
+      "original_box": 8,
+      "final_box": 17,
+      "final_box_value_gbp": 50000,
+      "other_final_box": 8,
+      "other_final_box_value_gbp": 750,
+      "final_banker_offer_gbp": 21000,
+      "outcome": "switched from original box 8 to box 17",
+      "missing": [
+        "full box-by-box elimination sequence",
+        "earlier banker offers"
+      ]
+    },
+    {
+      "id": "deal-or-no-deal-game-2",
+      "game_id": "deal-or-no-deal",
+      "label": "Game 2",
+      "date": "2026-10-06",
+      "status": "partial",
+      "original_box": 17,
+      "final_box": 15,
+      "final_box_value_gbp": 5000,
+      "other_final_box": 17,
+      "other_final_box_value_gbp": 125000,
+      "final_banker_offer_gbp": 55000,
+      "outcome": "selected box 15 at the end",
+      "missing": [
+        "full box-by-box elimination sequence",
+        "earlier banker offers"
+      ]
     }
   ],
   "game_metadata": {
@@ -407,6 +443,10 @@
   },
   "other_games": {
     "status": "awaiting_reconciliation",
-    "note": "Deal or No Deal, location guessing, and Mystery Monday have partial conversational histories but no verified comprehensive score records yet."
+    "note": "Deal or No Deal, location guessing, and Mystery Monday have partial conversational histories but no verified comprehensive score records yet.",
+    "deal-or-no-deal": {
+      "status": "two_game_endings_imported",
+      "games": 2
+    }
   }
 }
