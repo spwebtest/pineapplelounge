@@ -36,6 +36,13 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Thighs & Angles Thursday** — Creative leg poses and camera angles
 - **Angles Thursday** — Experiment with camera angles
 
+- **Thighs Thursday** — Leg-focused photos or favourite poses
+- **Ties Thursday** — Neckties, bow ties or tied-up fashion looks
+- **Toys Thursday** — Favourite gadgets, collectibles or playful props
+- **Taste Thursday** — Favourite foods, drinks or tempting treats
+- **Thong Thursday** — Cheeky underwear or outfit details
+- **Throwback Thursday** — An old photo or favourite memory
+- **Top or Bottom Thursday** — Choose between two outfits, looks or preferences
 ### Friday
 
 - **Face Pic Friday** — Selfies and face photos
@@ -106,6 +113,15 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 ---
 
 ## 🔞 NSFW themes
+
+### Thursday
+
+- **Between the Thighs Thursday** — Adults-only intimate-themed photo prompt
+- **Extreme Toys Thursday** — Adult toys and kink-related discussions
+- **Thrust Thursday** — Adults-only action-themed prompt
+- **Thirsty Thursday – NSFW** — An adults-only version of Thirsty Thursday
+- **Top or Bottom Thursday – NSFW** — Discuss consensual adult preferences
+- **Threesome Thursday** — Consensual group-play-themed discussions or photos
 
 ### Friday
 
