@@ -77,6 +77,11 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ## 🔞 NSFW themes
 
+### Saturday
+
+- **Spank Me Saturday** — A consensual, cheeky spanking-themed adults-only photo prompt
+- **Speccsy Saturday** — A flirty, adults-only glasses and specs-themed photo prompt
+
 ### Sunday
 
 - **Sloppy Sunday** — A cheeky, messy-themed adults-only photo prompt
