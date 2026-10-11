@@ -100,6 +100,10 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ## 🔞 NSFW themes
 
+### Friday
+
+- **Flash Friday** — A cheeky, adults-only flashing-themed photo prompt
+
 ### Saturday
 
 - **Spank Me Saturday** — A consensual, cheeky spanking-themed adults-only photo prompt
