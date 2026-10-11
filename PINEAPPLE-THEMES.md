@@ -12,6 +12,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Moody Monday** — Moody or atmospheric pictures
 - **Mono Mesh & Minimal** — Monochrome, mesh and minimalist looks
 
+- **Black Monday** — Wear black or share a black-themed photo
+- **White Monday** — White outfits, accessories or white-themed photos
+- **Ink & Shadows Monday** — Show off tattoos or experiment with shadow photography
 ### Tuesday
 
 - **Tits Out Tuesday** — Cheeky, body-positive photo theme
@@ -126,6 +129,12 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 ---
 
 ## 🔞 NSFW themes
+
+### Monday
+
+- **Meaty Monday** — Cheeky adults-only body-focused photo theme
+- **Mouthy Monday** — Adults-only oral-themed prompt
+- **Morning Wood Monday** — Adults-only morning-themed male photo prompt
 
 ### Tuesday
 
