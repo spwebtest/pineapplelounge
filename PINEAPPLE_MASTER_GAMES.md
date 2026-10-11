@@ -96,6 +96,17 @@ Full master list. Weekday games, any-day games, developing ideas, and Mystery Mo
 | SUNDAY | 🤥 Spot the Lie Sunday | Two truths and one lie |
 | SUNDAY | 🧠 Sunday Brain Fry | Tricky visual puzzles and riddles |
 | SUNDAY | 🔗 Sunday Connections | Find the link between clues |
+| **🧩 PICTURE PUZZLE SUGGESTIONS** | 🧩 Teaser Tuesday | Confirmed game: mixed picture clues for TV, films, songs, sayings and celebrities |
+| MONDAY | 🔗 Missing Link Monday | Find connections between pictures |
+| TUESDAY | 🖼️ Two Clues Tuesday | Combine two picture clues to identify an answer |
+| WEDNESDAY | 🔗 What's the Link Wednesday? | Celebrity connections and mystery links |
+| WEDNESDAY | 🔤 Wordplay Wednesday | Dingbats, rebuses and cryptic phrases |
+| THURSDAY | 🧠 Think It Thursday | Brain teasers and visual riddles |
+| FRIDAY | 🧩 Figure It Out Friday | Mixed picture puzzles and cryptic clues |
+| FRIDAY | 🖐️ Friday Five | Five different puzzles on one poster |
+| SATURDAY | 🧩 Solve It Saturday | Picture puzzle challenge |
+| SUNDAY | 🧠 Sunday Brain Fry | Tricky visual puzzles and riddles |
+| SUNDAY | 🔗 Sunday Connections | Find the link between different clues |
 | **🕵️ MYSTERY MONDAY VARIATIONS** | 🟦 Square Reveal | Uncover a picture one square at a time |
 |  | 🔎 Clue Reveal | Give progressively easier clues to identify the answer |
 |  | 👤 Mystery Member | Identify a Pineapple member |
