@@ -38,7 +38,7 @@ button,.game{border:0;border-radius:14px;padding:15px 20px;font-weight:800;curso
 <a class="game ready" id="wheresScotty" href="wheres-scotty.html?v=20b"><span>🕵️</span>Where's Scotty?<small>20-square live location challenge</small></a>
 <div class="game"><span>🧳</span>Lost Luggage<small>Coming soon</small></div>
 <a class="game ready" href="roll-the-dice.html"><span>🎲</span>Roll the Dice<small>Roll a random number from 1–6</small></a>
-<div class="game"><span>⚔️</span>Showdown<small>Coming soon</small></div>
+<a class="game ready" id="scoresTallies" href="scores-and-tallies.html"><span>🏆</span>Scores &amp; Tallies<small>Historical game leaderboards and results</small></a>\n<div class="game"><span>⚔️</span>Showdown<small>Coming soon</small></div>
 <a class="game ready" id="sundayRoast" href="insult-generator.html"><span>🔥🍍</span>Sunday Roast<small>Enter your name, choose your roast level & face the consequences</small></a>
 <a class="game ready" id="whoAmI" href="who-am-i.html"><span>👤</span>Who Am I?<small>Guess the celebrity as the squares disappear</small></a></div></div><div class="note">Unlisted community site • Search indexing disabled</div>
 </section></main>
@@ -52,6 +52,6 @@ document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappl
 // ACTIVE GAME MODE — change this value when Scott says "Run [game]".
 const ACTIVE_GAME='horseRace';
 document.querySelectorAll('#gamesGrid .game').forEach(g=>{
-  g.style.display=(ACTIVE_GAME==='all'||g.id===ACTIVE_GAME)?'block':'none';
+  g.style.display=(ACTIVE_GAME==='all'||g.id===ACTIVE_GAME||g.id==='scoresTallies')?'block':'none';
 });
 </script></body></html>
