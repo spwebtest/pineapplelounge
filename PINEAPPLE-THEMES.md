@@ -35,6 +35,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Workout Wednesday** — Fitness, exercise or activewear photos
 - **Wellbeing Wednesday** — Self-care, relaxation and feeling good
 - **Wear It Wednesday** — Wear your favourite colour and share a photo of your look
+- **Kiss and Wink Wednesday** — Share a playful kissy-face or winking selfie
 ### Thursday
 
 - **Thirsty Thursday** — Flirty pictures
