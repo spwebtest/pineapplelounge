@@ -69,6 +69,15 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ---
 
+## 🔞 NSFW themes
+
+### Sunday
+
+- **Sloppy Sunday** — A cheeky, messy-themed adults-only photo prompt
+- **Spanking Sunday** — A consensual spanking-themed adults-only photo prompt
+
+---
+
 ## 🎄 Seasonal themes — Christmas & winter
 
 These stay separate from the regular weekday themes.
