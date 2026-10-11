@@ -83,6 +83,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 - **Spank Me Saturday** — A consensual, cheeky spanking-themed adults-only photo prompt
 - **Speccsy Saturday** — A flirty, adults-only glasses and specs-themed photo prompt
+- **Self Love Saturday** — Solo self-pleasure and body-positive adult theme
+- **Spread Them Saturday** — A daring, adults-only pose theme
+- **Saturday Swaps** — Consensual partner-swap themed photos or stories
 
 ### Sunday
 
