@@ -4,12 +4,13 @@ Full master list. Weekday games, any-day games, developing ideas, and Mystery Mo
 
 | Day / section | Game | What it’s about |
 |---|---|---|
-| **MONDAY** | 🕵️ Mystery Monday | Solve mysteries from clues throughout the day |
+| **MONDAY** | 🕵️ Mystery Monday | Alternate picture-square reveals and progressive clue reveals; occasional fictional detective mystery special |
 |  | 😈 Wrong ’Un Monday | Funny mischievous choices and ridiculous responses |
 |  | 🎉 Monday Mayhem | Wheel spins, surprise challenges and mini-games |
 | **TUESDAY** | 🚂 Choo Choo Choose Tuesday | Choose between two options |
 |  | 🎵 Tunes Tuesday | Music guessing and challenges |
-|  | 📺 Telly Tuesday | TV trivia, quotes and characters |
+|  | 🧩 Teaser Tuesday | Mixed picture puzzles for films, TV, music, sayings, celebrities and general knowledge |
+|  | 📺 Telly Tuesday | Games inspired by TV game shows, using polls, short answers and group challenges |
 | **WEDNESDAY** | 🔎 Where’s Scotty Wednesday | Find Scotty hidden in a busy image |
 |  | 🛠️ Workshop Wednesday | Creative activities and member contributions |
 |  | 🃏 Wildcard Wednesday | A surprise game each week |
@@ -63,9 +64,11 @@ Full master list. Weekday games, any-day games, developing ideas, and Mystery Mo
 |  | 🎲 Six of the Best | Six secret challenges |
 |  | 🧳 Lost Luggage | Solve a travel suitcase mystery |
 |  | 🛂 Passport Control | Guess places from travel clues |
-| **🕵️ MYSTERY MONDAY VARIATIONS** | 👤 Mystery Member | Identify a Pineapple member |
+| **🕵️ MYSTERY MONDAY VARIATIONS** | 🟦 Square Reveal | Uncover a picture one square at a time |
+|  | 🔎 Clue Reveal | Give progressively easier clues to identify the answer |
+|  | 👤 Mystery Member | Identify a Pineapple member |
 |  | ⭐ Mystery Celebrity | Identify a celebrity |
 |  | ❓ Who Am I? | Guess a mystery person |
 |  | 🔎 Mystery Object | Identify an object |
 |  | 📍 Mystery Location | Guess the hidden place |
-|  | 🔪 Murder Mystery | Solve a fictional crime |
+|  | 🔪 Murder Mystery | Special fictional whodunnit featuring group members as characters |
