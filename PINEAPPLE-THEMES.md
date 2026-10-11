@@ -196,39 +196,71 @@ These stay separate from the regular weekday themes.
 
 - **Monday White Out**
 - **Mistletoe Monday**
+- **Winter White Out**
+- **Holiday Hues**
+- **Merry and Bright**
 
 ### Tuesday
 
 - **Jingle Bell Boobs**
 - **Tits and Tinsel**
 - **Tits and Tartan**
+- **Tits and Tease**
+- **Tits and Baubles**
+- **Tuesday Wobble Theme**
 
 ### Wednesday
 
 - **Unwrap Me Wednesday**
 - **Winter Wear**
+- **Candy Wednesday**
+- **Christmas Eve Candlelight**
+- **New Year's Eve**
 
 ### Thursday
 
 - **Tree Top Thursday**
 - **Thursday Baubles**
+- **Festive Thirst**
+- **Xmas Day**
+- **Happy Nudes Year**
 
 ### Friday
 
 - **Black Friday**
 - **Festive Party Friday**
+- **Fuzzy or Funky Socks**
+- **Boxing Day**
 
 ### Saturday
 
 - **Stockings Filler**
 - **Santa's Naughty List**
 - **Showcase**
+- **SilenyNit**
+- **Sugarplum**
 
 ### Sunday
 
 - **S-Elfie**
 - **Naughty or Nice**
 - **Silent Night**
+
+---
+
+- **S-elfie Sunday**
+- **Twinkle Twinkle Like a Star**
+- **Self Care Sunday**
+
+### 📅 December 2025 calendar reference
+
+These dates are from the previous Christmas schedule, not a proposed 2026 calendar.
+
+- **1–7 Dec:** Winter White Out; Tits and Tease; Candy Wednesday; Festive Thirst; Fuzzy or Funky Socks; SilenyNit; S-elfie Sunday
+- **8–14 Dec:** Holiday Hues; Tits and Baubles; Unwrap Me Wednesday; Tree Top Thursday; Black Friday; Stockings Filler; Santa’s Naughty List
+- **15–21 Dec:** Mistletoe Monday; Jingle Bell Boobs; Winter Wear; Thursday 18th undecided; Festive Party Friday; Sugarplum; Twinkle Twinkle Like a Star
+- **22–28 Dec:** Merry and Bright; Tuesday Wobble Theme; Christmas Eve Candlelight; Xmas Day; Boxing Day; Showcase; Self Care Sunday
+- **29 Dec–1 Jan:** Mono Monday; Tits and Tartan; New Year’s Eve; Happy Nudes Year
 
 ---
 
