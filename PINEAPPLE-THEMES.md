@@ -50,6 +50,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Showtime Saturday** — Show off a favourite look
 - **Style Saturday** — Outfits and personal style
 
+- **SHATURDAY** — A silly, chaotic or hilariously disastrous Saturday photo
+- **Sporty Saturday** — Show your sporty side, activewear or favourite activity
+- **Sell Yourself Saturday** — Share a photo and a fun pitch about why you're a catch
 ### Sunday
 
 - **Slow Mo Sunday** — Share a fun slow-motion video or clip
