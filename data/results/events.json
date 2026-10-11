@@ -1,53 +1,412 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "last_reconciled": "2026-10-11",
+  "provenance": "Recovered from earlier Pineapple conversations; Telegram raw poll exports not yet audited",
   "events": [
     {
       "id": "showdown-week-1",
       "game_id": "saturday-showdown",
       "label": "Week 1",
       "status": "partial",
-      "results": [
+      "winning_answers": [
+        "Batman",
+        "Star Wars",
+        "Chinese",
+        "Beach Holiday",
+        "90s",
+        "Edinburgh",
+        "Yuk",
+        "Crisps",
+        "Football",
+        "Summer"
+      ],
+      "known_winning_percentages": {
+        "90s": 54,
+        "Edinburgh": 51,
+        "Yuk": 61,
+        "Crisps": 51,
+        "Football": 63,
+        "Summer": 63
+      },
+      "winners": [
         {
-          "participant": "@hawitslisa",
-          "award": "official winner",
-          "verification": "reported"
+          "name": "@hawitslisa",
+          "type": "official"
         },
         {
-          "participant": "Caz",
-          "award": "unofficial winner",
-          "verification": "reported"
+          "name": "Caz",
+          "type": "unofficial"
         }
       ],
       "missing": [
-        "full poll results",
-        "individual player scores"
+        "complete individual scorecard",
+        "vote totals for each poll",
+        "percentages for questions 1–4"
       ]
     },
     {
-      "id": "horse-racing-finale",
-      "game_id": "horse-racing",
-      "label": "Grand finale",
+      "id": "showdown-week-2",
+      "game_id": "saturday-showdown",
+      "label": "Week 2",
       "status": "partial",
-      "results": [
+      "winning_score": "9/10",
+      "joint_winners": [
+        "Alex",
+        "Billy ⭐",
+        "Coral",
+        "Jasmine 😈⛓️",
+        "Kar",
+        "Kirsten",
+        "Scotty Middy"
+      ],
+      "missing": [
+        "winning poll answers",
+        "vote counts",
+        "full player-by-player scores"
+      ]
+    },
+    {
+      "id": "showdown-week-3",
+      "game_id": "saturday-showdown",
+      "label": "Week 3",
+      "status": "partial",
+      "winning_score": "9/10",
+      "joint_winners": [
+        "A H",
+        "Alex",
+        "Don"
+      ],
+      "polls": [
         {
-          "participant": "Neigh Chance",
-          "position": 1
+          "number": 1,
+          "winning_answer": "Dinner",
+          "winning_percentage": 81,
+          "reported_votes": 37,
+          "question_text": null
         },
         {
-          "participant": "Hung Like a Donkey",
-          "position": 2
+          "number": 2,
+          "winning_answer": "McDonald’s",
+          "winning_percentage": 65,
+          "reported_votes": 37,
+          "question_text": null
         },
         {
-          "participant": "Only Fool and Horsey",
-          "position": 3
+          "number": 3,
+          "winning_answer": "Music gigs",
+          "winning_percentage": 86,
+          "reported_votes": 37,
+          "question_text": null
+        },
+        {
+          "number": 4,
+          "winning_answer": "Boxing",
+          "winning_percentage": 53,
+          "reported_votes": 34,
+          "question_text": null
+        },
+        {
+          "number": 5,
+          "winning_answer": "Science",
+          "winning_percentage": 63,
+          "reported_votes": 35,
+          "question_text": null
+        },
+        {
+          "number": 6,
+          "winning_answer": "Mashed potatoes",
+          "winning_percentage": 84,
+          "reported_votes": 37,
+          "question_text": null
+        },
+        {
+          "number": 7,
+          "winning_answer": "Comedy",
+          "winning_percentage": 68,
+          "reported_votes": 37,
+          "question_text": null
+        },
+        {
+          "number": 8,
+          "winning_answer": "Home",
+          "winning_percentage": 51,
+          "reported_votes": 37,
+          "question_text": null
+        },
+        {
+          "number": 9,
+          "winning_answer": "Satin",
+          "winning_percentage": 84,
+          "reported_votes": 37,
+          "question_text": null
+        },
+        {
+          "number": 10,
+          "winning_answer": "Disney",
+          "winning_percentage": 58,
+          "reported_votes": 36,
+          "question_text": null
         }
       ],
       "missing": [
-        "race date",
-        "full field",
-        "all other race standings"
+        "full player-by-player scores",
+        "original question texts",
+        "precise losing option vote counts"
+      ]
+    },
+    {
+      "id": "horse-race-1",
+      "game_id": "horse-racing",
+      "label": "Race 1",
+      "status": "podium_verified",
+      "date": "2026-10-09",
+      "podium": [
+        {
+          "name": "Hung Like a Donkey",
+          "position": 1,
+          "points": 5
+        },
+        {
+          "name": "Midnight Rouge",
+          "position": 2,
+          "points": 3
+        },
+        {
+          "name": "Dog Food Tomorrow",
+          "position": 3,
+          "points": 1
+        }
+      ],
+      "eliminated_after_race": [],
+      "missing": [
+        "complete finish order beyond podium"
+      ]
+    },
+    {
+      "id": "horse-race-2",
+      "game_id": "horse-racing",
+      "label": "Race 2",
+      "status": "podium_verified",
+      "date": "2026-10-09",
+      "podium": [
+        {
+          "name": "Who's Horse Is That",
+          "position": 1,
+          "points": 5
+        },
+        {
+          "name": "Only Fool and Horsey",
+          "position": 2,
+          "points": 3
+        },
+        {
+          "name": "Neigh Chance",
+          "position": 3,
+          "points": 1
+        }
+      ],
+      "eliminated_after_race": [],
+      "missing": [
+        "complete finish order beyond podium"
+      ]
+    },
+    {
+      "id": "horse-race-3",
+      "game_id": "horse-racing",
+      "label": "Race 3",
+      "status": "podium_verified",
+      "date": "2026-10-09",
+      "podium": [
+        {
+          "name": "Neigh Chance",
+          "position": 1,
+          "points": 5
+        },
+        {
+          "name": "Hung Like a Donkey",
+          "position": 2,
+          "points": 3
+        },
+        {
+          "name": "Who's Horse Is That",
+          "position": 3,
+          "points": 1
+        }
+      ],
+      "eliminated_after_race": [
+        "Glue Factory Gal",
+        "Giddy Up Pony",
+        "Smack the Pony",
+        "Fifty Shades of Hay"
+      ],
+      "missing": [
+        "complete finish order beyond podium"
+      ]
+    },
+    {
+      "id": "horse-race-4",
+      "game_id": "horse-racing",
+      "label": "Race 4",
+      "status": "podium_verified",
+      "date": "2026-10-09",
+      "podium": [
+        {
+          "name": "Only Fool and Horsey",
+          "position": 1,
+          "points": 5
+        },
+        {
+          "name": "Midnight Rouge",
+          "position": 2,
+          "points": 3
+        },
+        {
+          "name": "Soggy Biscuit",
+          "position": 3,
+          "points": 1
+        }
+      ],
+      "eliminated_after_race": [
+        "My Little Pony",
+        "Dog Food Tomorrow"
+      ],
+      "missing": [
+        "complete finish order beyond podium"
+      ]
+    },
+    {
+      "id": "horse-race-5",
+      "game_id": "horse-racing",
+      "label": "Race 5",
+      "status": "podium_verified",
+      "date": "2026-10-09",
+      "podium": [
+        {
+          "name": "Neigh Chance",
+          "position": 1,
+          "points": 5
+        },
+        {
+          "name": "Who's Horse Is That",
+          "position": 2,
+          "points": 3
+        },
+        {
+          "name": "Only Fool and Horsey",
+          "position": 3,
+          "points": 1
+        }
+      ],
+      "eliminated_after_race": [
+        "Soggy Biscuit",
+        "Midnight Rouge"
+      ],
+      "missing": [
+        "complete finish order beyond podium"
+      ]
+    },
+    {
+      "id": "horse-race-6",
+      "game_id": "horse-racing",
+      "label": "Race 6",
+      "status": "podium_verified",
+      "date": "2026-10-09",
+      "podium": [
+        {
+          "name": "Neigh Chance",
+          "position": 1,
+          "points": 5
+        },
+        {
+          "name": "Hung Like a Donkey",
+          "position": 2,
+          "points": 3
+        },
+        {
+          "name": "Only Fool and Horsey",
+          "position": 3,
+          "points": 1
+        }
+      ],
+      "eliminated_after_race": [],
+      "missing": [
+        "complete finish order beyond podium"
       ]
     }
   ],
-  "note": "Initial seed from previously recorded Pineapple conversations; more records require verification."
+  "game_metadata": {
+    "horse-racing": {
+      "original_horses": [
+        "Only Fool and Horsey",
+        "Glue Factory Gal",
+        "Hung Like a Donkey",
+        "Giddy Up Pony",
+        "Dog Food Tomorrow",
+        "Neigh Chance",
+        "Smack the Pony",
+        "Midnight Rouge",
+        "Fifty Shades of Hay",
+        "Soggy Biscuit",
+        "My Little Pony",
+        "Who's Horse Is That"
+      ],
+      "points_rule": {
+        "first": 5,
+        "second": 3,
+        "third": 1
+      },
+      "final_standings": [
+        {
+          "name": "Neigh Chance",
+          "points": 16
+        },
+        {
+          "name": "Hung Like a Donkey",
+          "points": 11
+        },
+        {
+          "name": "Only Fool and Horsey",
+          "points": 10
+        },
+        {
+          "name": "Who's Horse Is That",
+          "points": 9
+        },
+        {
+          "name": "Midnight Rouge",
+          "points": 6
+        },
+        {
+          "name": "Soggy Biscuit",
+          "points": 1
+        }
+      ],
+      "champion": "Neigh Chance"
+    },
+    "saturday-showdown": {
+      "cumulative_leaderboard_top_3": [
+        {
+          "rank": 1,
+          "name": "Alex",
+          "points": 25
+        },
+        {
+          "rank": 2,
+          "name": "Kar",
+          "points": 22
+        },
+        {
+          "rank": 3,
+          "name": "Coral",
+          "points": 20
+        }
+      ],
+      "leaderboard_scope": "Weeks 1–3",
+      "note": "Other players' cumulative totals still require historical poll screenshots"
+    }
+  },
+  "other_games": {
+    "status": "awaiting_reconciliation",
+    "note": "Deal or No Deal, location guessing, and Mystery Monday have partial conversational histories but no verified comprehensive score records yet."
+  }
 }
