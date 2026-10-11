@@ -64,6 +64,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Sleepy Sunday** — Cosy, sleepy or just-woke-up pictures
 - **Spicy Sunday** — Bold, cheeky or spicy-themed photos
 - **Sultry Sunday** — Sultry, atmospheric and alluring photos
+- **Selfie Sunday** — Share your favourite selfie or a fresh Sunday snap
+- **Silhouette Sunday** — Creative shadow and silhouette photos
 
 ---
 
