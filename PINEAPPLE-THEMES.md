@@ -62,6 +62,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Sin Sunday** — Cheeky, mischievous or devilishly playful photos
 - **Soapy Sunday** — Bubbles, bath-time or soapy-themed photos
 - **Sleepy Sunday** — Cosy, sleepy or just-woke-up pictures
+- **Spicy Sunday** — Bold, cheeky or spicy-themed photos
+- **Sultry Sunday** — Sultry, atmospheric and alluring photos
 
 ---
 
