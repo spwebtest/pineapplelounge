@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "note": "Source inventory recovered from earlier ChatGPT-uploaded Telegram screenshots. These filenames are NOT public website URLs; raw images have not been copied into this public repository. Poll totals/percentages from indexed screenshot text; individual names and complete score calculations require visual audit.",
+  "week_1": [
+    {
+      "filename": "IMG_3046.png",
+      "winning_answer": "STAR WARS",
+      "total_votes": 38,
+      "winning_percentage": 79,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3047.png",
+      "winning_answer": "STAR WARS",
+      "total_votes": 38,
+      "winning_percentage": 79,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3049.png",
+      "winning_answer": "CHINESE",
+      "total_votes": 41,
+      "winning_percentage": 76,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3050.png",
+      "winning_answer": "CHINESE",
+      "total_votes": 41,
+      "winning_percentage": 76,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3051.jpeg",
+      "winning_answer": "BEACH HOLIDAY",
+      "total_votes": 41,
+      "winning_percentage": 54,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3052.jpeg",
+      "winning_answer": "BEACH HOLIDAY",
+      "total_votes": 41,
+      "winning_percentage": 54,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3053.png",
+      "winning_answer": "90S",
+      "total_votes": 41,
+      "winning_percentage": 54,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3054.jpeg",
+      "winning_answer": "90S",
+      "total_votes": 41,
+      "winning_percentage": 54,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3055.png",
+      "winning_answer": "EDINBURGH",
+      "total_votes": 41,
+      "winning_percentage": 51,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3056.jpeg",
+      "winning_answer": "EDINBURGH",
+      "total_votes": 41,
+      "winning_percentage": 51,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3057(2).png",
+      "winning_answer": "YUK",
+      "total_votes": 41,
+      "winning_percentage": 61,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3058.png",
+      "winning_answer": "YUK",
+      "total_votes": 41,
+      "winning_percentage": 61,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3059.png",
+      "winning_answer": "CRISPS",
+      "total_votes": 41,
+      "winning_percentage": 51,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3061.jpeg",
+      "winning_answer": "SUMMER",
+      "total_votes": 41,
+      "winning_percentage": 63,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    },
+    {
+      "filename": "IMG_3064.png",
+      "winning_answer": "FOOTBALL",
+      "total_votes": 41,
+      "winning_percentage": 63,
+      "verification": "screenshot_indexed_text",
+      "individual_votes_imported": false
+    }
+  ]
+}
