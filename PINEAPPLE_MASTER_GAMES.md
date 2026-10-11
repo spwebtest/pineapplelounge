@@ -67,6 +67,13 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 |  | 🔄 🤥 Spot the Lie Sunday | Two truths and one lie |
 |  | 🔄 🧠 Sunday Brain Fry | Tricky visual puzzles and riddles |
 |  | 🔄 🔗 Sunday Connections | Find the link between clues |
+| **🏆 PINEAPPLE SPECIAL EVENTS** |  | Bigger games for occasional events, tournaments and group specials; no fixed dates |
+|  | 💼 Deal or No Deal | Monthly idea: hidden boxes, Banker offers and suspense |
+|  | 🏇 Pineapple Horse Racing | Occasional virtual racing tournament with eliminations and grand final |
+|  | 🔪 Pineapple Murder Mystery | Occasional fictional whodunnit featuring consenting group members as characters; also listed under Monday |
+|  | 🏃 Pineapple Chase | Occasional TV quiz-show-inspired competition |
+|  | 🎡 Wheel of Whatever | Flexible special with random games, challenges and surprises |
+|  | 🏆 Showdown Championship | Occasional championship using popular-choice polls |
 | **🍍 PLAY ANY DAY** |  | Flexible games for any weekday |
 |  | 💨 Pineapple Speed Chat | Fast-paced chat and quick-fire questions |
 |  | 👑 Member Takeover | A member runs questions or activities |
