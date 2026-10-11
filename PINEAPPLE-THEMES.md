@@ -1,6 +1,6 @@
 # 🍍 Pineapple Group — Photo & Social Themes
 
-A simple, mobile-friendly master list of our group photo-sharing and social themes. These are **not** the Pineapple games. Add new themes under the relevant day as we go.
+A simple, mobile-friendly master list of our group photo-sharing and social themes. Alternative weekday names are shown beneath selected themes, without duplicating the main entries. These are **not** the Pineapple games. Add new themes under the relevant day as we go.
 
 > **Artwork note:** Theme names have been recovered from previous planning and artwork discussions. Individual poster files have not all been checked, so inclusion here does not confirm an image exists.
 
@@ -23,6 +23,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 - **Wiggle Wednesday** — Fun movement, dancing or playful wiggle photos and clips
 - **Work Wear Wednesday** — Show off work outfits, uniforms or work-inspired looks
+  - ↪ Also works as: **Uniform Thursday**
 - **Wet Wednesday** — Wet-look photos
 - **Wild Card Wednesday** — A surprise or anything-goes photo prompt
 - **Wet-Hair Wednesday** — Wet-hair looks
@@ -46,21 +47,27 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 ### Saturday
 
 - **Switch Saturday** — Swap your usual style, outfit or look for something different
+  - ↪ Also works as: **Transformation Tuesday**
 - **Glam Saturday** — Glamorous looks
 - **Showtime Saturday** — Show off a favourite look
 - **Style Saturday** — Outfits and personal style
 
 - **SHATURDAY** — A silly, chaotic or hilariously disastrous Saturday photo
 - **Sporty Saturday** — Show your sporty side, activewear or favourite activity
+  - ↪ Also works as: **Workout Wednesday**
 - **Sell Yourself Saturday** — Share a photo and a fun pitch about why you're a catch
+  - ↪ Also works as: **Tease Me Tuesday (already listed)**
 - **Sat-ur-play** — Show your playful side with a fun or cheeky Saturday photo
 - **Sparkle and Shine Saturday** — Glitter, glamour, sparkle or anything that makes you shine
+  - ↪ Also works as: **Shimmer Sunday**
 - **Straps and Buckles Saturday** — Show off outfits or accessories featuring straps, buckles and bold details
+  - ↪ Also works as: **Strappy Sunday**
 - **Shadows Saturday** — Creative photos playing with shadows, silhouettes and light
 ### Sunday
 
 - **Slow Mo Sunday** — Share a fun slow-motion video or clip
 - **Spotlight Sunday** — Put yourself or a favourite photo in the spotlight
+  - ↪ Also works as: **Feature Friday (already listed)**
 - **Lazy Sunday** — Relaxed, lazy-day photos
 - **Sunday Confessions** — Share a light-hearted confession
 - **Silk & Skin Sunday** — Silky textures and tasteful photos
@@ -68,12 +75,19 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Stillness Sunday** — Peaceful, quiet moments
 - **Sin Sunday** — Cheeky, mischievous or devilishly playful photos
 - **Soapy Sunday** — Bubbles, bath-time or soapy-themed photos
+  - ↪ Also works as: **Wet Wednesday (already listed)**
 - **Sleepy Sunday** — Cosy, sleepy or just-woke-up pictures
+  - ↪ Also works as: **Lazy Sunday (already listed)**
 - **Spicy Sunday** — Bold, cheeky or spicy-themed photos
+  - ↪ Also works as: **Flirty Friday**
 - **Sultry Sunday** — Sultry, atmospheric and alluring photos
+  - ↪ Also works as: **Sultry Saturday**
 - **Selfie Sunday** — Share your favourite selfie or a fresh Sunday snap
+  - ↪ Also works as: **Face Pic Friday (already listed)**
 - **Silhouette Sunday** — Creative shadow and silhouette photos
+  - ↪ Also works as: **Shadows Saturday (already listed)**
 - **Self Care Sunday** — Share your relaxation, pampering or wellbeing moments
+  - ↪ Also works as: **Treat Yourself Tuesday**
 
 ---
 
@@ -82,14 +96,19 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 ### Saturday
 
 - **Spank Me Saturday** — A consensual, cheeky spanking-themed adults-only photo prompt
+  - ↪ Also works as: **Spanking Sunday (already listed)**
 - **Speccsy Saturday** — A flirty, adults-only glasses and specs-themed photo prompt
 - **Self Love Saturday** — Solo self-pleasure and body-positive adult theme
+  - ↪ Also works as: **Self Love Sunday**
 - **Spread Them Saturday** — A daring, adults-only pose theme
+  - ↪ Also works as: **Spread 'Em Sunday**
 - **Saturday Swaps** — Consensual partner-swap themed photos or stories
+  - ↪ Also works as: **Swap It Sunday**
 
 ### Sunday
 
 - **Sloppy Sunday** — A cheeky, messy-themed adults-only photo prompt
+  - ↪ Also works as: **Messy Monday**
 - **Spanking Sunday** — A consensual spanking-themed adults-only photo prompt
 
 ---
