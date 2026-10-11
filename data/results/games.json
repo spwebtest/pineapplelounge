@@ -4,8 +4,8 @@
     {
       "id": "saturday-showdown",
       "name": "Saturday Showdown",
-      "scoring": "Popular poll answer wins; point details require verification",
-      "status": "historical_import_pending"
+      "scoring": "10 A/B polls per week; each player earns 1 point when their choice matches the majority; most points wins; ties permitted",
+      "status": "weeks_1_to_3_partial_import"
     },
     {
       "id": "horse-racing",
@@ -15,7 +15,7 @@
         "second": 3,
         "third": 1
       },
-      "status": "historical_import_pending"
+      "status": "six_races_podiums_and_eliminations_imported"
     },
     {
       "id": "deal-or-no-deal",
