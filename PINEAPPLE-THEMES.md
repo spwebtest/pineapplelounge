@@ -19,6 +19,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Tone-Up Tuesday** — Fitness and body-confidence pictures
 - **Texture Tuesday** — Close-up textures and details
 
+- **Torso Tuesday** — Show off your torso, outfit or favourite upper-body pose
+- **Tits or Tattoos Tuesday** — Share a cheeky outfit photo or show off your tattoos
+- **Tied Tuesday** — Ties, ribbons, laces or creative tied-up fashion looks
 ### Wednesday
 
 - **Wiggle Wednesday** — Fun movement, dancing or playful wiggle photos and clips
@@ -123,6 +126,13 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 ---
 
 ## 🔞 NSFW themes
+
+### Tuesday
+
+- **Topless Tuesday** — Adults-only topless photo theme
+- **Taste Tuesday** — Oral-play-themed adult prompt
+- **Tail & Toys Tuesday** — Adult toys and playful accessories
+- **Tied Tuesday – NSFW** — Consensual bondage-themed content
 
 ### Wednesday
 
