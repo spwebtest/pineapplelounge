@@ -59,6 +59,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Silk & Skin Sunday** — Silky textures and tasteful photos
 - **Soft-Light Sunday** — Photos in gentle lighting
 - **Stillness Sunday** — Peaceful, quiet moments
+- **Sin Sunday** — Cheeky, mischievous or devilishly playful photos
+- **Soapy Sunday** — Bubbles, bath-time or soapy-themed photos
+- **Sleepy Sunday** — Cosy, sleepy or just-woke-up pictures
 
 ---
 
