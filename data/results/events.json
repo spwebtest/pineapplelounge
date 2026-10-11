@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "events": [
+    {
+      "id": "showdown-week-1",
+      "game_id": "saturday-showdown",
+      "label": "Week 1",
+      "status": "partial",
+      "results": [
+        {
+          "participant": "@hawitslisa",
+          "award": "official winner",
+          "verification": "reported"
+        },
+        {
+          "participant": "Caz",
+          "award": "unofficial winner",
+          "verification": "reported"
+        }
+      ],
+      "missing": [
+        "full poll results",
+        "individual player scores"
+      ]
+    },
+    {
+      "id": "horse-racing-finale",
+      "game_id": "horse-racing",
+      "label": "Grand finale",
+      "status": "partial",
+      "results": [
+        {
+          "participant": "Neigh Chance",
+          "position": 1
+        },
+        {
+          "participant": "Hung Like a Donkey",
+          "position": 2
+        },
+        {
+          "participant": "Only Fool and Horsey",
+          "position": 3
+        }
+      ],
+      "missing": [
+        "race date",
+        "full field",
+        "all other race standings"
+      ]
+    }
+  ],
+  "note": "Initial seed from previously recorded Pineapple conversations; more records require verification."
+}
