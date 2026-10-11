@@ -51,6 +51,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Funny Face Friday** — Pull your funniest face and share a silly selfie
 - **Fierce Face Friday** — Show your boldest expression, confident pose or fierce look
 - **Friday Fitness** — Share a workout, activewear look or fitness achievement
+- **Fetish Friday** — Share a favourite fashion detail, accessory or alternative-style look (SFW)
 ### Saturday
 
 - **Switch Saturday** — Swap your usual style, outfit or look for something different
@@ -104,6 +105,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 - **Flash Friday** — A cheeky, adults-only flashing-themed photo prompt
 
+- **Fetish Friday** — Consensual adults-only fetish-inspired photos or discussions (NSFW)
 ### Saturday
 
 - **Spank Me Saturday** — A consensual, cheeky spanking-themed adults-only photo prompt
