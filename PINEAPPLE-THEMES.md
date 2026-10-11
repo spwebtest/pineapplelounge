@@ -27,6 +27,8 @@ Use the other weekday ideas as rotating alternatives, not replacements for these
 - **Mystery Monday** — Share a cropped photo and let members guess what it is
 - **Mimic Monday** — Recreate a famous pose, expression or another member's photo in your own style
 - **Motivated Monday** — Share what motivates you, a personal goal or an uplifting photo
+- **Move It Monday** — Share a wiggle, dance, movement clip or slow-motion video
+  - ↪ Also works as: **Wiggle Wednesday** or **Slow Mo Sunday** (already listed)
 ### Tuesday
 
 - **Tits Out Tuesday** — Cheeky, body-positive photo theme
