@@ -64,6 +64,38 @@ Full master list. Weekday games, any-day games, developing ideas, and Mystery Mo
 |  | 🎲 Six of the Best | Six secret challenges |
 |  | 🧳 Lost Luggage | Solve a travel suitcase mystery |
 |  | 🛂 Passport Control | Guess places from travel clues |
+| **💡 OTHER GAME IDEAS — WEEKDAY NAME ALTERNATIVES** |  | Proposed names only; existing weekly games remain unchanged |
+| MONDAY | 📊 Majority Monday | Guess the most popular survey answers |
+| MONDAY | 🔎 Magnify Monday | Identify a mystery from a magnified close-up |
+| MONDAY | 🤥 Make It Up Monday | Spot the lie among three statements |
+| MONDAY | 🧩 Missing Link Monday | Find what connects several pictures |
+| TUESDAY | 🏆 Top Answer Tuesday | Predict the top survey response |
+| TUESDAY | 🔍 Tiny Detail Tuesday | Guess an object from a tiny image detail |
+| TUESDAY | 🤥 Truth or Trash Tuesday | Vote for the false statement |
+| TUESDAY | 🧩 Two Clues Tuesday | Combine two picture clues to find an answer |
+| WEDNESDAY | 📊 What Would They Say Wednesday? | Guess the group's most common answer |
+| WEDNESDAY | 🔍 What's That Wednesday? | Identify a zoomed-in mystery picture |
+| WEDNESDAY | 🐷 Whopper Wednesday | Find the lie among three statements |
+| WEDNESDAY | 🔗 What's the Link Wednesday? | Solve visual and celebrity connections |
+| WEDNESDAY | 🔤 Wordplay Wednesday | Rebus, dingbat and cryptic phrase puzzles |
+| THURSDAY | 📊 Think Like Them Thursday | Predict popular answers to survey questions |
+| THURSDAY | 🔎 Take a Closer Look Thursday | Guess objects from magnified pictures |
+| THURSDAY | 🤥 Truth or Twaddle Thursday | Find the false claim |
+| THURSDAY | 🧠 Think It Thursday | Visual riddles and brain teasers |
+| FRIDAY | 📊 Family Fortunes Friday | Predict the top answers in a survey-style quiz |
+| FRIDAY | 🔍 Focus Friday | Identify close-up images |
+| FRIDAY | 🤥 Fibbing Friday | Find the lie in a three-statement poll |
+| FRIDAY | 🧩 Figure It Out Friday | Mixed visual puzzles and cryptic clues |
+| FRIDAY | 🖐️ Friday Five | Five quick puzzles on one poster |
+| SATURDAY | 📊 Survey Says Saturday | Guess the most popular survey answers |
+| SATURDAY | 🔍 Spot It Saturday | Guess close-up objects and hidden details |
+| SATURDAY | 🐷 Spot the Porky Saturday | Vote for the made-up statement |
+| SATURDAY | 🧩 Solve It Saturday | Solve a set of picture puzzles |
+| SUNDAY | 📊 Survey Says Sunday | Predict top survey answers |
+| SUNDAY | 🔍 Squinting Sunday | Identify extreme close-up pictures |
+| SUNDAY | 🤥 Spot the Lie Sunday | Two truths and one lie |
+| SUNDAY | 🧠 Sunday Brain Fry | Tricky visual puzzles and riddles |
+| SUNDAY | 🔗 Sunday Connections | Find the link between clues |
 | **🕵️ MYSTERY MONDAY VARIATIONS** | 🟦 Square Reveal | Uncover a picture one square at a time |
 |  | 🔎 Clue Reveal | Give progressively easier clues to identify the answer |
 |  | 👤 Mystery Member | Identify a Pineapple member |
