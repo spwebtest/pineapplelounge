@@ -14,6 +14,7 @@ Full master list. Weekday games, any-day games, developing ideas, and Mystery Mo
 |  | 🛠️ Workshop Wednesday | Creative activities and member contributions |
 |  | 🃏 Wildcard Wednesday | A surprise game each week |
 |  | 🎡 Wheel of Whatever Wednesday | Spin for random games and challenges |
+|  | 🌍 Where’s Scotty? Hot or Cold | Guess a city using distance-temperature clues |
 | **THURSDAY** | 🎲 Throw the Dice Thursday | Roll 1–6 to choose a question or challenge |
 |  | ✨ Transform Thursday | Funny AI photo transformations |
 |  | 🤬 For F… Sake Thursday | Funny rants about everyday frustrations |
@@ -41,7 +42,6 @@ Full master list. Weekday games, any-day games, developing ideas, and Mystery Mo
 |  | 🧩 Pineapple Puzzle | Riddles and visual puzzles |
 |  | 🎁 Lucky Dip | Random questions and challenges |
 |  | 💼 Deal or No Deal | Boxes, hidden values and Banker offers |
-|  | 🌍 Where’s Scotty? Hot or Cold | Guess a city using distance-temperature clues |
 | **💡 OTHER GAME IDEAS** | 🎡 Wheel of Misfortune | Spin for funny challenges |
 |  | 😈 Truth or Dare Roulette | Spin for truth or dare |
 |  | 🚂 Choo Choo Choose Roulette | Random two-choice questions |
