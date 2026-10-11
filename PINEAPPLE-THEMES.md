@@ -4,6 +4,13 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 > **Artwork note:** Theme names have been recovered from previous planning and artwork discussions. Individual poster files have not all been checked, so inclusion here does not confirm an image exists.
 
+## ⭐ Established crowd favourites
+
+- **Mono Monday** — One of the group's most popular regular photo themes; keep as a Monday anchor.
+- **Tits Out Tuesday** — One of the group's most popular regular photo themes; keep as a Tuesday anchor.
+
+Use the other weekday ideas as rotating alternatives, not replacements for these favourites.
+
 ## 📅 Regular daily themes
 
 ### Monday
@@ -15,6 +22,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Black Monday** — Wear black or share a black-themed photo
 - **White Monday** — White outfits, accessories or white-themed photos
 - **Ink & Shadows Monday** — Show off tattoos or experiment with shadow photography
+- **Mirror Monday** — Share a mirror selfie
+- **Messy Hair Monday** — Bedhead, natural hair or gloriously messy looks
+- **Mystery Monday** — Share a cropped photo and let members guess what it is
 ### Tuesday
 
 - **Tits Out Tuesday** — Cheeky, body-positive photo theme
@@ -25,6 +35,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Torso Tuesday** — Show off your torso, outfit or favourite upper-body pose
 - **Tits or Tattoos Tuesday** — Share a cheeky outfit photo or show off your tattoos
 - **Tied Tuesday** — Ties, ribbons, laces or creative tied-up fashion looks
+- **Tattoo Tuesday** — Show off tattoos or body art
+- **Two Looks Tuesday** — Share two outfits or styles for members to compare
+- **Tummy Tuesday** — Body-positive tummy photos
 ### Wednesday
 
 - **Wiggle Wednesday** — Fun movement, dancing or playful wiggle photos and clips
@@ -42,6 +55,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Wellbeing Wednesday** — Self-care, relaxation and feeling good
 - **Wear It Wednesday** — Wear your favourite colour and share a photo of your look
 - **Kiss and Wink Wednesday** — Share a playful kissy-face or winking selfie
+- **Wardrobe Wednesday** — Show off a favourite outfit
+- **Wacky Wednesday** — Funny or ridiculous photos
+- **Without Makeup Wednesday** — Natural selfies and makeup-free looks
 ### Thursday
 
 - **Thirsty Thursday** — Flirty pictures
@@ -59,6 +75,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Tartan Thursday** — Show off tartan, kilts, Scottish outfits or accessories (promotional artwork shown in Telegram screenshot)
 - **Bootylicious Thursday** — Cheeky bum-focused poses, outfits or dance moves (promotional artwork shown in Telegram screenshot)
 - **Tight Fit Thursday** — Snug-fitting clothes, body-hugging outfits or confident looks (promotional artwork shown in Telegram screenshot)
+- **Touch of Colour Thursday** — Show one standout colour in your look
+- **Texture Thursday** — Explore lace, leather, velvet or other textures
+- **Then & Now Thursday** — Compare two photos from different times
 ### Friday
 
 - **Face Pic Friday** — Selfies and face photos
@@ -81,6 +100,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Fella Friday** — A chance for the fellas to show themselves off
 - **Fit Friday** — Fitness, activewear or feeling fit
 - **Tattoo Friday** — Show off tattoos and body art
+- **Freckles Friday** — Show freckles, beauty marks or natural features
+- **Favourite Outfit Friday** — Wear an outfit that makes you feel confident
+- **Flirty Friday** — Playful, cheeky selfies
 ### Saturday
 
 - **Switch Saturday** — Swap your usual style, outfit or look for something different
@@ -100,6 +122,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Straps and Buckles Saturday** — Show off outfits or accessories featuring straps, buckles and bold details
   - ↪ Also works as: **Strappy Sunday**
 - **Shadows Saturday** — Creative photos playing with shadows, silhouettes and light
+- **Secret Saturday** — A mysterious photo with a little story
+- **Silly Saturday** — Funny faces and daft poses
+- **Something New Saturday** — Try a new look or pose
 ### Sunday
 
 - **Slow Mo Sunday** — Share a fun slow-motion video or clip
@@ -125,6 +150,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
   - ↪ Also works as: **Shadows Saturday (already listed)**
 - **Self Care Sunday** — Share your relaxation, pampering or wellbeing moments
   - ↪ Also works as: **Treat Yourself Tuesday**
+- **Snuggle Sunday** — Cosy photos and cuddles
+- **Sunday Smiles** — Share a happy selfie
+- **Sunday Best** — Dress up and show off
 
 ---
 
@@ -135,6 +163,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Meaty Monday** — Cheeky adults-only body-focused photo theme
 - **Mouthy Monday** — Adults-only oral-themed prompt
 - **Morning Wood Monday** — Adults-only morning-themed male photo prompt
+- **Mooning Monday** — Cheeky adults-only bum-focused photos
 
 ### Tuesday
 
@@ -142,12 +171,14 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Taste Tuesday** — Oral-play-themed adult prompt
 - **Tail & Toys Tuesday** — Adult toys and playful accessories
 - **Tied Tuesday – NSFW** — Consensual bondage-themed content
+- **Temptation Tuesday** — Adults-only fantasies or teasing looks
 
 ### Wednesday
 
 - **Wank Wednesday** — Adults-only solo-pleasure theme
 - **Whip It Out Wednesday** — Cheeky adults-only revealing-photo prompt
 - **Willy Wednesday** — Adults-only male anatomy theme
+- **Whips & Wishes Wednesday** — Consensual fetish accessories and fantasies
 
 ### Thursday
 
@@ -157,6 +188,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Thirsty Thursday – NSFW** — An adults-only version of Thirsty Thursday
 - **Top or Bottom Thursday – NSFW** — Discuss consensual adult preferences
 - **Threesome Thursday** — Consensual group-play-themed discussions or photos
+- **Tie Me Thursday** — Consensual bondage-inspired adult theme
 
 ### Friday
 
@@ -167,7 +199,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Full Frontal Friday** — Adults-only nude photo theme
 - **Fuck It Friday** — Full-on, anything-goes adult theme within group boundaries
 - **Facial Friday** — Adults-only sexual theme
-- **Flogger Friday** — Consensual impact-play and fetish-themed content
+- **Flogger Friday** — Consensual impact-play and fetish-themed content- **Freaky Friday** — Unusual kinks and adult interests
+
 ### Saturday
 
 - **Spank Me Saturday** — A consensual, cheeky spanking-themed adults-only photo prompt
@@ -179,6 +212,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
   - ↪ Also works as: **Spread 'Em Sunday**
 - **Saturday Swaps** — Consensual partner-swap themed photos or stories
   - ↪ Also works as: **Swap It Sunday**
+- **Stripped Saturday** — Adults-only revealing photos
+- **Sensory Saturday** — Blindfolds, textures and consensual sensory play
 
 ### Sunday
 
@@ -188,6 +223,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ---
 
+- **Sinful Secrets Sunday** — Adults-only confessions and secrets
 ## 🎄 Seasonal themes — Christmas & winter
 
 These stay separate from the regular weekday themes.
