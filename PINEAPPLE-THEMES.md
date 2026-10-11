@@ -21,6 +21,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ### Wednesday
 
+- **Wiggle Wednesday** — Fun movement, dancing or playful wiggle photos and clips
+- **Work Wear Wednesday** — Show off work outfits, uniforms or work-inspired looks
 - **Wet Wednesday** — Wet-look photos
 - **Wild Card Wednesday** — A surprise or anything-goes photo prompt
 - **Wet-Hair Wednesday** — Wet-hair looks
