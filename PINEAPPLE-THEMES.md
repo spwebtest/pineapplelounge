@@ -66,6 +66,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Sultry Sunday** — Sultry, atmospheric and alluring photos
 - **Selfie Sunday** — Share your favourite selfie or a fresh Sunday snap
 - **Silhouette Sunday** — Creative shadow and silhouette photos
+- **Self Care Sunday** — Share your relaxation, pampering or wellbeing moments
 
 ---
 
