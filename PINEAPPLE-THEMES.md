@@ -29,6 +29,11 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Wet-Hair Wednesday** — Wet-hair looks
 - **Shape-Shift Wednesday** — Creative changes in pose, style or appearance
 
+- **Wax Wednesday** — Waxing, grooming or smooth-skin looks
+- **Wicked Wednesday** — Show off your mischievous or wicked side
+- **Whip Wednesday** — Whip-inspired outfits, accessories or playful props
+- **Workout Wednesday** — Fitness, exercise or activewear photos
+- **Wellbeing Wednesday** — Self-care, relaxation and feeling good
 ### Thursday
 
 - **Thirsty Thursday** — Flirty pictures
@@ -116,6 +121,12 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 ---
 
 ## 🔞 NSFW themes
+
+### Wednesday
+
+- **Wank Wednesday** — Adults-only solo-pleasure theme
+- **Whip It Out Wednesday** — Cheeky adults-only revealing-photo prompt
+- **Willy Wednesday** — Adults-only male anatomy theme
 
 ### Thursday
 
