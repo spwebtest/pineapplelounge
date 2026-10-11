@@ -44,6 +44,10 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Feature Friday** — Highlight a favourite feature
 - **Focus Friday** — Close-ups and creative focus
 
+- **First Time Friday** — Share a first-time experience, throwback or something you've never tried before
+- **Fabulous Friday** — Show off a fabulous look, moment or photo
+- **Filters Friday** — Get creative with photo filters and effects
+- **Fantasy Friday** — Share a fantasy-inspired outfit, character or imaginative photo
 ### Saturday
 
 - **Switch Saturday** — Swap your usual style, outfit or look for something different
