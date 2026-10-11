@@ -48,6 +48,9 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **Fabulous Friday** — Show off a fabulous look, moment or photo
 - **Filters Friday** — Get creative with photo filters and effects
 - **Fantasy Friday** — Share a fantasy-inspired outfit, character or imaginative photo
+- **Funny Face Friday** — Pull your funniest face and share a silly selfie
+- **Fierce Face Friday** — Show your boldest expression, confident pose or fierce look
+- **Friday Fitness** — Share a workout, activewear look or fitness achievement
 ### Saturday
 
 - **Switch Saturday** — Swap your usual style, outfit or look for something different
