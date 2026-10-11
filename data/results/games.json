@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "games": [
+    {
+      "id": "saturday-showdown",
+      "name": "Saturday Showdown",
+      "scoring": "Popular poll answer wins; point details require verification",
+      "status": "historical_import_pending"
+    },
+    {
+      "id": "horse-racing",
+      "name": "Pineapple Grand National",
+      "scoring": {
+        "first": 5,
+        "second": 3,
+        "third": 1
+      },
+      "status": "historical_import_pending"
+    },
+    {
+      "id": "deal-or-no-deal",
+      "name": "Deal or No Deal",
+      "status": "historical_import_pending"
+    },
+    {
+      "id": "location-guessing",
+      "name": "Location Guessing",
+      "status": "historical_import_pending"
+    },
+    {
+      "id": "mystery-monday",
+      "name": "Mystery Monday",
+      "status": "historical_import_pending"
+    }
+  ]
+}
