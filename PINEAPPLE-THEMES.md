@@ -45,6 +45,7 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ### Saturday
 
+- **Switch Saturday** — Swap your usual style, outfit or look for something different
 - **Glam Saturday** — Glamorous looks
 - **Showtime Saturday** — Show off a favourite look
 - **Style Saturday** — Outfits and personal style
