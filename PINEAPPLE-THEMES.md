@@ -53,6 +53,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 - **SHATURDAY** — A silly, chaotic or hilariously disastrous Saturday photo
 - **Sporty Saturday** — Show your sporty side, activewear or favourite activity
 - **Sell Yourself Saturday** — Share a photo and a fun pitch about why you're a catch
+- **Sat-ur-play** — Show your playful side with a fun or cheeky Saturday photo
+- **Sparkle and Shine Saturday** — Glitter, glamour, sparkle or anything that makes you shine
 ### Sunday
 
 - **Slow Mo Sunday** — Share a fun slow-motion video or clip
