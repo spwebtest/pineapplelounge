@@ -51,6 +51,8 @@ A simple, mobile-friendly master list of our group photo-sharing and social them
 
 ### Sunday
 
+- **Slow Mo Sunday** — Share a fun slow-motion video or clip
+- **Spotlight Sunday** — Put yourself or a favourite photo in the spotlight
 - **Lazy Sunday** — Relaxed, lazy-day photos
 - **Sunday Confessions** — Share a light-hearted confession
 - **Silk & Skin Sunday** — Silky textures and tasteful photos
