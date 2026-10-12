@@ -248,6 +248,50 @@ Use the template code when requesting a new poster. **All puzzle artwork is SFW*
 | **PP09** | **Odd One Out** | Identify which image doesn't belong and explain why | 💡 To try |
 | **PP10** | **Picture Detective** | Inspect visual evidence in a scene to solve a mystery | 💡 To try |
 
+### PP05 — Pineapple Missing Link (Round 1) — ✅ Poster created; ready to play
+
+**Aim:** Guess the single common word or theme linking **four SFW pictures** in each of **five numbered rows**. Unlike picture equations, the pictures are not added together to spell a phrase; they share an association.
+
+**How to host:**
+1. Introduce the game in Telegram, then post the five-row picture poster.
+2. Members examine each row's four images and post their guesses (e.g. “1 = ...”).
+3. Accept sensible alternative connections as discussion, but use the prepared key for intended answers.
+4. Let the group guess throughout the chosen play window; reveal the five answers later. No fixed points or deadline has been agreed.
+
+**Telegram introduction (copy/paste):**
+
+> 🍍🔍 **PINEAPPLE MISSING LINK!** 🔍🍍
+>
+> Time to get those brains working… and try to keep them out of the gutter! 😈😂
+>
+> We've got **5 picture puzzles**, each containing **4 pictures**. But what's the connection? 🤔
+>
+> 🧩 All four pictures in each row have something in common.
+>
+> 🔎 Work out the hidden word or theme.
+>
+> 💬 Post your guesses in the chat!
+>
+> **Example:** 🔑 Key + 🔒 Padlock + 🔐 Safe = SECURITY
+>
+> Some connections are obvious, others might take a little imagination!
+>
+> 🏆 **Can you solve all 5?** 🍍
+
+**Private answer key — do not post with the puzzle:**
+
+| Row | Intended answer | Four images |
+|---|---|---|
+| 1 | **Secrets** | Heart padlock, private diary, sealed letter, safe |
+| 2 | **Temptation** | Chocolate, lips, strawberry, dice |
+| 3 | **Chemistry** | Bubbling liquid, magnet, molecular model, test tubes |
+| 4 | **Discretion** | Sunglasses, shushing gesture, mask, tinted car window |
+| 5 | **Adventure** | Compass, marked map, hiking boot, plane window |
+
+**Lessons from earlier picture games:** Each set needs a defensible connection; avoid reusing the same answers in consecutive rounds. Don't describe every answer as a specifically swinging term—these are ordinary words with possible cheeky interpretations. Keep the number of rows, displayed clues and answer-key entries exactly aligned.
+
+---
+
 ### PP02 — What's Going On at the Pineapple Hotel? (Round 1)
 **Host format:** Post one detailed, entirely SFW cartoon hotel scene. Ask members to find five visual clues and guess the related words/phrases. Post the answer key separately after guesses.
 
