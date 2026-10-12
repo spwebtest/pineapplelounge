@@ -231,35 +231,60 @@ Wheel of Misfortune, Truth or Dare Roulette, Choo Choo Choose Roulette, Travel R
 ---
 
 
-## 🧩 PINEAPPLE PICTURE PUZZLE TEMPLATE LIBRARY
+## 🧩 PINEAPPLE PICTURE PUZZLES — TESTED TEMPLATES & VISUAL GUIDE
 
-Use the template code when requesting a new poster. **All puzzle artwork is SFW**: everyday objects, symbols, cartoon scenes and visual clues only. Members interpret the clues and post guesses in Telegram. Don't include the answer key on the artwork.
+**Scope:** Keep the original **PP01–PP10** templates only. PP03 and PP08 were skipped; PP07 and PP09 need refining. **Do not add PP11–PP20 to the active manual.**
 
-| Code | Template | How it works | Status |
-|---|---|---|---|
-| **PP01** | **Picture Equations** | Combine illustrated objects with + signs to guess a phrase | ✅ Two rounds created |
-| **PP02** | **Hidden Scene** | Search a busy cartoon scene for objects hinting at hidden phrases | 🟡 First hotel scene planned |
-| **PP03** | **Zoom In!** | Identify an object from an extreme close-up, revealing more as needed | 💡 To try |
-| **PP04** | **Four Pictures, One Word** | Four images all hint at one answer | 💡 To try |
-| **PP05** | **Missing Link** | Find the shared connection among several images | 💡 To try |
-| **PP06** | **Square Reveal** | Uncover squares progressively to identify a hidden picture | ✅ Existing game mechanic |
-| **PP07** | **Wordplay & Dingbats** | Decode visual text, letter placement and symbols | 💡 To try |
-| **PP08** | **Spot the Difference** | Compare two nearly identical scenes | 💡 To try |
-| **PP09** | **Odd One Out** | Identify which image doesn't belong and explain why | 💡 To try |
-| **PP10** | **Picture Detective** | Inspect visual evidence in a scene to solve a mystery | 💡 To try |
+![Visual reference showing all ten picture puzzle layouts](PINEAPPLE_PICTURE_PUZZLE_VISUAL_GUIDE.svg)
 
-### PP05 — Pineapple Missing Link (Round 1) — ✅ Poster created; ready to play
+> **About the pictures:** The diagram above is a **new illustrative identification chart**, not copies of the AI-generated posters from the chat. The original poster images have **not been uploaded to GitHub**; retrieve them from the conversation if you want the exact artwork in this repository.
 
-**Aim:** Guess the single common word or theme linking **four SFW pictures** in each of **five numbered rows**. Unlike picture equations, the pictures are not added together to spell a phrase; they share an association.
+| Code | Name | Visual identifier | Tested status | Core rule |
+|---|---|---|---|---|
+| **PP01** | Picture Equations | Objects separated by **+** signs | 🟡 Two examples made | Decode each pictured combination into a phrase |
+| **PP02** | Hidden Scene | One busy hotel scene | 🟡 Hotel artwork tried | Find innocent clues in the scene, guess the hidden terms |
+| **PP03** | Zoom In! | One magnified mystery object | ⏭️ Skipped | Identify object from close-up and optional wider reveals |
+| **PP04** | Four Pictures, One Word | Four clues in each numbered set | 🟡 One example made | Find one answer that genuinely links all four pictures |
+| **PP05** | Missing Link | **Five rows × four pictures** | ✅ Example and intro prepared | Find the common theme of each row |
+| **PP06** | Catchphrase / Square Reveal | **One full-screen picture** | ✅ Website reveal format | Website adds/removes squares; artwork **must not contain any squares, labels, frames or answer** |
+| **PP07** | Cheeky Dingbats | Six visual word puzzles | 🟡 Example; revise | Decode arrangement of letters, words and symbols |
+| **PP08** | Spot the Difference | Two near-identical scenes | ⏭️ Skipped / not preferred | Identify visual changes; do not prioritise |
+| **PP09** | Odd One Out | Five rows × four objects | 🟡 Examples; revise | Identify the odd object in each row and explain why |
+| **PP10** | Picture Detective | One scene, question, suspects and evidence | 🟡 Two examples; revise | Solve a mystery using clues that actually prove one answer |
 
-**How to host:**
-1. Introduce the game in Telegram, then post the five-row picture poster.
-2. Members examine each row's four images and post their guesses (e.g. “1 = ...”).
-3. Accept sensible alternative connections as discussion, but use the prepared key for intended answers.
-4. Let the group guess throughout the chosen play window; reveal the five answers later. No fixed points or deadline has been agreed.
+### Universal production checklist
+- **All puzzle pictures SFW**; cheeky interpretations happen in Telegram, not through graphic imagery.
+- **No answer printed on the game image.** Keep the host's answer key separately.
+- **Exactly match clues and answers.** If the poster has five challenges, the key has five answers; do not add unexplained extra clues.
+- **PP06 special rule:** The website controls the square overlay. Generate **only the complete underlying puzzle scene**. No numbered tiles, reveal squares, decorative sides, game-show title, instructions or framing.
+- Each answer must be defensible from the actual visible clues. If ambiguous, say so and allow alternatives.
+- For PP09, **plan the odd-one-out positions before generating**; don't accidentally place them all in column D.
+- Prefer new phrases between rounds rather than recycling Unicorn, Hotwife and Friends with Benefits.
+
+### PP01 — Picture Equations
+**Host:** Post a set of object combinations with + signs. Members guess the words/phrases. Reveal a separate key afterwards.
+
+**Example key used:** 1 Soft Swap (soft teddy + swap arrows); 2 Hotwife (heat + wife/wedding); 3 Unicorn (“one” + corn, loose phonetic pun); 4 Friends with Benefits (friends + gift); 5 No Strings Attached (no string + attachment). **Note:** “One + corn” is only an approximate sound-alike, not an exact rebus. A separate earlier edition used swinging-related terms.
+
+### PP02 — Hidden Scene: What's Going On at the Pineapple Hotel?
+**Host:** Post a **single full-screen SFW hotel scene without numbered markers**; members identify five innocent visual hints to swinging-community terms. Don't print the answers.
+
+**Intended key:** Unicorn (ornament); Soft Swap (soft teddy + swapped tags); Hotwife (hot drink + wedding ring); Open Relationship (open door + linked hearts); Friends with Benefits (friends + gift).
+
+**Lessons:** Early drafts mistakenly included **12 clues for a five-answer key**. Later version removed the numbers at the user's request. Future scenes must have exactly five genuinely findable clues, with a key matching the final image.
+
+### PP03 — Zoom In!
+**Skipped.** Proposed extreme close-ups and progressive reveals, but no completed round adopted. Keep the template name available, not in the active rotation.
+
+### PP04 — Four Pictures, One Word
+**Host:** Four independent pictures must all support the **same answer**. Example round had five sets, but some clues were too literal or too loosely related.
+
+**Example intended key:** 1 Unicorn; 2 Partner Swap; 3 Hotwife; 4 Open Relationship; 5 Friends with Benefits. **Needs improvement:** Don't simply show the answer as one of the four pictures; use fresh answers and closer crops.
+
+### PP05 — Pineapple Missing Link (Round 1)
+**Host:** Show **five rows, four SFW pictures in each**. Members guess one shared theme for each row. They can post answers like “1 = ...”. No fixed scoring or deadline. Reveal the host key later.
 
 **Telegram introduction (copy/paste):**
-
 > 🍍🔍 **PINEAPPLE MISSING LINK!** 🔍🍍
 >
 > Time to get those brains working… and try to keep them out of the gutter! 😈😂
@@ -278,27 +303,61 @@ Use the template code when requesting a new poster. **All puzzle artwork is SFW*
 >
 > 🏆 **Can you solve all 5?** 🍍
 
-**Private answer key — do not post with the puzzle:**
+**Answer key:**
 
-| Row | Intended answer | Four images |
+| Row | Answer | Visual clues |
 |---|---|---|
-| 1 | **Secrets** | Heart padlock, private diary, sealed letter, safe |
-| 2 | **Temptation** | Chocolate, lips, strawberry, dice |
-| 3 | **Chemistry** | Bubbling liquid, magnet, molecular model, test tubes |
-| 4 | **Discretion** | Sunglasses, shushing gesture, mask, tinted car window |
-| 5 | **Adventure** | Compass, marked map, hiking boot, plane window |
+| 1 | Secrets | Padlock, private diary, sealed letter, safe |
+| 2 | Temptation | Chocolate, lips, strawberry, dice |
+| 3 | Chemistry | Bubbling liquid, magnet, molecules, test tubes |
+| 4 | Discretion | Sunglasses, shushing gesture, mask, tinted window |
+| 5 | Adventure | Compass, map, hiking boots, aeroplane |
 
-**Lessons from earlier picture games:** Each set needs a defensible connection; avoid reusing the same answers in consecutive rounds. Don't describe every answer as a specifically swinging term—these are ordinary words with possible cheeky interpretations. Keep the number of rows, displayed clues and answer-key entries exactly aligned.
+**Host tip:** Don't tell members all answers are specifically swinging terms. These are ordinary themes that invite cheeky interpretations.
+
+### PP06 — Catchphrase / Website Square Reveal
+**Host:** Upload **one complete full-screen illustrated puzzle** to the Pineapple website. **The website removes the squares**; never add squares to the source image. Members identify the phrase as the picture is uncovered.
+
+**Test scene:** The sunglasses-wearing Pineapple mascot in a heart-patterned bed, with multiple pairs of feet under the duvet.
+
+**Intended phrase:** **“Three's a Crowd”**; **“Two's Company, Three's a Crowd”** is a fair alternative. **Important:** The generated artwork can be read as two pairs of feet rather than three, so this exact example is **visually ambiguous** and should be refined before reuse. A scene should literally support the phrase.
+
+### PP07 — Wordplay & Dingbats (Round 1)
+**Host:** Post six word/letter arrangement puzzles; players decode each as a saying. **Work in progress:** some of the original examples were weak.
+
+| Position | Intended answer | Note |
+|---|---|---|
+| Top left | Four Play / Foreplay | Four playful pineapples; pun |
+| Top middle | Open Minded | MIND with open top; clear |
+| Top right | One Night Stand | Bed on “STANDING”; **doesn't clearly establish one night** |
+| Bottom left | Playing Away | PLAY repeated into the distance; loose |
+| Bottom middle | Double Trouble | Devil-horned rings; **doesn't clearly establish double trouble** |
+| Bottom right | Under the Covers | COVERS beneath duvet; clear |
+
+**Next time:** Use literal letter positioning, and confirm that every puzzle's visual logic uniquely supports the intended phrase.
+
+### PP08 — Spot the Difference
+**Skipped at user preference.** No need to develop unless requested again.
+
+### PP09 — Odd One Out
+**Host:** Five rows of four objects. Members select **A/B/C/D** for each row and explain the shared category.
+
+**Examples made:** drinks, underwear, travel/beach objects, fruit and sensory-play accessories. **Repeated failure:** the odd item appeared in column D for almost every row, even across remakes. Some examples (towel as travel item) were ambiguous.
+
+**Sample key from last poster:** 1 D broccoli; 2 D coffee; 3 D sock; 4 D towel (ambiguous); 5 C hammer. **This is an illustrative draft, not a polished final round.**
+
+**Before any new poster:** Choose unambiguous categories and explicitly distribute odd positions, e.g. **B, D, A, C, B**; verify against the actual image before presenting an answer key.
+
+### PP10 — Picture Detective
+**Host:** Post one cartoon mystery scene, a **clear question** and suspects. Members inspect visual evidence and name the culprit, then the host explains the proof.
+
+**First attempt:** Hotel room-key mystery with muddy footprints and Room 302. **Rejected as a fair deduction:** the key was visibly on the table, and clues didn't establish theft.
+
+**Second attempt — Who Ate the Cake?:** A kitchen with suspects A–D, a damaged pineapple cake, footprints and frosting. **Intended answer: D, the dog**, based on frosting around its mouth and paw prints. **Caveat:** B also had cake on his face and shirt, so the picture did **not** establish a unique culprit.
+
+**Next time:** Design the solution **first**, then place one decisive visual clue plus supporting clues. Avoid obvious contradictory evidence. The host must be able to explain why each other suspect is ruled out.
 
 ---
-
-### PP02 — What's Going On at the Pineapple Hotel? (Round 1)
-**Host format:** Post one detailed, entirely SFW cartoon hotel scene. Ask members to find five visual clues and guess the related words/phrases. Post the answer key separately after guesses.
-
-**Planned hidden answers:** Unicorn; Soft Swap; Hotwife; Open Relationship; Friends with Benefits.
-
-**Suggested visual clues:** A unicorn figurine at reception; a soft teddy beside two swapped luggage tags; a hot drink next to a wedding-ring display; an open door beside linked hearts; friends chatting beside a complimentary gift box. These are *suggested* visual representations, not literal depictions of sexual activity. Ensure the five clues are sufficiently distinguishable to support fair guessing.
-
 ## 🖼️ REUSABLE PROMO IMAGE NAMES
 
 Use evergreen posters across multiple weekdays: **Pineapple Puzzles, Pineapple Mystery, Pineapple Connections, Zoom In!, Porky Pineapple, Pineapple Fortunes, Pineapple Lucky Dip, Pineapple Quiz Time, Pineapple Showdown, Pineapple Laughs, Pineapple Transformations, Pineapple Snap Challenge.** Keep existing weekday artwork for established favourites too.
