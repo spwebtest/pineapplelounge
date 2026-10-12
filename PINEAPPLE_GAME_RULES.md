@@ -22,6 +22,8 @@
 
 **Hosting notes:** Announce the category when useful; accept guesses in chat; avoid giving away the answer before the planned reveal. Exact number of squares, clue intervals, point scoring and tie-breaks are not fixed in the available rules.
 
+**Self-running Celebrity Clue Scene (new):** Post one SFW image with **five indirect clues about the real celebrity** (two hard, two medium, one easier). Members guess the **person, not a character**, and explain at least three clues. No obvious programme titles, character names, signatures or answer labels; keep the key separate. No timed host interventions required. **History and test images:** [Mystery Monday Celebrity Register](PINEAPPLE_MYSTERY_MONDAY_HISTORY.md) — includes previous celebrities plus Johnny Depp, Angelina Jolie and Rowan Atkinson (new images created, not confirmed played).
+
 ### Wrong ’Un Monday — 🟡 Basic format
 Post a question or scenario inviting deliberately wrong, mischievous or ridiculous answers. Members reply in chat. Humour rather than factual correctness is the point. No established scoring.
 
