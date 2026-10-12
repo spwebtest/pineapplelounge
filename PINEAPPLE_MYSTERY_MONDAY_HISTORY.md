@@ -20,6 +20,20 @@ A running record of **Mystery Monday celebrity identities** and newly prepared s
 | **Angelina Jolie** | 🖼️ Image created; **not confirmed played** | UN flag (refugee humanitarian work), Oscar (Girl, Interrupted), African savannah/elephants (humanitarian connections), Hollywood and clapperboard (film career), human-rights book (advocacy) | Less immediate, but several clues are generic; risk of guesses such as Leonardo DiCaprio |
 | **Rowan Atkinson** | 🖼️ **Two images created/tested**; **not confirmed played** | **First draft:** green Mini, teddy, Mr Bean/Blackadder scripts, comedy and London — **rejected as far too easy**. **Revised hard-mode image:** Newcastle University, electrical-engineering textbooks/circuits, McLaren F1-style supercar, Edinburgh Fringe stage, spy gadgets (Johnny English) | Revised image preferred, but contains explicit **“Newcastle University”** and **“Edinburgh Festival”** signage; could be subtler. Celebrity answer is Rowan Atkinson, **not Mr Bean or Johnny English** |
 
+## Additional celebrity puzzles created — October 2026
+
+These were **generated in this chat**, but posting to Telegram has not been individually confirmed. **Do not select these celebrities again for a new Mystery Monday.**
+
+| Celebrity | Status | Clue-image notes |
+|---|---|---|
+| **Leonardo DiCaprio** | 🖼️ Image created/tested; not confirmed played | Ferrari/racing helmet, environmental themes, film equipment, mountains and travel. **Rejected:** too many generic or poorly matched props. |
+| **Justin Bieber** | 🖼️ Image created/tested; not confirmed played | Music, MTV trophy, headphones, streetwear, meditation and prominent **drew** smiley branding. **Too easy:** brand text gave it away. |
+| **Kylie Minogue** | 🖼️ Easy-mode image created; not confirmed played | Australian flag and kangaroo, disco ball, crown, microphone, glitter heels and **“Kylie”** printed visibly. **Deliberately very easy**, per request. |
+
+**Repeat-image notes:** Further Angelina Jolie and Johnny Depp images were accidentally generated after those celebrities had already been recorded; **do not count them as new celebrities**. The extra Angelina image had UNHCR/Sarajevo clues; later Johnny images repeated pirate/Wonka/Tim Burton references.
+
+**Distinct celebrity identities recorded so far: 11** (five previously used identities, counting the Chuckle Brothers as one duo, plus six newer identities: Johnny Depp, Angelina Jolie, Rowan Atkinson, Leonardo DiCaprio, Justin Bieber and Kylie Minogue).
+
 ### Celebrity Clue Scene — current preferred rules
 
 - Designed for a large group (~400 members), **one SFW picture posted once**, playable while the host sleeps.
