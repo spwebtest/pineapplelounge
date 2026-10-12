@@ -230,6 +230,31 @@ Wheel of Misfortune, Truth or Dare Roulette, Choo Choo Choose Roulette, Travel R
 
 ---
 
+
+## 🧩 PINEAPPLE PICTURE PUZZLE TEMPLATE LIBRARY
+
+Use the template code when requesting a new poster. **All puzzle artwork is SFW**: everyday objects, symbols, cartoon scenes and visual clues only. Members interpret the clues and post guesses in Telegram. Don't include the answer key on the artwork.
+
+| Code | Template | How it works | Status |
+|---|---|---|---|
+| **PP01** | **Picture Equations** | Combine illustrated objects with + signs to guess a phrase | ✅ Two rounds created |
+| **PP02** | **Hidden Scene** | Search a busy cartoon scene for objects hinting at hidden phrases | 🟡 First hotel scene planned |
+| **PP03** | **Zoom In!** | Identify an object from an extreme close-up, revealing more as needed | 💡 To try |
+| **PP04** | **Four Pictures, One Word** | Four images all hint at one answer | 💡 To try |
+| **PP05** | **Missing Link** | Find the shared connection among several images | 💡 To try |
+| **PP06** | **Square Reveal** | Uncover squares progressively to identify a hidden picture | ✅ Existing game mechanic |
+| **PP07** | **Wordplay & Dingbats** | Decode visual text, letter placement and symbols | 💡 To try |
+| **PP08** | **Spot the Difference** | Compare two nearly identical scenes | 💡 To try |
+| **PP09** | **Odd One Out** | Identify which image doesn't belong and explain why | 💡 To try |
+| **PP10** | **Picture Detective** | Inspect visual evidence in a scene to solve a mystery | 💡 To try |
+
+### PP02 — What's Going On at the Pineapple Hotel? (Round 1)
+**Host format:** Post one detailed, entirely SFW cartoon hotel scene. Ask members to find five visual clues and guess the related words/phrases. Post the answer key separately after guesses.
+
+**Planned hidden answers:** Unicorn; Soft Swap; Hotwife; Open Relationship; Friends with Benefits.
+
+**Suggested visual clues:** A unicorn figurine at reception; a soft teddy beside two swapped luggage tags; a hot drink next to a wedding-ring display; an open door beside linked hearts; friends chatting beside a complimentary gift box. These are *suggested* visual representations, not literal depictions of sexual activity. Ensure the five clues are sufficiently distinguishable to support fair guessing.
+
 ## 🖼️ REUSABLE PROMO IMAGE NAMES
 
 Use evergreen posters across multiple weekdays: **Pineapple Puzzles, Pineapple Mystery, Pineapple Connections, Zoom In!, Porky Pineapple, Pineapple Fortunes, Pineapple Lucky Dip, Pineapple Quiz Time, Pineapple Showdown, Pineapple Laughs, Pineapple Transformations, Pineapple Snap Challenge.** Keep existing weekday artwork for established favourites too.
