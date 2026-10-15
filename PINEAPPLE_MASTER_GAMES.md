@@ -1,5 +1,15 @@
 # 🍍 PINEAPPLE MASTER GAMES LIST
 
+## 🍍 Submit a Game Idea
+
+Got an idea for Transform Thursday, Mystery Monday, Teaser Tuesday or another Pineapple game? Share it through the anonymous ideas box — no name or email address required.
+
+**[🍍 Submit an Anonymous Game Idea](https://docs.google.com/forms/d/e/1FAIpQLSdqEXHXUoCfRU-o3IHCfmjkRUS4oNCgWa_YOkrYUXpjtjwqcA/viewform)**
+
+You can submit multiple suggestions. Admins review ideas privately before adding selected ones to the games list.
+
+---
+
 Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = rotating alternative; 💡 = idea to try. Special events are marked in their descriptions. All original games and alternatives are retained, with duplicate entries consolidated.
 
 | Day / Section | Game | What it’s about |
