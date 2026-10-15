@@ -22,6 +22,27 @@ button,.game{border:0;border-radius:14px;padding:15px 20px;font-weight:800;curso
 .game{display:block;text-decoration:none;background:var(--card);color:var(--ink);border:2px solid #dbe8d8;min-height:135px;font-size:18px}.game span{display:block;font-size:38px;margin-bottom:7px}.game small{display:block;font-weight:500;opacity:.65;margin-top:5px}.ready{border-color:#f2c62f;background:#fff8cf}
 .note{text-align:center;font-size:13px;opacity:.6;margin:25px}
 </style>
+<style>
+/* Pineapple Lounge arcade refresh */
+body{color:#fff8e8;background:radial-gradient(ellipse at 50% 5%,#31543a,#102019 55%,#0b1711)!important}
+.brand h1{color:#fff8e8;text-shadow:0 3px 16px #0005}
+.brand p{color:#d6e1cd;opacity:1}
+#hub .panel{background:#172d21;border:1px solid #536c50;color:#fff8e8}
+#hub .top strong{font-size:clamp(23px,4vw,32px)}
+#hub .top small{color:#c4d4bf}
+#hub .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+#hub .game{display:flex;flex-direction:column;align-items:flex-start;min-height:210px;background:#20382b;color:#fff8e8;border:1px solid #5b7655;padding:15px;font-size:16px;transition:transform .2s,border-color .2s}
+#hub .game:hover{transform:translateY(-3px);border-color:#f3c84b}
+#hub .game span{font-size:36px}
+#hub .game small{color:#c9d7c2;opacity:1;font-size:12px;line-height:1.4}
+#hub .game:after{content:"PLAY NOW →";display:block;margin-top:auto;width:100%;background:#f3c84b;color:#18271c;text-align:center;padding:10px 3px;border-radius:9px;font-size:12px}
+#hub .lock{background:#344b39;color:#fff8e8;border:1px solid #758b70}
+#hub .admin-links{margin-top:25px;padding:20px;border:1px solid #526d51;border-radius:16px;background:#24402e}
+#hub .admin-links a{background:#f3c84b!important;color:#17251d!important;margin:6px 5px 0 0!important}
+#hub .note{color:#bbccba;opacity:1}
+@media(min-width:720px){#hub .grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:390px){.wrap{padding:14px 10px}#hub .panel{padding:14px}#hub .grid{gap:9px}#hub .game{padding:11px;font-size:14px;min-height:195px}#hub .game span{font-size:30px}}
+</style>
 </head>
 <body><main class="wrap">
 <section id="gate" class="panel">
@@ -29,18 +50,18 @@ button,.game{border:0;border-radius:14px;padding:15px 20px;font-weight:800;curso
 <form id="pinForm"><label for="pin">Enter lounge PIN</label><input class="pin" id="pin" type="password" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="••••"><button class="unlock">ENTER THE LOUNGE</button><div class="error" id="error"></div></form>
 </section>
 <section id="hub">
-<div class="brand"><div class="fruit">🍍</div><h1>The Pineapple Lounge</h1><p>Pick a game and cause some chaos.</p></div>
-<div class="panel"><div class="top"><div><strong>🍍 Games Hub</strong><br><small>More games will be added here.</small></div><button class="lock" id="lock">Lock Lounge</button></div>
+<div class="brand"><div class="fruit">🍍</div><div style="color:#f3c84b;font-size:11px;letter-spacing:2px;font-weight:900;margin-top:14px">WELCOME TO THE FUN SIDE</div><h1>Play games.<br><span style="color:#f3c84b">Cause chaos.</span></h1><p>Your home for ridiculous games, cheeky challenges and pineapple-powered fun.</p></div>
+<div class="panel"><div class="top"><div><strong>🍍 Games Hub</strong><br><small>Pick your next adventure 🍍</small></div><button class="lock" id="lock">Lock Lounge</button></div>
 <div class="grid" id="gamesGrid">
 <a class="game ready" id="horseRace" href="horse-race.html"><span>🏇</span>Pineapple Grand National<small>Random animated horse race</small></a>
-<a class="game ready" id="dealOrNoDeal" href="deal-or-no-deal.html?v=4"><span>💰</span>Deal or No Deal<small>First game — ready to build/play.</small></a>
-<a class="game ready" id="pineappleWheel" href="pineapple-wheel.html"><span>🎡</span>Pineapple Games Wheel<small>Spin to choose a Pineapple game</small></a>
+<a class="game ready" id="dealOrNoDeal" href="deal-or-no-deal.html?v=4"><span>💰</span>Deal or No Deal<small>Beat the banker and win big!</small></a>
+
 <a class="game ready" id="scottyHotCold" href="wheres-scotty-hot-cold.html"><span>🔥❄️</span>Where’s Scotty? Hot or Cold<small>Location guessing game & temperature chart</small></a>
 <a class="game ready" id="wheresScotty" href="wheres-scotty.html?v=20b"><span>🕵️</span>Where's Scotty?<small>20-square live location challenge</small></a>
 <a class="game ready" href="roll-the-dice.html"><span>🎲</span>Roll the Dice<small>Roll a random number from 1–6</small></a>
 <a class="game ready" id="scoresTallies" href="scores-and-tallies.html"><span>🏆</span>Scores &amp; Tallies<small>Historical game leaderboards and results</small></a>
 <a class="game ready" id="sundayRoast" href="insult-generator.html"><span>🔥🍍</span>Sunday Roast<small>Enter your name, choose your roast level & face the consequences</small></a>
-<a class="game ready" id="whoAmI" href="who-am-i.html"><span>👤</span>Who Am I?<small>Guess the celebrity as the squares disappear</small></a></div><div style="margin-top:26px;padding-top:20px;border-top:1px solid #dbe8d8"><strong>🔗 Admin Links</strong><p style="margin:6px 0 12px;font-size:14px">Handy links for the Pineapple admins.</p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFxGyb7Nd4c1WUe-YRtfunK6C2m-F8_ScAbxJ-oJon7iLMug/viewform" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1f6f43;color:#fff;padding:12px 16px;border-radius:12px;font-weight:700;text-decoration:none">🍍 Hot Seat Booking Form ↗</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqEXHXUoCfRU-o3IHCfmjkRUS4oNCgWa_YOkrYUXpjtjwqcA/viewform" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1f6f43;color:#fff;padding:12px 16px;border-radius:12px;font-weight:700;text-decoration:none;margin:8px 0 0 8px">💡 Game Ideas &amp; Contributions ↗</a></div></div><div class="note">Unlisted community site • Search indexing disabled</div>
+<a class="game ready" id="whoAmI" href="who-am-i.html"><span>👤</span>Who Am I?<small>Guess the celebrity as the squares disappear</small></a></div><div class="admin-links"><strong>🔗 Admin Links</strong><p style="margin:6px 0 12px;font-size:14px">Handy links for the Pineapple admins.</p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFxGyb7Nd4c1WUe-YRtfunK6C2m-F8_ScAbxJ-oJon7iLMug/viewform" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1f6f43;color:#fff;padding:12px 16px;border-radius:12px;font-weight:700;text-decoration:none">🍍 Hot Seat Booking Form ↗</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqEXHXUoCfRU-o3IHCfmjkRUS4oNCgWa_YOkrYUXpjtjwqcA/viewform" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1f6f43;color:#fff;padding:12px 16px;border-radius:12px;font-weight:700;text-decoration:none;margin:8px 0 0 8px">💡 Game Ideas &amp; Contributions ↗</a></div></div><div class="note">Unlisted community site • Search indexing disabled</div>
 </section></main>
 <script>
 const PIN='7319'; // Change this value whenever you want a new 4-digit PIN.
