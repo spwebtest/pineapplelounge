@@ -12,6 +12,16 @@ You can submit multiple suggestions. Admins review ideas privately before adding
 
 ---
 
+## 🍍 Volunteer for the Hot Seat
+
+Want to take the Pineapple Hot Seat? Choose your preferred day and tick all the time slots that suit you.
+
+**[🍍 Sign Up for the Hot Seat](https://docs.google.com/forms/d/e/1FAIpQLSfFxGyb7Nd4c1WUe-YRtfunK6C2m-F8_ScAbxJ-oJon7iLMug/viewform)**
+
+An admin will contact you on Telegram to confirm a session. Submitting the form does not guarantee a booking.
+
+---
+
 Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = rotating alternative; 💡 = idea to try. Special events are marked in their descriptions. All original games and alternatives are retained, with duplicate entries consolidated.
 
 | Day / Section | Game | What it’s about |
