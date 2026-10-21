@@ -3,13 +3,13 @@
 </style></head><body><main class="wrap"><a href="index.html">← Games Hub</a><div class="hero"><div style="font-size:55px">🍍🕵️</div><h1>WHERE'S SCOTTY?</h1><h2>🔥 HOT OR COLD ❄️</h2><p>Guess a location. Follow the heat. Find Scotty!</p></div>
 <section class="panel"><h2>🎮 How to play</h2><p>Scotty is hiding somewhere in the world. Players suggest a town or city in Telegram. The host checks the distance from the secret location, awards the matching heat rating and adds the guess to the chart. Use everyone's clues to narrow down the hiding place. First correct location wins!</p><h3>🌡️ Official heat chart</h3><table><thead><tr><th>Heat</th><th>Distance</th></tr></thead><tbody><tr><td>🔥🔥🔥 Boiling</td><td>Under 100 km</td></tr><tr><td>🔥🔥 Very Hot</td><td>100–249 km</td></tr><tr><td>🔥 Hot</td><td>250–499 km</td></tr><tr><td>🌡️ Warm</td><td>500–999 km</td></tr><tr><td>❄️ Cold</td><td>1,000–2,000 km</td></tr><tr><td>🥶 Freezing</td><td>Over 2,000 km</td></tr></tbody></table><p class="small">Distances are approximate straight-line distances. At exactly 2,000 km the rating is Cold.</p></section>
 <section class="panel"><h2>📍 Take a guess</h2><p>Where is Scotty hiding?</p><form id="guessForm"><label for="guess">Your guess</label><input id="guess" required placeholder="Town, city or location"><button type="submit">Submit guess</button></form><p id="status" aria-live="polite"></p></section></main><script>
-const base=[35.6762,139.6503],R=Math.PI/180;
+const base=[-33.9249,18.4241],R=Math.PI/180;
 function distance(lat,lon){const a=Math.sin((lat-base[0])*R/2)**2+Math.cos(lat*R)*Math.cos(base[0]*R)*Math.sin((lon-base[1])*R/2)**2;return 12742*Math.asin(Math.min(1,Math.sqrt(a)))}
 function rating(d){return d<100?"🔥🔥🔥 BOILING":d<250?"🔥🔥 VERY HOT":d<500?"🔥 HOT":d<1000?"🌡️ WARM":d<=2000?"❄️ COLD":"🥶 FREEZING"}
 document.getElementById("guessForm").onsubmit=async function(e){
 e.preventDefault();const guess=document.getElementById("guess").value.trim(),out=document.getElementById("status");if(!guess)return;
 out.textContent="Checking location…";
 try{const response=await fetch("https://nominatim.openstreetmap.org/search?format=json&limit=1&q="+encodeURIComponent(guess));if(!response.ok)throw Error();const data=await response.json();if(!data.length){out.textContent="Location not found. Try including the country.";return}
-const d=distance(Number(data[0].lat),Number(data[0].lon));out.textContent=/^tokyo(?:,?\s*(?:japan|jp))?$/i.test(guess)?"🎉 CORRECT! You found Scotty!":rating(d)+" — "+Math.round(d)+" km away. Try again!";
+const d=distance(Number(data[0].lat),Number(data[0].lon));out.textContent=/^cape town(?:,?\s*(?:south africa|za))?$/i.test(guess)?"🎉 CORRECT! You found Scotty!":rating(d)+" — "+Math.round(d)+" km away. Try again!";
 }catch(err){out.textContent="Location lookup unavailable. Please try again."}
 };</script></body></html>
