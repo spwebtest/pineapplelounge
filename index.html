@@ -45,13 +45,9 @@ body{color:#fff8e8;background:radial-gradient(ellipse at 50% 5%,#31543a,#102019 
 </style>
 </head>
 <body><main class="wrap">
-<section id="gate" class="panel">
-<div class="brand"><div class="fruit">🍍</div><h1>The Pineapple Lounge</h1><p>Private games for the Pineapple crew</p></div>
-<form id="pinForm"><label for="pin">Enter lounge PIN</label><input class="pin" id="pin" type="password" inputmode="numeric" maxlength="4" autocomplete="off" placeholder="••••"><button class="unlock">ENTER THE LOUNGE</button><div class="error" id="error"></div></form>
-</section>
-<section id="hub">
+<section id="hub" style="display:block">
 <div class="brand"><div class="fruit">🍍</div><div style="color:#f3c84b;font-size:11px;letter-spacing:2px;font-weight:900;margin-top:14px">WELCOME TO THE FUN SIDE</div><h1>Play games.<br><span style="color:#f3c84b">Cause chaos.</span></h1><p>Your home for ridiculous games, cheeky challenges and pineapple-powered fun.</p></div>
-<div class="panel"><div class="top"><div><strong>🍍 Games Hub</strong><br><small>Pick your next adventure 🍍</small></div><button class="lock" id="lock">Lock Lounge</button></div>
+<div class="panel"><div class="top"><div><strong>🍍 Games Hub</strong><br><small>Pick your next adventure 🍍</small></div></div>
 <div class="grid" id="gamesGrid">
 <a class="game ready" id="horseRace" href="horse-race.html"><span>🏇</span>Pineapple Grand National<small>Random animated horse race</small></a>
 <a class="game ready" id="dealOrNoDeal" href="deal-or-no-deal.html?v=4"><span>💰</span>Deal or No Deal<small>Beat the banker and win big!</small></a>
@@ -63,16 +59,4 @@ body{color:#fff8e8;background:radial-gradient(ellipse at 50% 5%,#31543a,#102019 
 <a class="game ready" id="sundayRoast" href="insult-generator.html"><span>🔥🍍</span>Sunday Roast<small>Enter your name, choose your roast level & face the consequences</small></a>
 </div><div class="admin-links"><strong>🔗 Admin Links</strong><p style="margin:6px 0 12px;font-size:14px">Handy links for the Pineapple admins.</p><a href="https://docs.google.com/forms/d/e/1FAIpQLSfFxGyb7Nd4c1WUe-YRtfunK6C2m-F8_ScAbxJ-oJon7iLMug/viewform" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1f6f43;color:#fff;padding:12px 16px;border-radius:12px;font-weight:700;text-decoration:none">🍍 Hot Seat Booking Form ↗</a> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdqEXHXUoCfRU-o3IHCfmjkRUS4oNCgWa_YOkrYUXpjtjwqcA/viewform" target="_blank" rel="noopener noreferrer" style="display:inline-block;background:#1f6f43;color:#fff;padding:12px 16px;border-radius:12px;font-weight:700;text-decoration:none;margin:8px 0 0 8px">💡 Game Ideas &amp; Contributions ↗</a></div></div><div class="note">Unlisted community site • Search indexing disabled</div>
 </section></main>
-<script>
-const PIN='7319'; // Change this value whenever you want a new 4-digit PIN.
-const gate=document.getElementById('gate'),hub=document.getElementById('hub');
-function openLounge(){gate.style.display='none';hub.style.display='block'}
-if(sessionStorage.getItem('pineappleAccess')==='yes') openLounge();
-document.getElementById('pinForm').addEventListener('submit',e=>{e.preventDefault();if(document.getElementById('pin').value===PIN){sessionStorage.setItem('pineappleAccess','yes');openLounge()}else{document.getElementById('error').textContent='🍍 Nope — wrong PIN. Try again.'}});
-document.getElementById('lock').onclick=()=>{sessionStorage.removeItem('pineappleAccess');location.reload()};
-// ACTIVE GAME MODE — change this value when Scott says "Run [game]".
-const ACTIVE_GAME='all';
-document.querySelectorAll('#gamesGrid .game').forEach(g=>{
-  g.style.display=(ACTIVE_GAME==='all'||g.id===ACTIVE_GAME||g.id==='scoresTallies')?'block':'none';
-});
-</script></body></html>
+</body></html>
