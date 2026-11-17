@@ -25,12 +25,41 @@ These updates supplement the older descriptions below. Where a format conflicts 
 Members work out a mystery location from the host's clues. They may wait for further information or **privately send the host a locked-in location guess**. Do not reveal other players' answers before the solution. Exact clue count, winner eligibility and scoring are **not yet fixed**. This is distinct from the hidden-picture square reveal.
 
 ### 🔥❄️ Where's Scotty? Hot & Cold — ✅ Existing game, clarified
+**Copy-and-paste temperature chart (approximate straight-line distance):**
+
+```text
+🌍 WHERE'S SCOTTY? HOT & COLD
+
+🔥🔥🔥 BOILING — Under 100 km
+🔥🔥 VERY HOT — 100–250 km
+🔥 HOT — 250–500 km
+🌡️ WARM — 500–1,000 km
+❄️ COLD — 1,000–2,000 km
+🥶 FREEZING — Over 2,000 km
+```
+
+**Boundary convention:** To avoid overlap at exact thresholds, use under 100; 100–under 250; 250–under 500; 500–under 1,000; 1,000–2,000 inclusive; over 2,000 km.
+
+
 Host selects a secret location. Members guess places and receive **distance in kilometres** plus relative hot/cold guidance. Compare actual distances consistently; do not invent precision or thresholds. Continue until the answer is found or revealed. No confirmed scoring system.
 
 ### ⚡ Scotty's Quickies — ✅ Played, flexible any-day format
 A quick standalone guessing challenge, often an emoji puzzle identifying a celebrity, TV character or other familiar answer. Post a compact clue sequence; members guess in the chat and the host reveals/explains the answer. Check that each emoji or clue genuinely relates to the answer; avoid arbitrary or misleading clues. **No mandatory number of rounds, scoring or timing.**
 
 ### 💘 Flirt or Divert (Friday) — 🟡 Agreed poll format
+**Copy-and-paste star rating chart:**
+
+```text
+💘 FLIRT OR DIVERT
+
+⭐ 1 — DIVERT! 🚫
+⭐⭐ 2 — Cringe 😬
+⭐⭐⭐ 3 — Not Bad 😉
+⭐⭐⭐⭐ 4 — Smooth 😍
+⭐⭐⭐⭐⭐ 5 — KEEP FLIRTING! 🔥
+```
+
+
 Post a chat-up line and let members rate it using a **Telegram poll from 1 to 5 stars**. **1 = Divert**, **5 = Keep flirting**; 2–4 are intermediate reactions and can be labelled to suit the poll. There is no correct answer or scoring. Repeat with more lines as desired.
 
 ### 🎬 Film Friday — 🟡 Flexible theme
