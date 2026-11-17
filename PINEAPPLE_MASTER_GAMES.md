@@ -27,6 +27,7 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 | Day / Section | Game | What it’s about |
 |---|---|---|
 | **MONDAY** | ⭐ 🕵️ Mystery Monday | Alternate picture-square reveals and progressive clue reveals; occasional fictional detective mystery special |
+|  | ⭐ 🔐 Celebrity Lock-In | Six progressively easier, reworded celebrity clues; players pass or privately message one locked-in guess; one guess each; played |
 |  | ⭐ 🟦 Square Reveal | Uncover a picture one square at a time |
 |  | ⭐ 🔎 Clue Reveal | Give progressively easier clues to identify the answer |
 |  | ⭐ 🔪 Murder Mystery | Special fictional whodunnit featuring group members as characters |
@@ -49,7 +50,8 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 |  | 🔄 🔍 Tiny Detail Tuesday | Guess an object from a tiny image detail |
 |  | 🔄 🤥 Truth or Trash Tuesday | Vote for the false statement |
 |  | 💡 🧩 Two Clues Tuesday | Combine two picture clues to find an answer |
-| **WEDNESDAY** | ⭐ 🌍 Where’s Scotty? Hot or Cold | Guess a city using distance-temperature clues |
+| **WEDNESDAY** | ⭐ 🌍 Where’s Scotty? Hot or Cold | Guess a hidden location using distances in kilometres and hot/cold guidance; played |
+|  | ⭐ 🔐 Where’s Scotty Lock-In | Guess the location and privately lock in an answer with the host; separate from picture-square reveals; created |
 |  | ⭐ 🔎 Where’s Scotty Wednesday | Find Scotty hidden in a busy image |
 |  | 🔄 🛠️ Workshop Wednesday | Creative activities and member contributions |
 |  | 🔄 🃏 Wildcard Wednesday | A surprise game each week |
@@ -66,6 +68,9 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 |  | 🔄 🔎 Take a Closer Look Thursday | Guess objects from magnified pictures |
 |  | 🔄 🤥 Truth or Twaddle Thursday | Find the false claim |
 |  | 🔄 🧠 Think It Thursday | Visual riddles and brain teasers |
+|  | ⭐ 💘 Flirt or Divert | Rate chat-up lines by Telegram poll: 1 = divert, 5 = keep flirting; created |
+|  | 🔄 🎬 Film Friday | Flexible movie-themed questions, polls and challenges; created |
+|  | 🔄 😇 Filth or Innocent Friday | Cheeky questions with a filth-or-innocence choice; created |
 | **FRIDAY** | ⭐ 😂 Thank GIF It’s Friday | Reply to prompts using GIFs |
 |  | ⭐ 🏁 Finish Line Friday | Virtual races and finishing positions |
 |  | 🔄 ☝️ One Word Friday | Answer questions in just one word |
@@ -90,6 +95,7 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 |  | 🔄 🧠 Sunday Brain Fry | Tricky visual puzzles and riddles |
 |  | 🔄 🔗 Sunday Connections | Find the link between clues |
 | **🏆 PINEAPPLE SPECIAL EVENTS** |  | Bigger games for occasional events, tournaments and group specials; no fixed dates |
+|  | 💑 Mr & Mrs | Spotlight one couple, collect private answers and compare them in the main group; designed, not confirmed played |
 |  | 💼 Deal or No Deal | Monthly idea: hidden boxes, Banker offers and suspense |
 |  | 🏇 Pineapple Horse Racing | Occasional virtual racing tournament with eliminations and grand final |
 |  | 🔪 Pineapple Murder Mystery | Occasional fictional whodunnit featuring consenting group members as characters; also listed under Monday |
@@ -97,6 +103,7 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 |  | 🎡 Wheel of Whatever | Flexible special with random games, challenges and surprises |
 |  | 🏆 Showdown Championship | Occasional championship using popular-choice polls |
 | **🍍 PLAY ANY DAY** |  | Flexible games for any weekday |
+|  | ⚡ Scotty’s Quickies | Spontaneous drop-in mini-games, including emoji celebrity puzzles and rapid guessing challenges; played |
 |  | 💨 Pineapple Speed Chat | Fast-paced chat and quick-fire questions |
 |  | 👑 Member Takeover | A member runs questions or activities |
 |  | 🍍 Pass the Pineapple | Pass a challenge to another member |
