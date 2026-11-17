@@ -1,11 +1,58 @@
 # 🍍 PINEAPPLE GAME RULES & HOST GUIDE
 
-**Last compiled:** 12 October 2026  
+**Last compiled:** 17 November 2026  
 **Purpose:** One reference for running Pineapple Telegram games and Pineapple Lounge website-assisted games. Organised by day, then special events and any-day games.
 
 **Status key:** ✅ Established = rules or workflow previously agreed/used. 🟡 Basic format = game concept agreed but details may vary. 💡 Developing = proposed; don't treat suggested rules as already approved.
 
 **General hosting guidance:** Keep instructions short; allow late participation when practical; use polls, short guesses and picture clues where possible. Avoid inventing scores or claiming a winner without recorded results. For member-centred games, keep participation voluntary and jokes good-natured.
+
+---
+
+## 🆕 RECENT GAME RULES & FORMAT UPDATES — NOVEMBER 2026
+
+These updates supplement the older descriptions below. Where a format conflicts with an older entry, the newer confirmed rules take precedence. Unconfirmed details are labelled.
+
+### 🕵️ Celebrity Lock-In (Mystery Monday) — ✅ Played, 16 November
+1. Host chooses a real celebrity and prepares **six verified, progressively easier clues**, worded indirectly rather than copied from searchable biographies.
+2. Publish clues one at a time. Members may **PASS** and wait for another clue.
+3. Once ready, a player **privately messages the host one guess to lock in**. **Only one guess per player**; don't reveal guesses publicly during play.
+4. Keep the answer secret until the final reveal. The established six-clue lock-in format awards winners from **Round 1 only**; verify how this is applied to a particular edition before announcing winners.
+5. Recheck factual accuracy and clue difficulty before posting; don't inadvertently reveal the celebrity through a title or obvious signature fact.
+**Telegram instruction:** “You can PASS and wait for the next clue, or message me your guess privately when you're ready to LOCK IN. One guess only — keep it secret!”
+
+### 🌍 Where's Scotty Lock-In — 🟡 Format created; play status unconfirmed
+Members work out a mystery location from the host's clues. They may wait for further information or **privately send the host a locked-in location guess**. Do not reveal other players' answers before the solution. Exact clue count, winner eligibility and scoring are **not yet fixed**. This is distinct from the hidden-picture square reveal.
+
+### 🔥❄️ Where's Scotty? Hot & Cold — ✅ Existing game, clarified
+Host selects a secret location. Members guess places and receive **distance in kilometres** plus relative hot/cold guidance. Compare actual distances consistently; do not invent precision or thresholds. Continue until the answer is found or revealed. No confirmed scoring system.
+
+### ⚡ Scotty's Quickies — ✅ Played, flexible any-day format
+A quick standalone guessing challenge, often an emoji puzzle identifying a celebrity, TV character or other familiar answer. Post a compact clue sequence; members guess in the chat and the host reveals/explains the answer. Check that each emoji or clue genuinely relates to the answer; avoid arbitrary or misleading clues. **No mandatory number of rounds, scoring or timing.**
+
+### 💘 Flirt or Divert (Friday) — 🟡 Agreed poll format
+Post a chat-up line and let members rate it using a **Telegram poll from 1 to 5 stars**. **1 = Divert**, **5 = Keep flirting**; 2–4 are intermediate reactions and can be labelled to suit the poll. There is no correct answer or scoring. Repeat with more lines as desired.
+
+### 🎬 Film Friday — 🟡 Flexible theme
+An umbrella for movie-related polls, clues, rankings or guessing rounds. Explain the chosen activity before posting; no single fixed scoring system.
+
+### 😇 Filth or Innocent Friday — 🟡 Created theme
+Post a cheeky, ambiguous question or scenario. Members choose a **filthy** or **innocent** interpretation, typically in a poll, and may discuss their answers. No established winner or points system.
+
+### 💑 Mr & Mrs — 🟡 Designed, not confirmed played
+Feature **one consenting couple**. Gather each person's answers privately (for example, in separate private chats), then reveal and compare answers in the main group. The host leads questions and discussion. No fixed scoring or winner rule has been confirmed.
+
+### 💼 Deal or No Deal — ✅ Later game updates
+Player **keeps one numbered box** while other boxes are opened over rounds. The **Banker makes offers after rounds**; player decides DEAL or NO DEAL. **Wait for the host** to announce the next opening/decision; the earliest valid response can matter in the opening phase, with **polls used in later rounds**. Game 5 kept **box 15**, which was opened for the final reveal. These later records supplement the older week-2 box-17 history; they are different games, not a correction. Use the live game's box values and round structure rather than inventing them.
+
+### ⚔️ Showdown Saturday — ✅ Updated tie-break
+Ten A/B popularity polls; all members may participate. Missing a question incurs a penalty, but **the numeric deduction remains unverified**. When players tie on the main result, **the player who answered fewer questions wins the tie-break**. Apply this only when the edition uses that agreed tie-break; otherwise record joint winners.
+
+### 🔪 Pineapple Manor Murder Mystery — ✅ Trial played, 8 November
+The trial featured **one victim (Liam) and five suspects**, including Coral; don't assume those roles or names are fixed for future games. Run an announcement, suspect introductions, **three crime-scene evidence releases**, alibis/motives, an accusation poll, progressive suspect clearances (trial used approximately ten-minute intervals), and the final reveal. Keep the fictional answer and host key private until reveal. Avoid clues that contradict the solution; distinguish red herrings from decisive evidence.
+
+### 🎡 Wheel of Misfortune — 🟡 Recent format adjustments
+Outcomes discussed include **Take Someone With Me** and **Golden Pass**. Passes are removed after their use/round under the recent format. **Second Chance** and **Double Trouble** were removed from the planned wheel. Exact spin order and remaining segments are edition-specific.
 
 ---
 
