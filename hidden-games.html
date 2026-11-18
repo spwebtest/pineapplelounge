@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Host Games — Pineapple Lounge</title><style>*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(circle at top,#31543a,#102019 65%);color:#fff8e8;font-family:system-ui,sans-serif;padding:24px}main{max-width:460px;margin:30px auto}section{background:#20382b;border:1px solid #5b7655;border-radius:20px;padding:24px;text-align:center}h1{font-size:28px}p{color:#d6e1cd}input{width:100%;font-size:28px;text-align:center;letter-spacing:12px;padding:14px;border-radius:12px;border:2px solid #f3c84b;background:#fff;color:#18271c}button,.play{display:block;width:100%;background:#f3c84b;color:#18271c;border:0;border-radius:12px;padding:15px;margin-top:14px;font-weight:800;font-size:17px;text-decoration:none;cursor:pointer}.muted{background:#344b39;color:white}small{display:block;margin-top:14px;color:#c4d4bf}a{color:#f3c84b}</style></head><body><main><section><div style="font-size:44px">🍍🔒</div><h1>Host Games</h1><div id="gate"><p id="instruction">Enter your 4-digit PIN</p><input id="pin" type="password" inputmode="numeric" maxlength="4" pattern="[0-9]{4}" autocomplete="off" placeholder="••••" aria-label="Four digit PIN"><button id="submit">Unlock</button><small id="message"></small></div><div id="library" hidden><p>Your private games library</p><a class="play" href="the-missing-notes.html?v=18">🎵 The Missing Notes — Play</a><button class="muted" id="lock">🔒 Lock Host Games</button></div><p><a href="index.html">← Back to Games Hub</a></p></section></main><script>
+(function(){
+const key='pineappleHostPin',session='pineappleHostUnlocked',input=document.getElementById('pin'),msg=document.getElementById('message'),instruction=document.getElementById('instruction'),gate=document.getElementById('gate'),library=document.getElementById('library');
+let first=localStorage.getItem(key)===null;
+instruction.textContent=first?'Choose a 4-digit PIN for this device':'Enter your 4-digit Host PIN';
+function show(){gate.hidden=true;library.hidden=false;sessionStorage.setItem(session,'yes');}
+if(sessionStorage.getItem(session)==='yes')show();
+document.getElementById('submit').onclick=function(){
+const pin=input.value;
+if(!/^\d{4}$/.test(pin)){msg.textContent='Enter exactly four digits.';return;}
+if(first){localStorage.setItem(key,pin);first=false;show();return;}
+if(pin===localStorage.getItem(key)){msg.textContent='';show();}else{msg.textContent='Incorrect PIN. Please try again.';input.value='';}
+};
+input.addEventListener('keydown',e=>{if(e.key==='Enter')document.getElementById('submit').click()});
+document.getElementById('lock').onclick=()=>{sessionStorage.removeItem(session);location.reload()};
+})();
+</script></body></html>
