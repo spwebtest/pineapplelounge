@@ -2,40 +2,74 @@
 
 Updated: 18 November 2026
 
-This is a working record of **confirmed name-to-Telegram-handle mappings** provided in Pineapple conversations. It is **not** a complete reconstruction of the original 59-member numbered master list. Do not treat a missing username as confirmed.
+Working master based on screenshots of the original numbered list and later confirmed usernames. Numbers below are **original list positions**, not a newly assigned order. Screenshots show 1–20 and 27–46 (with #19, #45 partly obscured). Other positions are not yet recovered. Do not infer missing names.
+
+## Original numbered members — recovered positions
+
+| # | Name | Telegram username | Notes |
+|---|---|---|---|
+| 1 | Coral | @Coralpops | Also Coral Higgins; later supplied @coralpops (capitalization variation) |
+| 2 | Lisa | @Hawitslisa | |
+| 3 | Fraser | @f_fsscotland | |
+| 4 | Alex | @Eck1270 | |
+| 5 | Liam H | @Darklotus_69 | Distinct from Liam #6 |
+| 6 | Liam | @ennis1994 | |
+| 7 | Lauren | @LozzaVE | |
+| 8 | Charlie | @Chazillhoff | |
+| 9 | Scott | @scottdadjokes | |
+| 10 | Jenn | @JustJenn626 | |
+| 11 | Scott Noodle | @nakednoodle88 | |
+| 12 | Angie | @regiph | |
+| 13 | Mairi M | @ginger24601 | |
+| 14 | Caitlin | @Cait2706 | |
+| 15 | Kirsten | @kayehm | |
+| 16 | Rhys | — | |
+| 17 | Caz | — | |
+| 18 | Laura | @Punsexual | |
+| 19 | [obscured] | — | |
+| 20 | Kevin | — | |
+| 27 | James | — | |
+| 28 | Chelle | — | |
+| 29 | Kenny J | — | |
+| 30 | Amanda | @WeeToots | |
+| 31 | Arlene | @Littlemisscurvesxx | Added from later confirmation |
+| 32 | Kris | @Kris_2498 | |
+| 33 | Kar | — | |
+| 34 | Andy | — | |
+| 35 | Emma Gnd | @Scottish_Em | |
+| 36 | V | — | |
+| 37 | Jamie | — | |
+| 38 | Kelly | — | |
+| 39 | Hâmez | @NeedsANewUserName | Added from later confirmation |
+| 40 | Anthony | @mrdd1976 | |
+| 41 | Allan M | — | |
+| 42 | Mr The_Shoes_Stay_On | — | |
+| 43 | Dani | @WeeDanielle | |
+| 44 | Kylie | @Kyliemcc | |
+| 45 | [obscured] | — | |
+| 46 | Robbie | @Petrolhead2820 | Added from later confirmation |
+
+## Additional confirmed member usernames — original position not recovered
 
 | Name | Telegram username | Notes |
 |---|---|---|
 | Sam | @Luna_De_Lace | |
-| Dani | @WeeDanielle | |
-| Danni | @Danni_18 | |
-| Lauren | @LozzaVE | |
-| Scott Noodle | @nakednoodle88 | |
+| Danni | @Danni_18 | Different from Dani #43 |
 | Amy | @Aimzxx88 | |
-| Kris | @Kris_2498 | |
-| Liam | @ennis1994 | |
-| Coral | @coralpops | Also seen as Coral Higgins |
-| Alicia / D 🖤 | @D89123 | Name discrepancy: initially Alicia, later D |
+| Alicia / D 🖤 | @D89123 | Conflicting names provided for same handle; needs clarification |
 | Hannah | @smallone98 | |
-| Hâmez | @NeedsANewUserName | |
-| Alex | @Eck1270 | |
-| Lisa | @Hawitslisa | |
-| Arlene 💋 | @Littlemisscurvesxx | |
 | Fee | @w33f33 | |
-| Kirsten | @kayehm | |
-| Robbie | @Petrolhead2820 | |
-| Scott Middy | @Didmy87 | Also Scott M |
+| Scott Middy / Scott M | @Didmy87 | |
 | Mikayla | @PeachyPinkie | |
-| Laura | @Punsexual | Original master list member #18 |
-| Emma Gnd | @Scottish_Em | Original master list member #35 |
 
-## Other names from the original master list — usernames not yet confirmed here
+## Names previously mentioned without recovered positions or confirmed tags
 
-Lea, Leanne, Kylie, A H, Hails, Jackie, Megan, Scott (Dik Dik), King Ding A Ling, Billy, Jasmine.
+Lea, Leanne, A H, Hails, Jackie, Megan, Scott (Dik Dik), King Ding A Ling, Billy, Jasmine.
 
 ## Maintenance rules
 
-- Preserve exact username spelling and capitalization.
-- Do not invent usernames or assume two similar names are the same person.
-- Resolve the Alicia / D 🖤 discrepancy before choosing a preferred display name.
-- Add missing original members as their records are recovered.
+- Preserve original list numbers, spelling and handle capitalization as shown in screenshots.
+- Never assume two similar names identify the same account.
+- Do not create duplicate records when adding a newly confirmed tag.
+- Keep screenshot transcription distinct from later confirmed username additions.
+- Recover original list positions 21–26 and 47–59 when screenshots become available.
