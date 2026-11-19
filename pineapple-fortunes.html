@@ -1,0 +1,56 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Pineapple Fortunes — Host Games</title><style>
+*{box-sizing:border-box}body{margin:0;background:#102019;color:#f8f5e9;font:16px system-ui,sans-serif}button,input,textarea,select{font:inherit}button{cursor:pointer;border:0;border-radius:10px;padding:11px 14px;font-weight:800;background:#f5cf61;color:#17251d}button:disabled{opacity:.45;cursor:not-allowed}header,.controls{max-width:1100px;margin:15px auto;padding:0 16px}header{display:flex;justify-content:space-between;align-items:center;gap:12px}a{color:#f5cf61}.controls{background:#20382b;border:1px solid #567257;border-radius:16px;padding:18px}h1{margin:0;font-size:24px}h2{font-size:19px;margin:0 0 12px}label{display:block;margin:12px 0 5px;font-weight:700}textarea,input,select{width:100%;background:#fdfbf1;color:#17251d;border:0;border-radius:9px;padding:11px}textarea{min-height:155px}#question{min-height:66px}.flex{display:flex;gap:10px;flex-wrap:wrap;align-items:center}.flex>*{flex:1}.mode{max-width:210px}.hint{color:#c3d5c5;font-size:13px}.answerControl{display:flex;align-items:center;gap:8px;margin:7px 0;padding:7px;border-radius:9px;background:#2b4934}.answerControl span{flex:1}.answerControl button{flex:none}.secondary{background:#49614f;color:white}.danger{background:#d34b4b;color:white}.scoreline{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.scoreline input{max-width:190px}.scoreline button{flex:none}.board{width:min(1100px,calc(100% - 24px));margin:20px auto;aspect-ratio:16/9;background:radial-gradient(circle at 50% 0%,#304f92,#101c43 68%);border:6px solid #edc45e;border-radius:20px;padding:clamp(10px,2vw,25px);display:flex;flex-direction:column;gap:clamp(4px,.8vw,11px);box-shadow:0 15px 35px #0007}.brand{text-align:center;color:#fbd66e;font-weight:1000;font-size:clamp(17px,3.5vw,42px);letter-spacing:.04em;line-height:1.15}.round{text-align:center;color:#fbd66e;font-weight:700;font-size:clamp(10px,1.5vw,17px)}.boardQuestion{background:#24457f;border:1px solid #638bc1;text-align:center;border-radius:10px;padding:clamp(6px,1vw,13px);font-weight:800;font-size:clamp(12px,2vw,24px)}.slots{flex:1;display:grid;grid-template-rows:repeat(var(--slot-count,5),1fr);gap:clamp(3px,.55vw,7px);min-height:0}.slot{display:flex;align-items:center;gap:clamp(8px,2vw,24px);background:#284980;border:1px solid #638ac4;border-radius:8px;padding:0 clamp(8px,1.4vw,16px);font-size:clamp(12px,2.1vw,25px);font-weight:900;min-height:0}.slot.open{background:#f4d47d;color:#17264c;border-color:#fff2b5}.number{display:grid;place-items:center;background:#142349;color:white;border-radius:7px;min-width:clamp(24px,4vw,45px);height:75%}.slot .word{flex:1;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}.points{min-width:35px;text-align:right}.boardBottom{display:flex;justify-content:space-between;align-items:center;gap:10px;color:#f5d374;font-weight:900;font-size:clamp(11px,2vw,23px)}.cross{color:#ff6c6c;font-size:clamp(16px,3vw,32px)}.hidden{display:none!important}body.boardOnly{background:#0b1534}body.boardOnly header,body.boardOnly .controls{display:none}body.boardOnly .board{width:min(100vw,177.7778vh);margin:0 auto;border-radius:0;height:min(100vh,56.25vw)}@media(max-width:600px){.board{border-width:3px;border-radius:10px}.controls{margin:12px}.brand{font-size:clamp(14px,4vw,22px)}.slot{font-size:clamp(10px,2.6vw,15px)}.boardQuestion{font-size:clamp(10px,2.8vw,16px)}}
+</style></head><body>
+<header><h1>🍍 Pineapple Fortunes</h1><a href="hidden-games.html">← Host Games</a></header>
+<section class="controls"><div class="flex"><div><label for="mode">Game mode</label><select id="mode" class="mode"><option value="individual">Individual</option><option value="teams">Teams</option></select></div><div><label for="round">Round number</label><input id="round" type="number" min="1" value="1"></div></div>
+<label for="question">Question</label><textarea id="question">Name something people forget when going on holiday.</textarea>
+<label for="answers">Answers — one per line: Answer | Points</label><textarea id="answers">Passport | 35
+Phone charger | 25
+Toothbrush | 18
+Suncream | 12
+Travel adapter | 10</textarea>
+<div class="flex"><button id="load">Load question & reset board</button><button id="toggleBoard" class="secondary">Full-screen board</button></div><p class="hint" id="status">Example question and points are illustrative, not verified survey data. Paste your own before playing.</p>
+<h2>Reveal answers</h2><div id="answerControls"></div>
+<div class="flex"><button id="strike" class="danger">✕ Wrong answer</button><button id="undo" class="secondary">↶ Undo</button><button id="revealAll" class="secondary">Reveal all</button><button id="reset" class="secondary">Reset round</button></div>
+<h2 style="margin-top:20px">Scoreboard</h2><p class="hint">Choose a player or team, enter points, then award. Team scores are manual so steals are easy to handle.</p><div class="scoreline"><input id="player" placeholder="Player or team name"><input id="award" type="number" min="0" value="10" aria-label="Points to award"><button id="addScore">Award points</button></div><div id="scores" class="hint" style="margin-top:10px">No scores yet.</div>
+</section>
+<main id="board" class="board"><div class="brand">🍍 PINEAPPLE FORTUNES 🍍</div><div class="round" id="roundDisplay">ROUND 1</div><div class="boardQuestion" id="questionDisplay"></div><div class="slots" id="slots"></div><div class="boardBottom"><div id="total">REVEALED: 0</div><div id="boardScores"></div><div id="crosses" class="cross">✕ ✕ ✕</div></div></main>
+<script>
+(function(){
+if(sessionStorage.getItem('pineappleHostUnlocked')!=='yes'){location.replace('hidden-games.html');return}
+const $=id=>document.getElementById(id);
+let answers=[],open=[],strikes=0,scores={},history=[];
+const snapshot=()=>JSON.stringify({answers,open,strikes,scores});
+function save(){history.push(snapshot());if(history.length>60)history.shift()}
+function restore(){if(!history.length)return;({answers,open,strikes,scores}=JSON.parse(history.pop()));render()}
+function parse(){const lines=$('answers').value.split(/\r?\n/).filter(x=>x.trim());const a=lines.map((line,i)=>{const parts=line.split('|');if(parts.length!==2)throw Error('Line '+(i+1)+' needs Answer | Points');const name=parts[0].trim(),points=Number(parts[1].trim());if(!name||!Number.isInteger(points)||points<0)throw Error('Invalid answer or points on line '+(i+1));return {name,points}});if(!a.length||a.length>8)throw Error('Enter between 1 and 8 answers');return a}
+function load(){try{const a=parse();if(!$('question').value.trim())throw Error('Enter a question');save();answers=a;open=[];strikes=0;$('status').textContent='Question loaded. Tap Reveal as players guess.';render()}catch(e){$('status').textContent=e.message}}
+function render(){
+$('roundDisplay').textContent='ROUND '+(Number($('round').value)||1);
+$('questionDisplay').textContent=$('question').value.trim()||'Enter a question';
+$('slots').style.setProperty('--slot-count',Math.max(answers.length,1));
+$('slots').replaceChildren();$('answerControls').replaceChildren();
+answers.forEach((a,i)=>{
+const slot=document.createElement('div');slot.className='slot'+(open.includes(i)?' open':'');
+const num=document.createElement('span');num.className='number';num.textContent=i+1;
+const word=document.createElement('span');word.className='word';word.textContent=open.includes(i)?a.name:'••••••••••••';
+const pts=document.createElement('span');pts.className='points';pts.textContent=open.includes(i)?a.points:'??';slot.append(num,word,pts);$('slots').append(slot);
+const row=document.createElement('div');row.className='answerControl';const label=document.createElement('span');label.textContent=(i+1)+'. '+a.name+' — '+a.points+' pts';const btn=document.createElement('button');btn.textContent=open.includes(i)?'Hide':'Reveal';btn.className=open.includes(i)?'secondary':'';btn.onclick=()=>{save();open=open.includes(i)?open.filter(x=>x!==i):[...open,i];render()};row.append(label,btn);$('answerControls').append(row);
+});
+$('total').textContent='REVEALED: '+answers.reduce((sum,a,i)=>sum+(open.includes(i)?a.points:0),0);
+$('crosses').textContent=Array.from({length:3},(_,i)=>i<strikes?'❌':'✕').join(' ');
+const entries=Object.entries(scores).sort((a,b)=>b[1]-a[1]);
+$('scores').textContent=entries.length?entries.map(([n,s])=>n+': '+s).join('  •  '):'No scores yet.';
+$('boardScores').textContent=entries.slice(0,2).map(([n,s])=>n+' '+s).join(' | ');
+}
+$('load').onclick=load;$('strike').onclick=()=>{save();strikes=Math.min(3,strikes+1);render()};$('undo').onclick=restore;
+$('revealAll').onclick=()=>{save();open=answers.map((_,i)=>i);render()};
+$('reset').onclick=()=>{save();open=[];strikes=0;render()};
+$('addScore').onclick=()=>{const n=$('player').value.trim(),p=Number($('award').value);if(!n||!Number.isFinite(p)||p<0){$('status').textContent='Enter a name and valid points';return}save();scores[n]=(scores[n]||0)+p;render()};
+$('toggleBoard').onclick=()=>{document.body.classList.add('boardOnly');$('board').scrollIntoView();if(document.documentElement.requestFullscreen)document.documentElement.requestFullscreen().catch(()=>{})};
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){document.body.classList.remove('boardOnly');if(document.fullscreenElement)document.exitFullscreen().catch(()=>{})}});
+$('board').addEventListener('click',()=>{if(document.body.classList.contains('boardOnly')){document.body.classList.remove('boardOnly');if(document.fullscreenElement)document.exitFullscreen().catch(()=>{})}});
+$('round').oninput=render;$('mode').onchange=()=>{$('status').textContent=$('mode').value==='teams'?'Team mode: award points to team names.':'Individual mode: award points to player names.'};
+load();history=[];
+})();
+</script></body></html>
