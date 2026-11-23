@@ -101,3 +101,26 @@ Before introducing a game, ask: **Can members understand it quickly? Can they jo
 Update the feedback table as new games are tested. Keep **observed member feedback** separate from **ideas and psychological hypotheses**.
 
 Related: [Pineapple Master Games List](PINEAPPLE_MASTER_GAMES.md).
+
+## 9. Member genre preference poll — reported 23 November 2026
+
+**Source:** Percentages transcribed by the group organiser from a Telegram multiple-answer poll, in the original option order. These are reported poll figures, not independently verified vote counts. The number of respondents and poll closing date were not supplied; treat this as a snapshot rather than a final or representative result.
+
+| Genre | Reported percentage |
+|---|---:|
+| 🧠 Trivia & General Knowledge | 16% |
+| 🔍 Mystery & Detective | 10% |
+| 🎵 Music & Entertainment | 12% |
+| 🏆 Competition & Elimination | 11% |
+| 📸 Photo & Scavenger Hunts | 10% |
+| 😂 Comedy & Silly Challenges | 14% |
+| 😈 Adult & Cheeky Games | **18%** |
+| 🎭 Bluffing & Psychology | **3%** |
+| 🧩 Puzzles & Brain Teasers | 11% |
+| 🎲 Luck & Random Games | 11% |
+| 💬 Social & Getting to Know You | **16%** |
+| 🎨 Creative Challenges | 8% |
+
+**Interpretation and limits:** Adult & Cheeky is the highest reported category (18%); Trivia and Social are tied next (16%), followed by Comedy (14%). Bluffing & Psychology is lowest (3%). The reported figures total **140%**, consistent with multiple selections being allowed; they should **not** be treated as mutually exclusive shares or converted to headcounts without underlying vote data. A low genre score does not establish that every game in that category is disliked; for example, Find the Lie Friday has separately been reported as successful.
+
+**Practical implications to test (not proven effects):** Prioritise trials that combine adult/cheeky humour with social conversation, comedy or approachable trivia. Keep a varied rotation for other interests. Use complex bluffing/psychology formats sparingly unless direct game-level participation suggests otherwise. Evaluate actual participation and feedback after each trial rather than relying on genre labels alone.
