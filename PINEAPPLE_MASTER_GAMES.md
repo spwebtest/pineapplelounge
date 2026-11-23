@@ -55,6 +55,29 @@ These are **options**, not a commitment to run everything. Other themed ideas re
 - **🔥 Sunday Roast** — Playful jokes and memes about a featured member
 - **💬 Say It Sunday** — Group opinions and open discussion
 
+## 🎭 Alternative weekday name bank
+
+**Purpose:** Optional names to swap in whenever you fancy a change from the regular weekday theme (for example, Mystery Monday). These are **name ideas only**, not scheduled games or replacements for existing favourites. Choose the name that fits the game or poll category being played.
+
+| Member poll category | Alternative weekday puns |
+|---|---|
+| 😈 Adult & Cheeky | Filthy Friday · Flirty Thursday · Frisky Friday · Temptation Tuesday · Thirsty Thursday · Saucy Saturday |
+| 🧠 Trivia & General Knowledge | Think Tank Thursday · Trivia Tuesday · Wise-Up Wednesday · Know-It-All Monday · Brainiac Wednesday |
+| 💬 Social & Getting to Know You | Mingle Monday · Tell-All Tuesday · Social Saturday · Spill the Tea Tuesday · Meet-Up Monday |
+| 😂 Comedy & Silly Challenges | Wacky Wednesday · Silly Sunday · Funny Friday · Mischief Monday · Loony Monday |
+| 🎵 Music & Entertainment | Tunes Tuesday · Musical Monday · Singalong Sunday · Throwback Thursday · Soundtrack Saturday |
+| 🏆 Competition & Elimination | Showdown Saturday · Survival Sunday · Knockout Night Friday · Winner Takes Wednesday · Tournament Tuesday |
+| 🧩 Puzzles & Brain Teasers | Mind-Bender Monday · Twisted Tuesday · What’s the Link Wednesday · Scramble Saturday · Stumped Sunday |
+| 🎲 Luck & Random Games | Wheel of Wednesday · Wildcard Wednesday · Lucky Dip Monday · Spin It Sunday · Fate Friday |
+| 🔍 Mystery & Detective | Mystery Monday · Whodunnit Wednesday · Suspect Saturday · Secret Sunday · Thriller Thursday |
+| 📸 Photo & Scavenger Hunts | Snap It Saturday · Find It Friday · Seek It Sunday · Snapshot Sunday · Treasure Hunt Thursday |
+| 🎨 Creative Challenges | Makeover Monday · Transform Thursday · Freestyle Friday · Mash-Up Monday · Sketchy Saturday |
+| 🎭 Bluffing & Psychology | Fibbing Friday · Bluffing Monday · Poker Face Friday · Trickster Tuesday · Deception Wednesday |
+
+**Extra cheeky options:** Filth or Flirt Friday · Thirst Trap Thursday · Naughty or Nice Night · Saucy Secrets Saturday · Flirt, Filth & Friday · Tease Me Tuesday · Dirty Minds Monday · Wicked Wednesday · Sinful Sunday · Tongue-in-Cheek Thursday.
+
+**How to use:** Keep the usual themes as defaults. Pick an alternative title for a particular week without renaming or deleting the underlying game. The full [historical ideas archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md) remains unchanged.
+
 ## ⚡ Scotty’s Quickies
 
 Short standalone Telegram rounds, with no fixed weekday. Each is a separate game rather than another copy of the weekly list.
