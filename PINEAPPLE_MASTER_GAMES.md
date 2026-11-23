@@ -141,3 +141,39 @@ Games grouped by weekday for quick planning. ⭐ = suggested favourite; 🔄 = r
 |  | 🎲 Six of the Best | Six secret challenges |
 |  | 🧳 Lost Luggage | Solve a travel suitcase mystery |
 |  | 🛂 Passport Control | Guess places from travel clues |
+
+---
+
+## 🍍 Game organisation and status (23 November 2026)
+
+The weekday table above is retained as a **historical idea and poster catalogue**, not a commitment to run every entry. For scheduling, use these five sections. A game can appear in more than one section because its format can be adapted.
+
+### 📅 Weekly themed days
+- **Monday:** Mystery Monday; Wrong ’Un Monday; Monday Mayhem
+- **Tuesday:** Tunes Tuesday; Telly Tuesday; Chaos Tuesday; Teaser Tuesday
+- **Wednesday:** Where’s Scotty?; Wildcard Wednesday; Wheel of Whatever; Workshop Wednesday
+- **Thursday:** Transform Thursday; Throw the Dice Thursday
+- **Friday:** Find the Lie Friday; Thank GIF It’s Friday; One Word Friday; Finish Line Friday
+- **Saturday:** Showdown Saturday; Snap It Saturday; Sweepstake Saturday
+- **Sunday:** Sunday Roast; Say It Sunday
+
+### ⚡ Scotty’s Quickies — flexible short rounds
+The Closest Wins; Size Matters; Filth or Innocent?; Flirt or Divert; One Word; Wrong ’Un; Pineapple Puzzles; Pineapple Connections; Zoom In!; Who Am I?; Teaser puzzles; Pineapple Countdown; single-round Porky Pineapple / Find the Lie; Pineapple Catchphrase.
+
+### 🎤 Live specials — hosted games
+Deal or No Deal; Wheel of Misfortune; Pineapple Fortunes; The Million Pound Question (Telegram quiz-poll elimination, no second chances); The Flirt Factor; Mr & Mrs; Pineapple Murder Mystery; The Traitors; Squid Games; Horse Racing / Sweepstake; Member Takeover. These are **catalogue classifications**, not claims that every game has been played.
+
+### 🕵️ All-day challenges
+Mystery Monday; Where’s Scotty? Hot or Cold; Where’s Scotty? Lock It or Pass It; Celebrity Guess by Squares; Snap It Saturday; Showdown Saturday; Transform Thursday; Find the Lie Friday; The Missing Notes; Finish Line Friday. Host at intervals or leave time for members to join.
+
+### 🗃️ Retired games archive
+Retired means **out of regular rotation**, not deleted. Preserve posters, rules and previous results so a format can be revived if members ask.
+
+| Game | Status | Reason / future treatment |
+|---|---|---|
+| 💰 Sell It Saturday | **Retired from regular rotation** | Previous selling/pitching format received weak engagement; keep poster and rules archived |
+| 🍍 Pineapple Pitch | **Retired from regular rotation** | Closely related selling/pitching format; archive rather than schedule routinely |
+
+**On Hold is different from Retired:** use On Hold for concepts still awaiting a trial, revision or a suitable occasion. Do not automatically retire other games solely because they have low poll-category scores.
+
+**Scheduling principle:** Give priority to the member poll’s leading interests (Adult & Cheeky 18%; Trivia and Social 16% each; Comedy 14%) while preserving variety. See [Psychology & Member Feedback](PINEAPPLE_GAMES_PSYCHOLOGY_AND_FEEDBACK.md) for methodology and limitations.
