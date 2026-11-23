@@ -13,6 +13,8 @@ A simple working guide for choosing and running games. **One main entry per game
 
 ## 📅 Weekly themes
 
+**Each weekday includes its regular games and optional pun names together.** The alternative names are ideas to swap in occasionally, not additional scheduled games.
+
 These are **options**, not a commitment to run everything. Other themed ideas remain in the archive.
 
 ### Monday
@@ -21,11 +23,15 @@ These are **options**, not a commitment to run everything. Other themed ideas re
 - **🔐 Celebrity Lock-In** — Six progressively easier, reworded celebrity clues; players pass or privately message one locked-in guess; one guess each; played
 - **🔪 Murder Mystery** — Special fictional whodunnit featuring group members as characters
 
+**Alternative names for Monday:** Know-It-All Monday · Mingle Monday · Meet-Up Monday · Mischief Monday · Loony Monday · Musical Monday · Mind-Bender Monday · Lucky Dip Monday · Mystery Monday · Makeover Monday · Mash-Up Monday · Bluffing Monday · Dirty Minds Monday.
+
 ### Tuesday
 
 - **🧩 Teaser Tuesday** — Mixed picture puzzles for films, TV, music, sayings, celebrities and general knowledge
 - **📺 Telly Tuesday** — Games inspired by TV game shows, using polls, short answers and group challenges
 - **🎵 Tunes Tuesday** — Music guessing and challenges
+
+**Alternative names for Tuesday:** Temptation Tuesday · Trivia Tuesday · Tell-All Tuesday · Spill the Tea Tuesday · Tunes Tuesday · Tournament Tuesday · Twisted Tuesday · Trickster Tuesday · Tease Me Tuesday.
 
 ### Wednesday
 
@@ -33,11 +39,15 @@ These are **options**, not a commitment to run everything. Other themed ideas re
 - **🔐 Where’s Scotty Lock-In** — Guess the location and privately lock in an answer with the host; separate from picture-square reveals; created
 - **🔎 Where’s Scotty Wednesday** — Find Scotty hidden in a busy image
 
+**Alternative names for Wednesday:** Wise-Up Wednesday · Brainiac Wednesday · Wacky Wednesday · Winner Takes Wednesday · What’s the Link Wednesday · Wheel of Wednesday · Wildcard Wednesday · Whodunnit Wednesday · Deception Wednesday · Wicked Wednesday.
+
 ### Thursday
 
 - **✨ Transform Thursday** — Funny AI photo transformations
 - **🎲 Throw the Dice Thursday** — Roll 1–6 to choose a question or challenge
 - **💘 Flirt or Divert** — Rate chat-up lines by Telegram poll: 1 = divert, 5 = keep flirting; created
+
+**Alternative names for Thursday:** Flirty Thursday · Thirsty Thursday · Think Tank Thursday · Throwback Thursday · Thriller Thursday · Treasure Hunt Thursday · Transform Thursday · Thirst Trap Thursday · Tongue-in-Cheek Thursday.
 
 ### Friday
 
@@ -45,38 +55,19 @@ These are **options**, not a commitment to run everything. Other themed ideas re
 - **🏁 Finish Line Friday** — Virtual races and finishing positions
 - **Find the Lie Friday** — Two truths and one lie; members spot the false statement.
 
+**Alternative names for Friday:** Filthy Friday · Frisky Friday · Funny Friday · Knockout Night Friday · Fate Friday · Find It Friday · Freestyle Friday · Fibbing Friday · Poker Face Friday · Filth or Flirt Friday.
+
 ### Saturday
 
 - **⚔️ Showdown Saturday** — Compete across ten popular-choice polls
 - **📸 Snap It Saturday** — Photo challenges
 
+**Alternative names for Saturday:** Saucy Saturday · Social Saturday · Soundtrack Saturday · Showdown Saturday · Scramble Saturday · Suspect Saturday · Snap It Saturday · Sketchy Saturday · Saucy Secrets Saturday.
+
 ### Sunday
 
 - **🔥 Sunday Roast** — Playful jokes and memes about a featured member
 - **💬 Say It Sunday** — Group opinions and open discussion
-
-## 🎭 Alternative weekday name bank
-
-**Purpose:** Optional names to swap in whenever you fancy a change from the regular weekday theme (for example, Mystery Monday). These are **name ideas only**, not scheduled games or replacements for existing favourites. Choose the name that fits the game or poll category being played.
-
-| Member poll category | Alternative weekday puns |
-|---|---|
-| 😈 Adult & Cheeky | Filthy Friday · Flirty Thursday · Frisky Friday · Temptation Tuesday · Thirsty Thursday · Saucy Saturday |
-| 🧠 Trivia & General Knowledge | Think Tank Thursday · Trivia Tuesday · Wise-Up Wednesday · Know-It-All Monday · Brainiac Wednesday |
-| 💬 Social & Getting to Know You | Mingle Monday · Tell-All Tuesday · Social Saturday · Spill the Tea Tuesday · Meet-Up Monday |
-| 😂 Comedy & Silly Challenges | Wacky Wednesday · Silly Sunday · Funny Friday · Mischief Monday · Loony Monday |
-| 🎵 Music & Entertainment | Tunes Tuesday · Musical Monday · Singalong Sunday · Throwback Thursday · Soundtrack Saturday |
-| 🏆 Competition & Elimination | Showdown Saturday · Survival Sunday · Knockout Night Friday · Winner Takes Wednesday · Tournament Tuesday |
-| 🧩 Puzzles & Brain Teasers | Mind-Bender Monday · Twisted Tuesday · What’s the Link Wednesday · Scramble Saturday · Stumped Sunday |
-| 🎲 Luck & Random Games | Wheel of Wednesday · Wildcard Wednesday · Lucky Dip Monday · Spin It Sunday · Fate Friday |
-| 🔍 Mystery & Detective | Mystery Monday · Whodunnit Wednesday · Suspect Saturday · Secret Sunday · Thriller Thursday |
-| 📸 Photo & Scavenger Hunts | Snap It Saturday · Find It Friday · Seek It Sunday · Snapshot Sunday · Treasure Hunt Thursday |
-| 🎨 Creative Challenges | Makeover Monday · Transform Thursday · Freestyle Friday · Mash-Up Monday · Sketchy Saturday |
-| 🎭 Bluffing & Psychology | Fibbing Friday · Bluffing Monday · Poker Face Friday · Trickster Tuesday · Deception Wednesday |
-
-**Extra cheeky options:** Filth or Flirt Friday · Thirst Trap Thursday · Naughty or Nice Night · Saucy Secrets Saturday · Flirt, Filth & Friday · Tease Me Tuesday · Dirty Minds Monday · Wicked Wednesday · Sinful Sunday · Tongue-in-Cheek Thursday.
-
-**How to use:** Keep the usual themes as defaults. Pick an alternative title for a particular week without renaming or deleting the underlying game. The full [historical ideas archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md) remains unchanged.
 
 ## ⚡ Scotty’s Quickies
 
@@ -133,6 +124,8 @@ The aim is a **small original poster beside each game description**, not a separ
 **Image status:** the images are **not yet embedded in this GitHub file**. Do not add broken image links or replace original posters with generated versions. A separate Word visual guide was produced in chat; it is not a repository attachment.
 
 ---
+
+**Alternative names for Sunday:** Silly Sunday · Singalong Sunday · Survival Sunday · Stumped Sunday · Spin It Sunday · Secret Sunday · Seek It Sunday · Snapshot Sunday · Sinful Sunday.
 
 ### 📚 More ideas and historical detail
 
