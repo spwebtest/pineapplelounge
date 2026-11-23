@@ -177,3 +177,16 @@ Retired means **out of regular rotation**, not deleted. Preserve posters, rules 
 **On Hold is different from Retired:** use On Hold for concepts still awaiting a trial, revision or a suitable occasion. Do not automatically retire other games solely because they have low poll-category scores.
 
 **Scheduling principle:** Give priority to the member poll’s leading interests (Adult & Cheeky 18%; Trivia and Social 16% each; Comedy 14%) while preserving variety. See [Psychology & Member Feedback](PINEAPPLE_GAMES_PSYCHOLOGY_AND_FEEDBACK.md) for methodology and limitations.
+
+
+### 🧩 New active Scotty's Quickies formats (23 November 2026)
+
+These are **active formats available to trial**, not fixed weekday themes. Keep each as a short Telegram round, with optional multiple rounds.
+
+| Format | Category | Telegram mechanics | Example |
+|---|---|---|---|
+| **Say What You See** | Picture / rebus puzzles | Post an arranged-word or visual phrase puzzle; one guess per member until a hint; first correct answer wins; reveal and explain | HEAD written above HEELS → **Head over heels** |
+| **Put It in Order** | Trivia / general knowledge | Label four items A–D and specify ascending/descending criterion; members reply with a complete sequence; first fully correct sequence wins; reveal factual ordering | Facebook (2004), YouTube (2005), Instagram (2010), TikTok international (2017) |
+| **Real or Ridiculous?** | Comedy / surprising trivia | Post one strange claim; Telegram poll **REAL** or **RIDICULOUS**; close poll then reveal verified answer and explanation; repeat through the day if desired | Scotland's national animal is the unicorn → **Real** |
+
+**Trial order:** Start with **Real or Ridiculous?**, then rotate the other two. These complement the poll's stronger comedy and trivia preferences. Verify factual claims before posting; avoid ambiguous puzzle answers. **Status: Active / trial-ready**, not retired and not a dedicated weekly slot.
