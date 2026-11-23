@@ -190,3 +190,20 @@ These are **active formats available to trial**, not fixed weekday themes. Keep 
 | **Real or Ridiculous?** | Comedy / surprising trivia | Post one strange claim; Telegram poll **REAL** or **RIDICULOUS**; close poll then reveal verified answer and explanation; repeat through the day if desired | Scotland's national animal is the unicorn → **Real** |
 
 **Trial order:** Start with **Real or Ridiculous?**, then rotate the other two. These complement the poll's stronger comedy and trivia preferences. Verify factual claims before posting; avoid ambiguous puzzle answers. **Status: Active / trial-ready**, not retired and not a dedicated weekly slot.
+
+
+### 🖼️ Poster catalogue — image matching and layout
+
+**Scope:** This visual catalogue belongs **only in this master games document**, not on the public Pineapple Lounge website. Keep all five categories and the retired archive. Use existing Pineapple posters, not newly generated substitutes.
+
+**Poster storage convention (once originals are available):** `images/game-posters/<game-slug>.png`. Each game entry can use a compact Markdown table with the poster thumbnail alongside the game name, description, Telegram format, and rules link. Example:
+
+| Poster | Game and description |
+|---|---|
+| ![Mystery Monday poster](images/game-posters/mystery-monday.png) | **Mystery Monday** — progressive clues to identify a person, place or thing. **Format:** all-day challenge. |
+
+**Important:** The example above is a proposed layout, **not a live image link**; do not insert it as a working catalogue entry until that image actually exists in the repository.
+
+**Previously shown poster/game matches to catalogue when source images can be accessed:** Mystery Monday; Where's Scotty? Lock It or Pass It; Connect the Clues; What's the Connection?; The Wrong ’Un!; Country Scramble; Emoji Artists; Flirt or Divert; plus other named games with posters in the conversation. Confirm individual image-to-game matches against each poster before linking. Screenshots/collages are references only; don't present cropped or unrelated artwork as original full-size posters.
+
+**Current image status:** Original poster files have not yet been verified as available in the repository. Until uploaded, retain text descriptions and mark poster status **Awaiting original image** rather than creating broken image links. Retired games retain their entries and can receive posters too.
