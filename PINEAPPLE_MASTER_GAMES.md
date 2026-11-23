@@ -207,3 +207,23 @@ These are **active formats available to trial**, not fixed weekday themes. Keep 
 **Previously shown poster/game matches to catalogue when source images can be accessed:** Mystery Monday; Where's Scotty? Lock It or Pass It; Connect the Clues; What's the Connection?; The Wrong ’Un!; Country Scramble; Emoji Artists; Flirt or Divert; plus other named games with posters in the conversation. Confirm individual image-to-game matches against each poster before linking. Screenshots/collages are references only; don't present cropped or unrelated artwork as original full-size posters.
 
 **Current image status:** Original poster files have not yet been verified as available in the repository. Until uploaded, retain text descriptions and mark poster status **Awaiting original image** rather than creating broken image links. Retired games retain their entries and can receive posters too.
+
+
+### 📥 Original poster intake — batch 1 (10 posters)
+
+Ten **individual original posters were supplied in the conversation**. Their game matches are confirmed below. These are **received in chat, not yet uploaded to the GitHub repository**; do not insert broken Markdown image paths.
+
+| Game | Catalogue category | Poster identification / rules visible |
+|---|---|---|
+| Mystery Monday | Weekly themes / all-day | Six clues, one locked-in guess, earliest correct guess wins |
+| The Closest Wins | Scotty's Quickies | Numerical question; closest estimate wins |
+| The Million Pound Question | Live specials | 15 multiple-choice questions, incorrect answer eliminates |
+| Size Matters | Scotty's Quickies | Two contestants compare the sizes of mystery objects |
+| The Flirt Factor | Live specials | Three mystery contestants, cheeky questions and choice |
+| Snap It Saturday | Weekly themes / all-day | Photo challenge: race to find and photograph prompted items |
+| Find the Lie Friday | Weekly themes / all-day | Two truths and a lie |
+| The Missing Notes | Music games / all-day | Answer questions, reveal notes, identify the song |
+| Squid Games | Live specials | Elimination-style themed special |
+| Wheel of Misfortune | Live specials | Golden Pass, You're Out, Taking You Out, Back in the Game; poster shows two-minute selection intervals |
+
+**Image integration pending:** Source images are attached in the chat, but the available GitHub text-file actions do not automatically transfer those binary attachments. When poster files have been committed to the repository, replace this intake table with linked image thumbnails next to each game description. Preserve the original files, don't substitute generated artwork, and don't mark them uploaded before verification.
