@@ -13,61 +13,151 @@ A simple working guide for choosing and running games. **One main entry per game
 
 ## 📅 Weekly themes
 
-**Each weekday includes its regular games and optional pun names together.** The alternative names are ideas to swap in occasionally, not additional scheduled games.
-
-These are **options**, not a commitment to run everything. Other themed ideas remain in the archive.
+Each day has **existing games** and **alternative theme names** together. Alternatives are optional titles for a future day, **not games already created or scheduled**. Categories follow the 12 member-poll genres.
 
 ### Monday
 
-- **🕵️ Mystery Monday** — Alternate picture-square reveals and progressive clue reveals; occasional fictional detective mystery special
-- **🔐 Celebrity Lock-In** — Six progressively easier, reworded celebrity clues; players pass or privately message one locked-in guess; one guess each; played
-- **🔪 Murder Mystery** — Special fictional whodunnit featuring group members as characters
+**Existing games**
 
-**Alternative names for Monday:** Know-It-All Monday · Mingle Monday · Meet-Up Monday · Mischief Monday · Loony Monday · Musical Monday · Mind-Bender Monday · Lucky Dip Monday · Mystery Monday · Makeover Monday · Mash-Up Monday · Bluffing Monday · Dirty Minds Monday.
+- **🕵️ Mystery Monday** — *See archive* — Alternate picture-square reveals and progressive clue reveals; occasional fictional detective mystery special.
+- **🔐 Celebrity Lock-In** — *See archive* — Six progressively easier, reworded celebrity clues; players pass or privately message one locked-in guess; one guess each; played.
+- **🔪 Murder Mystery** — *See archive* — Special fictional whodunnit featuring group members as characters.
+
+**Alternative theme names**
+
+- **Dirty Minds Monday** — *Adult & Cheeky* — Innocent clues with cheeky-sounding answers.
+- **Know-It-All Monday** — *Trivia & General Knowledge* — Quick general-knowledge questions.
+- **Mingle Monday** — *Social & Getting to Know You* — Easy conversation starters.
+- **Meet-Up Monday** — *Social & Getting to Know You* — Get-to-know-you prompts.
+- **Mischief Monday** — *Comedy & Silly Challenges* — Silly harmless challenges.
+- **Loony Monday** — *Comedy & Silly Challenges* — Ridiculous choices and laughs.
+- **Musical Monday** — *Music & Entertainment* — Guess songs or artists.
+- **Mind-Bender Monday** — *Puzzles & Brain Teasers* — Riddles and tricky puzzles.
+- **Lucky Dip Monday** — *Luck & Random Games* — Random mystery prompts.
+- **Mystery Monday** — *Mystery & Detective* — Progressive clues and reveals.
+- **Makeover Monday** — *Creative Challenges* — Creative image transformations.
+- **Mash-Up Monday** — *Creative Challenges* — Combine unusual ideas or pictures.
+- **Bluffing Monday** — *Bluffing & Psychology* — Spot misleading answers.
 
 ### Tuesday
 
-- **🧩 Teaser Tuesday** — Mixed picture puzzles for films, TV, music, sayings, celebrities and general knowledge
-- **📺 Telly Tuesday** — Games inspired by TV game shows, using polls, short answers and group challenges
-- **🎵 Tunes Tuesday** — Music guessing and challenges
+**Existing games**
 
-**Alternative names for Tuesday:** Temptation Tuesday · Trivia Tuesday · Tell-All Tuesday · Spill the Tea Tuesday · Tunes Tuesday · Tournament Tuesday · Twisted Tuesday · Trickster Tuesday · Tease Me Tuesday.
+- **🧩 Teaser Tuesday** — *See archive* — Mixed picture puzzles for films, TV, music, sayings, celebrities and general knowledge.
+- **📺 Telly Tuesday** — *See archive* — Games inspired by TV game shows, using polls, short answers and group challenges.
+- **🎵 Tunes Tuesday** — *See archive* — Music guessing and challenges.
+
+**Alternative theme names**
+
+- **Temptation Tuesday** — *Adult & Cheeky* — Playful would-you-rather choices.
+- **Tease Me Tuesday** — *Adult & Cheeky* — Flirty teasing and ratings.
+- **Trivia Tuesday** — *Trivia & General Knowledge* — Mixed trivia questions.
+- **Tell-All Tuesday** — *Social & Getting to Know You* — Light-hearted personal preferences.
+- **Spill the Tea Tuesday** — *Social & Getting to Know You* — Opinions and harmless group gossip.
+- **Tunes Tuesday** — *Music & Entertainment* — Music quizzes and song rankings.
+- **Tournament Tuesday** — *Competition & Elimination* — Head-to-head mini competitions.
+- **Twisted Tuesday** — *Puzzles & Brain Teasers* — Lateral-thinking puzzles.
+- **Trickster Tuesday** — *Bluffing & Psychology* — Truth-or-trick choices.
 
 ### Wednesday
 
-- **🌍 Where’s Scotty? Hot or Cold** — Guess a hidden location using distances in kilometres and hot/cold guidance; played
-- **🔐 Where’s Scotty Lock-In** — Guess the location and privately lock in an answer with the host; separate from picture-square reveals; created
-- **🔎 Where’s Scotty Wednesday** — Find Scotty hidden in a busy image
+**Existing games**
 
-**Alternative names for Wednesday:** Wise-Up Wednesday · Brainiac Wednesday · Wacky Wednesday · Winner Takes Wednesday · What’s the Link Wednesday · Wheel of Wednesday · Wildcard Wednesday · Whodunnit Wednesday · Deception Wednesday · Wicked Wednesday.
+- **🌍 Where’s Scotty? Hot or Cold** — *See archive* — Guess a hidden location using distances in kilometres and hot/cold guidance; played.
+- **🔐 Where’s Scotty Lock-In** — *See archive* — Guess the location and privately lock in an answer with the host; separate from picture-square reveals; created.
+- **🔎 Where’s Scotty Wednesday** — *See archive* — Find Scotty hidden in a busy image.
+
+**Alternative theme names**
+
+- **Wicked Wednesday** — *Adult & Cheeky* — Mischievous adult humour.
+- **Wise-Up Wednesday** — *Trivia & General Knowledge* — Facts and surprising knowledge.
+- **Brainiac Wednesday** — *Trivia & General Knowledge* — Tricky knowledge rounds.
+- **Wacky Wednesday** — *Comedy & Silly Challenges* — Oddball comedy prompts.
+- **Winner Takes Wednesday** — *Competition & Elimination* — Winner-stays-on challenges.
+- **What’s the Link Wednesday** — *Puzzles & Brain Teasers* — Find a shared connection.
+- **Wheel of Wednesday** — *Luck & Random Games* — Wheel-selected mini games.
+- **Wildcard Wednesday** — *Luck & Random Games* — Surprise format of the day.
+- **Whodunnit Wednesday** — *Mystery & Detective* — Solve a fictional mystery.
+- **Deception Wednesday** — *Bluffing & Psychology* — Guess which statement is false.
 
 ### Thursday
 
-- **✨ Transform Thursday** — Funny AI photo transformations
-- **🎲 Throw the Dice Thursday** — Roll 1–6 to choose a question or challenge
-- **💘 Flirt or Divert** — Rate chat-up lines by Telegram poll: 1 = divert, 5 = keep flirting; created
+**Existing games**
 
-**Alternative names for Thursday:** Flirty Thursday · Thirsty Thursday · Think Tank Thursday · Throwback Thursday · Thriller Thursday · Treasure Hunt Thursday · Transform Thursday · Thirst Trap Thursday · Tongue-in-Cheek Thursday.
+- **✨ Transform Thursday** — *See archive* — Funny AI photo transformations.
+- **🎲 Throw the Dice Thursday** — *See archive* — Roll 1–6 to choose a question or challenge.
+- **💘 Flirt or Divert** — *See archive* — Rate chat-up lines by Telegram poll: 1 = divert, 5 = keep flirting; created.
+
+**Alternative theme names**
+
+- **Flirty Thursday** — *Adult & Cheeky* — Flirting and playful chat-up lines.
+- **Thirsty Thursday** — *Adult & Cheeky* — Cheeky attraction and dating polls.
+- **Thirst Trap Thursday** — *Adult & Cheeky* — Playful thirst-trap ratings.
+- **Tongue-in-Cheek Thursday** — *Adult & Cheeky* — Cheeky humour and double meanings.
+- **Think Tank Thursday** — *Trivia & General Knowledge* — Team-style trivia and problem solving.
+- **Throwback Thursday** — *Music & Entertainment* — Nostalgic entertainment and songs.
+- **Thriller Thursday** — *Mystery & Detective* — Suspense and mystery clues.
+- **Treasure Hunt Thursday** — *Photo & Scavenger Hunts* — Find or photograph clue-based objects.
+- **Transform Thursday** — *Creative Challenges* — Funny photo transformations.
 
 ### Friday
 
-- **😂 Thank GIF It’s Friday** — Reply to prompts using GIFs
-- **🏁 Finish Line Friday** — Virtual races and finishing positions
-- **Find the Lie Friday** — Two truths and one lie; members spot the false statement.
+**Existing games**
 
-**Alternative names for Friday:** Filthy Friday · Frisky Friday · Funny Friday · Knockout Night Friday · Fate Friday · Find It Friday · Freestyle Friday · Fibbing Friday · Poker Face Friday · Filth or Flirt Friday.
+- **😂 Thank GIF It’s Friday** — *See archive* — Reply to prompts using GIFs.
+- **🏁 Finish Line Friday** — *See archive* — Virtual races and finishing positions.
+- **Find the Lie Friday** — *See archive* — Two truths and one lie; members spot the false statement..
+
+**Alternative theme names**
+
+- **Filthy Friday** — *Adult & Cheeky* — Adult-themed cheeky questions.
+- **Frisky Friday** — *Adult & Cheeky* — Flirty choices and light-hearted dares.
+- **Filth or Flirt Friday** — *Adult & Cheeky* — Choose whether a line is filthy or flirty.
+- **Funny Friday** — *Comedy & Silly Challenges* — Jokes and funny responses.
+- **Knockout Night Friday** — *Competition & Elimination* — Elimination-style contests.
+- **Fate Friday** — *Luck & Random Games* — Chance-based choices.
+- **Find It Friday** — *Photo & Scavenger Hunts* — Race to locate an item.
+- **Freestyle Friday** — *Creative Challenges* — Open-ended creative challenge.
+- **Fibbing Friday** — *Bluffing & Psychology* — Two truths and a lie.
+- **Poker Face Friday** — *Bluffing & Psychology* — Try to spot the bluff.
 
 ### Saturday
 
-- **⚔️ Showdown Saturday** — Compete across ten popular-choice polls
-- **📸 Snap It Saturday** — Photo challenges
+**Existing games**
 
-**Alternative names for Saturday:** Saucy Saturday · Social Saturday · Soundtrack Saturday · Showdown Saturday · Scramble Saturday · Suspect Saturday · Snap It Saturday · Sketchy Saturday · Saucy Secrets Saturday.
+- **⚔️ Showdown Saturday** — *See archive* — Compete across ten popular-choice polls.
+- **📸 Snap It Saturday** — *See archive* — Photo challenges.
+
+**Alternative theme names**
+
+- **Saucy Saturday** — *Adult & Cheeky* — Playful adult-themed polls.
+- **Saucy Secrets Saturday** — *Adult & Cheeky* — Cheeky anonymous-style prompts without requiring personal disclosures.
+- **Social Saturday** — *Social & Getting to Know You* — Group bonding and conversation.
+- **Soundtrack Saturday** — *Music & Entertainment* — Film and TV soundtrack guessing.
+- **Showdown Saturday** — *Competition & Elimination* — Competitive polls and matchups.
+- **Scramble Saturday** — *Puzzles & Brain Teasers* — Unscramble words or names.
+- **Suspect Saturday** — *Mystery & Detective* — Deduce the culprit from clues.
+- **Snap It Saturday** — *Photo & Scavenger Hunts* — Photo scavenger hunt.
+- **Sketchy Saturday** — *Creative Challenges* — Quick drawing or doodle challenge.
 
 ### Sunday
 
-- **🔥 Sunday Roast** — Playful jokes and memes about a featured member
-- **💬 Say It Sunday** — Group opinions and open discussion
+**Existing games**
+
+- **🔥 Sunday Roast** — *See archive* — Playful jokes and memes about a featured member.
+- **💬 Say It Sunday** — *See archive* — Group opinions and open discussion.
+
+**Alternative theme names**
+
+- **Sinful Sunday** — *Adult & Cheeky* — Cheeky end-of-week choices.
+- **Silly Sunday** — *Comedy & Silly Challenges* — Playful end-of-week humour.
+- **Singalong Sunday** — *Music & Entertainment* — Song and lyric guessing.
+- **Survival Sunday** — *Competition & Elimination* — Last-player-standing rounds.
+- **Stumped Sunday** — *Puzzles & Brain Teasers* — Hard riddles and brainteasers.
+- **Spin It Sunday** — *Luck & Random Games* — Spin for a random challenge.
+- **Secret Sunday** — *Mystery & Detective* — Uncover a hidden answer.
+- **Seek It Sunday** — *Photo & Scavenger Hunts* — Hunt for household objects.
+- **Snapshot Sunday** — *Photo & Scavenger Hunts* — Photo-based guessing.
 
 ## ⚡ Scotty’s Quickies
 
@@ -124,8 +214,6 @@ The aim is a **small original poster beside each game description**, not a separ
 **Image status:** the images are **not yet embedded in this GitHub file**. Do not add broken image links or replace original posters with generated versions. A separate Word visual guide was produced in chat; it is not a repository attachment.
 
 ---
-
-**Alternative names for Sunday:** Silly Sunday · Singalong Sunday · Survival Sunday · Stumped Sunday · Spin It Sunday · Secret Sunday · Seek It Sunday · Snapshot Sunday · Sinful Sunday.
 
 ### 📚 More ideas and historical detail
 
