@@ -13,6 +13,18 @@
 
 These updates supplement the older descriptions below. Where a format conflicts with an older entry, the newer confirmed rules take precedence. Unconfirmed details are labelled.
 
+### 🎹 The Missing Notes (Tunes Tuesday) — ✅ Played, 24 November 2026
+
+1. Each round contains one mystery song, split into numbered musical clues (for example, 12 or 16).
+2. The host randomly assigns each clue a unique letter (A–L for 12 clues, A–P for 16). Keep the letter-to-number mapping private.
+3. Start by randomly unlocking around 25% of the clues: three for 12 or four for 16.
+4. Throughout the day, the host posts Finish the Lyric challenges with four answer options and a verified correct answer.
+5. The first member to answer correctly chooses one remaining mystery letter. The host unlocks its corresponding numbered musical clue for everyone and removes that letter from the available choices.
+6. Members listen to the unlocked clues and try to identify the mystery song using **as few clues as possible**. Continue releasing clues throughout the day as needed.
+7. The host tracks unlocked clue numbers, remaining letters and the total unlocked. Keep the mystery song and secret mapping hidden until appropriate.
+
+**Hosting notes:** Reset the mapping and tracker for each new song. Clue release times and any tie-break or scoring system are not fixed. The lyric challenges unlock clues; they are not themselves clues to the mystery song.
+
 ### 🕵️ Celebrity Lock-In (Mystery Monday) — ✅ Played, 16 November
 1. Host chooses a real celebrity and prepares **six verified, progressively easier clues**, worded indirectly rather than copied from searchable biographies.
 2. Publish clues one at a time. Members may **PASS** and wait for another clue.
