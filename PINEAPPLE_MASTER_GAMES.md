@@ -175,7 +175,7 @@ Short standalone Telegram rounds, with no fixed weekday. Each is a separate game
 | **Put It in Order** | Arrange four items by the stated criterion; first fully correct sequence wins. |
 | **Real or Ridiculous?** | Vote REAL or RIDICULOUS on a surprising, verified claim; reveal the answer after the poll. Trial this one first. |
 
-**Other quick formats:** One Word, Wrong ’Un, Who Am I?, Pineapple Puzzles, Teaser puzzles, Pineapple Catchphrase and single-round Find the Lie. Details and further ideas are preserved in the [archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md).
+**Other quick formats:** One Word, Wrong ’Un, Who Am I?, Pineapple Puzzles, Teaser puzzles and single-round Find the Lie. Details and further ideas are preserved in the [archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md).
 
 ## 🎤 Live specials
 
@@ -184,6 +184,7 @@ Short standalone Telegram rounds, with no fixed weekday. Each is a separate game
 | **Deal or No Deal** | Hosted banker and boxes game. |
 | **Wheel of Misfortune** | Elimination wheel with Golden Pass, Back in the Game and Taking You Out. |
 | **Pineapple Fortunes** | Family Fortunes-style host-controlled answers and public board. |
+| **[Pineapple Catchphrase](pineapple-catchphrase.html)** | Live hosted picture and animated video guessing game; normal rounds, nine-square bonus reveals, hidden answers and ranked presentation scoreboard. Award 1 point for normal, 3 for bonus and 5 for super rounds. Available in PIN-protected Host Games; website tested by host. |
 | **The Million Pound Question** | 15 multiple-choice questions; a wrong answer eliminates the contestant. |
 | **The Flirt Factor** | Three mystery contestants answer cheeky questions. |
 | **Mr & Mrs** | Couples answer and compare questions. |
