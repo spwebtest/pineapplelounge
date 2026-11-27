@@ -4,7 +4,7 @@ Approved and existing games only. One main entry per game. Status reflects known
 
 ## Quick navigation
 
-[A–Z Games Index](#az-games-index) · [By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By game length](#by-game-length) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
+[A–Z Games Index](#az-games-index) · [By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By game length](#by-game-length) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents) · [Hosting schedule](#hosting-schedule)
 
 <a name="az-games-index"></a>
 ## A–Z Games Index
@@ -270,6 +270,23 @@ Entertainment quiz themes: use picture, multiple-choice, emoji, identity, year, 
 - [Pre-cleanup master backup](PINEAPPLE_MASTER_GAMES_LEGACY_2026-11-27.md) — includes original poster notes and previous formats.
 
 Retired / on hold: Sell It Saturday, Pineapple Pitch, The Traitors (not currently scheduled). See archive and backup.
+
+## Hosting schedule
+
+A rolling eight-day plan around the organiser’s four-on, four-off 7–7 shifts. Keep weekday themes flexible and choose games from the hosting-effort index.
+
+| Rota day | Hosting effort |
+|---|---|
+| Working 1 | 🟢 Self-running |
+| Working 2 | 🟡 Low maintenance |
+| Working 3 | 🟢 Self-running |
+| Working 4 | 🟢 Self-running |
+| Off 1 | ⚪ Recovery / optional |
+| Off 2 | 🟡 Low maintenance |
+| Off 3 | 🔴 Live special |
+| Off 4 | 🟡 Low maintenance |
+
+**Target per eight days:** 3 self-running, 3 low-maintenance, 1 live special and 1 optional/rest day. Approximately four live specials per month. Move the live slot to another day off when necessary; a second live game is optional, not an obligation. Publish a weekly preview while keeping the rota flexible. Avoid committing to fixed calendar dates until the shift dates are confirmed.
 
 ## 🔗 Handy forms
 
