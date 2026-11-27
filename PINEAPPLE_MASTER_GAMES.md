@@ -9,7 +9,7 @@ A simple working guide for choosing and running games. **One main entry per game
 
 ## 📖 Jump to a section
 
-[Weekly themes](#-weekly-themes) · [Scotty’s Quickies](#-scottys-quickies) · [Live specials](#-live-specials) · [All-day challenges](#-all-day-challenges) · [Retired / on hold](#-retired--on-hold) · [Posters](#-poster-guide) · [Full archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md)
+[Weekly themes](#-weekly-themes) · [Scotty’s Quickies](#-scottys-quickies) · [Live specials](#-live-specials) · [All-day challenges](#-all-day-challenges) · [Self-running social games](#-self-running-social-games) · [Retired / on hold](#-retired--on-hold) · [Posters](#-poster-guide) · [Full archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md)
 
 ## 📅 Weekly themes
 
@@ -201,6 +201,22 @@ Use these formats across the day, allowing members to join at different times. *
 - **The Missing Notes** — reveal piano-note clues gradually; members guess the song.
 - **Celebrity Guess by Squares** — uncover squares of a picture over time.
 - **Where’s Scotty? Lock It or Pass It** — progressive clues and a privately locked guess.
+
+## 🍍 Self-running social games
+
+A low-maintenance hosting category for workdays and busy days. Transform Thursday is the benchmark: one opening post, then members participate and interact independently. No scheduled rounds, private answers, scores or compulsory winner announcements. Normal moderation still applies.
+
+This is a hosting-format index, not a second catalogue of games.
+
+| Game | Self-running approach |
+|---|---|
+| Transform Thursday | Announce a theme; members share transformations and react to each other. |
+| Thank GIF It’s Friday | Post one GIF prompt; members respond and interact. |
+| Finish Line Friday | Use an optional sentence-completion social variant rather than the hosted virtual race. |
+| Sunday Roast | Feature a consenting member; let others contribute playful jokes and memes. |
+| Snap It Saturday | Start a photo challenge; members set subsequent challenges. |
+| Word Play Wednesday | Post a word ladder for members to solve; optional later solution. |
+| Truth or Dare | Members challenge each other voluntarily, with the option to pass. |
 
 ## 🗃️ Retired / on hold
 
