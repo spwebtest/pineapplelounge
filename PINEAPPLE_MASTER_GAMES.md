@@ -9,7 +9,7 @@ A simple working guide for choosing and running games. **One main entry per game
 
 ## 📖 Jump to a section
 
-[Game categories](#game-category-index) · [Weekly planning](#-weekly-planning-by-hosting-effort) · [Games by hosting effort](#-games-by-hosting-effort) · [Weekly themes](#-weekly-themes) · [Scotty’s Quickies](#-scottys-quickies) · [Live specials](#-live-specials) · [All-day challenges](#-all-day-challenges) · [Self-running social games](#-self-running-social-games) · [Retired / on hold](#-retired--on-hold) · [Posters](#-poster-guide) · [Full archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md)
+[Game categories](#game-category-index) · [Weekly planning](#-weekly-planning-by-hosting-effort) · [Games by hosting effort](#-games-by-hosting-effort) · [Weekly themes](#-weekly-themes) · [Entertainment quizzes](#entertainment-quiz-formats) · [Scotty’s Quickies](#-scottys-quickies) · [Live specials](#-live-specials) · [All-day challenges](#-all-day-challenges) · [Self-running social games](#-self-running-social-games) · [Retired / on hold](#-retired--on-hold) · [Posters](#-poster-guide) · [Full archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md)
 
 ## Game category index
 
@@ -19,11 +19,11 @@ Games can appear in multiple genres. Click a game to jump to its catalogue entry
 
 **Social & Getting to Know You** — [Mingle Monday](#mingle-monday) · [Mystery Member](#mystery-member) · [Mr & Mrs](#mr-mrs) · [Say It Sunday](#say-it-sunday) · [Member Takeover](#member-takeover) · [Sunday Roast](#sunday-roast) · [Pineapple Fortunes](#pineapple-fortunes)
 
-**Trivia & General Knowledge** — [The Million Pound Question](#the-million-pound-question) · [Mystery Monday](#mystery-monday) · [Teaser Tuesday](#teaser-tuesday) · [Find the Lie Friday](#find-the-lie-friday) · [Real or Ridiculous?](#real-or-ridiculous) · [Put It in Order](#put-it-in-order) · [Who Am I?](#who-am-i) · [The Closest Wins](#the-closest-wins)
+**Trivia & General Knowledge** — [The Million Pound Question](#the-million-pound-question) · [Mystery Monday](#mystery-monday) · [Teaser Tuesday](#teaser-tuesday) · [Find the Lie Friday](#find-the-lie-friday) · [Real or Ridiculous?](#real-or-ridiculous) · [Put It in Order](#put-it-in-order) · [Who Am I?](#who-am-i) · [The Closest Wins](#the-closest-wins) · [Movie Monday](#movie-monday) · [Musical Monday](#musical-monday) · [What’s That Wednesday](#whats-that-wednesday) · [Throwback Thursday](#throwback-thursday) · [Film Friday](#film-friday) · [Soundtrack Saturday](#soundtrack-saturday) · [Sitcom Saturday](#sitcom-saturday) · [Soapy Sunday](#soapy-sunday) · [Screen Sunday](#screen-sunday) · [Soundtrack Sunday](#soundtrack-sunday)
 
 **Comedy & Silly Challenges** — [Sunday Roast](#sunday-roast) · [Thank GIF It’s Friday](#thank-gif-it-s-friday) · [Transform Thursday](#transform-thursday) · [Wrong ’Un](#wrong-un) · [Size Matters](#size-matters) · [Real or Ridiculous?](#real-or-ridiculous)
 
-**Music & Entertainment** — [Tunes Tuesday](#tunes-tuesday) · [The Missing Notes](#the-missing-notes) · [Guess the Songs](#guess-the-songs) · [Telly Tuesday](#telly-tuesday) · [Teaser Tuesday](#teaser-tuesday) · [Pineapple Catchphrase](#pineapple-catchphrase)
+**Music & Entertainment** — [Tunes Tuesday](#tunes-tuesday) · [The Missing Notes](#the-missing-notes) · [Guess the Songs](#guess-the-songs) · [Telly Tuesday](#telly-tuesday) · [Teaser Tuesday](#teaser-tuesday) · [Pineapple Catchphrase](#pineapple-catchphrase) · [Movie Monday](#movie-monday) · [Musical Monday](#musical-monday) · [What’s That Wednesday](#whats-that-wednesday) · [Throwback Thursday](#throwback-thursday) · [Film Friday](#film-friday) · [Soundtrack Saturday](#soundtrack-saturday) · [Sitcom Saturday](#sitcom-saturday) · [Soapy Sunday](#soapy-sunday) · [Screen Sunday](#screen-sunday) · [Soundtrack Sunday](#soundtrack-sunday)
 
 **Competition & Elimination** — [Showdown Saturday](#showdown-saturday) · [Wheel of Misfortune](#wheel-of-misfortune) · [Deal or No Deal](#deal-or-no-deal) · [The Million Pound Question](#the-million-pound-question) · [Squid Games](#squid-games) · [Finish Line Friday](#finish-line-friday) · [Horse Racing / Sweepstake](#horse-racing-sweepstake) · [Snap It Saturday](#snap-it-saturday) · [Pineapple Catchphrase](#pineapple-catchphrase) · [Pineapple Fortunes](#pineapple-fortunes) · [The Closest Wins](#the-closest-wins)
 
@@ -47,23 +47,29 @@ Choose a theme day first, then select a format that fits your availability. The 
 
 | Day | 🟢 Self-running | 🟡 Low-maintenance | 🔴 Live games |
 |---|---|---|---|
-| Monday — Mystery | Mingle Monday | Mystery Monday; Mystery Member | Murder Mystery |
+| Monday — Mystery | Mingle Monday | Mystery Monday; Mystery Member; [Movie Monday](#movie-monday); [Musical Monday](#musical-monday) | Murder Mystery |
 | Tuesday — Tunes / Teaser / Telly | Song rankings (Tunes Tuesday variant) | Tunes Tuesday quizzes; Teaser Tuesday; Guess the Songs | The Missing Notes (interactive version); Pineapple Catchphrase |
-| Wednesday — Where’s Scotty / Word Play | Word Play Wednesday (open puzzle) | Where’s Scotty? picture reveals; Lock-In | Where’s Scotty? Hot or Cold (interactive distance feedback) |
-| Thursday — Transform / Throw the Dice | Transform Thursday; member-led Truth or Dare | Throw the Dice Thursday; Flirt or Divert; Size Matters | The Flirt Factor |
-| Friday — GIF / Finish Line | Thank GIF It’s Friday; sentence-completion variant | Find the Lie Friday | Finish Line Friday (hosted race) |
-| Saturday — Showdown / Snap It | Snap It Saturday (member-led) | Showdown Saturday | Wheel of Misfortune; Deal or No Deal |
-| Sunday — Roast / Social | Sunday Roast; Say It Sunday | Spotlight-style prompts (suggested) | Mr & Mrs; Pineapple Fortunes |
+| Wednesday — Where’s Scotty / Word Play | Word Play Wednesday (open puzzle) | Where’s Scotty? picture reveals; Lock-In; [What’s That Wednesday](#whats-that-wednesday) | Where’s Scotty? Hot or Cold (interactive distance feedback) |
+| Thursday — Transform / Throw the Dice | Transform Thursday; member-led Truth or Dare | Throw the Dice Thursday; Flirt or Divert; Size Matters; [Throwback Thursday](#throwback-thursday) | The Flirt Factor |
+| Friday — GIF / Finish Line | Thank GIF It’s Friday; sentence-completion variant | Find the Lie Friday; [Film Friday](#film-friday) | Finish Line Friday (hosted race) |
+| Saturday — Showdown / Snap It | Snap It Saturday (member-led) | Showdown Saturday; [Soundtrack Saturday](#soundtrack-saturday); [Sitcom Saturday](#sitcom-saturday) | Wheel of Misfortune; Deal or No Deal |
+| Sunday — Roast / Social | Sunday Roast; Say It Sunday | Spotlight-style prompts (suggested); [Soapy Sunday](#soapy-sunday); [Screen Sunday](#screen-sunday); [Soundtrack Sunday](#soundtrack-sunday) | Mr & Mrs; Pineapple Fortunes |
 
 **Workday default:** choose green first, or yellow if breaks allow. **Days off:** any category, especially red. No requirement to run a game every day.
 
 ## 🎮 Games by hosting effort
 
 - 🟢 **Self-running:** see [Self-running social games](#-self-running-social-games). One opening post; no compulsory scoring or winner.
-- 🟡 **Low-maintenance:** Mystery Monday, Mystery Member, Teaser Tuesday, Tunes Tuesday quizzes, Guess the Songs, Where’s Scotty? picture reveals and Lock-In, Throw the Dice Thursday, Flirt or Divert, Find the Lie Friday, Showdown Saturday, The Closest Wins, Size Matters, Filth or Innocent?, Pineapple Connections, Zoom In!, Pineapple Countdown, Say What You See, Put It in Order, Real or Ridiculous?, Who Am I? and other standalone puzzles. The Missing Notes can also be low-maintenance when clues are released in batches. Prepare in advance and check in occasionally.
+- 🟡 **Low-maintenance:** Mystery Monday, Mystery Member, Teaser Tuesday, Tunes Tuesday quizzes, Guess the Songs, Where’s Scotty? picture reveals and Lock-In, Throw the Dice Thursday, Flirt or Divert, Find the Lie Friday, Showdown Saturday, The Closest Wins, Size Matters, Filth or Innocent?, Pineapple Connections, Zoom In!, Pineapple Countdown, Say What You See, Put It in Order, Real or Ridiculous?, Who Am I? and other standalone puzzles. The Missing Notes can also be low-maintenance when clues are released in batches. Prepare in advance and check in occasionally. All [entertainment quiz themes](#entertainment-quiz-formats) are also low-maintenance.
 - 🔴 **Live:** see [Live specials](#-live-specials), plus hosted Finish Line Friday races, interactive Where’s Scotty? Hot or Cold and live Missing Notes. Member Takeover is live for the volunteer host, but low-maintenance for the regular organiser.
 
 Hosting effort describes the chosen format, not the difficulty of the game. The same game may move between categories if adapted.
+
+## Entertainment quiz formats
+
+All approved entertainment themes are 🟡 **low-maintenance** (primary: Music & Entertainment; secondary: Trivia & General Knowledge). Prepare question banks and optionally schedule Telegram quiz polls. Rotate picture quizzes, multiple choice, emoji titles, Who Am I?, Name That Year, Connections, Put It in Order, Find the Lie, Guess the Quote and True or False. These are approved formats, not a fixed schedule or a completed question bank.
+
+[Movie Monday](#movie-monday) · [Musical Monday](#musical-monday) · [What’s That Wednesday](#whats-that-wednesday) · [Throwback Thursday](#throwback-thursday) · [Film Friday](#film-friday) · [Soundtrack Saturday](#soundtrack-saturday) · [Sitcom Saturday](#sitcom-saturday) · [Soapy Sunday](#soapy-sunday) · [Screen Sunday](#screen-sunday) · [Soundtrack Sunday](#soundtrack-sunday) · [Tunes Tuesday](#tunes-tuesday) · [Telly Tuesday](#telly-tuesday)
 
 ## 📅 Weekly themes
 
@@ -78,6 +84,11 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - <a name="mingle-monday"></a>**Mingle Monday** — Self-running social theme: Ask & Pass, Find Your Match, Pick Me, Two Truths & a Lie, Pineapple Connections (social variant), First Impressions, Would We Get Along?, Never Have I Ever, Ask Me Anything and Perfect Pair.
 - <a name="murder-mystery"></a>**🔪 Murder Mystery** — *See archive* — Special fictional whodunnit featuring group members as characters.
 
+**Approved entertainment formats (🟡 low-maintenance)**
+
+- <a name="movie-monday"></a>**Movie Monday** — Film trivia, quotes and scenes.
+- <a name="musical-monday"></a>**Musical Monday** — Musical theatre and movie musicals.
+
 **Alternative theme names**
 
 - **Dirty Minds Monday** — *Adult & Cheeky* — Innocent clues with cheeky-sounding answers.
@@ -86,7 +97,6 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - **Meet-Up Monday** — *Social & Getting to Know You* — Get-to-know-you prompts.
 - **Mischief Monday** — *Comedy & Silly Challenges* — Silly harmless challenges.
 - **Loony Monday** — *Comedy & Silly Challenges* — Ridiculous choices and laughs.
-- **Musical Monday** — *Music & Entertainment* — Guess songs or artists.
 - **Mind-Bender Monday** — *Puzzles & Brain Teasers* — Riddles and tricky puzzles.
 - **Lucky Dip Monday** — *Luck & Random Games* — Random mystery prompts.
 - **Mystery Monday** — *Mystery & Detective* — Progressive clues and reveals.
@@ -99,8 +109,8 @@ Each day has **existing games** and **alternative theme names** together. Altern
 **Existing games**
 
 - <a name="teaser-tuesday"></a>**🧩 Teaser Tuesday** — *See archive* — Mixed picture puzzles for films, TV, music, sayings, celebrities and general knowledge.
-- <a name="telly-tuesday"></a>**📺 Telly Tuesday** — *See archive* — Games inspired by TV game shows, using polls, short answers and group challenges.
-- <a name="tunes-tuesday"></a>**🎵 Tunes Tuesday** — *See archive* — Music guessing and challenges.
+- <a name="telly-tuesday"></a>**📺 Telly Tuesday** — *See archive* — Games inspired by TV game shows, using polls, short answers and group challenges; also low-maintenance television trivia, characters and programme quizzes.
+- <a name="tunes-tuesday"></a>**🎵 Tunes Tuesday** — *See archive* — Music guessing, general music quizzes and challenges.
 
 **Alternative theme names**
 
@@ -121,6 +131,10 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - <a name="where-s-scotty-hot-or-cold"></a>**🌍 Where’s Scotty? Hot or Cold** — *See archive* — Guess a hidden location using distances in kilometres and hot/cold guidance; played.
 - <a name="where-s-scotty-lock-in"></a>**🔐 Where’s Scotty Lock-In** — *See archive* — Guess the location and privately lock in an answer with the host; separate from picture-square reveals; created.
 - <a name="where-s-scotty-wednesday"></a>**🔎 Where’s Scotty Wednesday** — *See archive* — Find Scotty hidden in a busy image.
+
+**Approved entertainment formats (🟡 low-maintenance)**
+
+- <a name="whats-that-wednesday"></a>**What’s That Wednesday** — Identify films, songs or programmes from clues.
 
 **Alternative theme names**
 
@@ -143,6 +157,10 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - <a name="throw-the-dice-thursday"></a>**🎲 Throw the Dice Thursday** — *See archive* — Roll 1–6 to choose a question or challenge.
 - <a name="flirt-or-divert"></a>**💘 Flirt or Divert** — *See archive* — Rate chat-up lines by Telegram poll: 1 = divert, 5 = keep flirting; created.
 
+**Approved entertainment formats (🟡 low-maintenance)**
+
+- <a name="throwback-thursday"></a>**Throwback Thursday** — Nostalgic entertainment by decade.
+
 **Alternative theme names**
 
 - **Flirty Thursday** — *Adult & Cheeky* — Flirting and playful chat-up lines.
@@ -150,7 +168,6 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - **Thirst Trap Thursday** — *Adult & Cheeky* — Playful thirst-trap ratings.
 - **Tongue-in-Cheek Thursday** — *Adult & Cheeky* — Cheeky humour and double meanings.
 - **Think Tank Thursday** — *Trivia & General Knowledge* — Team-style trivia and problem solving.
-- **Throwback Thursday** — *Music & Entertainment* — Nostalgic entertainment and songs.
 - **Thriller Thursday** — *Mystery & Detective* — Suspense and mystery clues.
 - **Treasure Hunt Thursday** — *Photo & Scavenger Hunts* — Find or photograph clue-based objects.
 - **Transform Thursday** — *Creative Challenges* — Funny photo transformations.
@@ -162,6 +179,10 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - <a name="thank-gif-it-s-friday"></a>**😂 Thank GIF It’s Friday** — *See archive* — Reply to prompts using GIFs.
 - <a name="finish-line-friday"></a>**🏁 Finish Line Friday** — *See archive* — Virtual races and finishing positions.
 - <a name="find-the-lie-friday"></a>**Find the Lie Friday** — *See archive* — Two truths and one lie; members spot the false statement..
+
+**Approved entertainment formats (🟡 low-maintenance)**
+
+- <a name="film-friday"></a>**Film Friday** — Film quizzes, actors and scenes.
 
 **Alternative theme names**
 
@@ -183,12 +204,16 @@ Each day has **existing games** and **alternative theme names** together. Altern
 - <a name="showdown-saturday"></a>**⚔️ Showdown Saturday** — *See archive* — Compete across ten popular-choice polls.
 - <a name="snap-it-saturday"></a>**📸 Snap It Saturday** — *See archive* — Photo challenges.
 
+**Approved entertainment formats (🟡 low-maintenance)**
+
+- <a name="soundtrack-saturday"></a>**Soundtrack Saturday** — Identify films or TV from soundtracks.
+- <a name="sitcom-saturday"></a>**Sitcom Saturday** — Comedy programmes and sitcom trivia.
+
 **Alternative theme names**
 
 - **Saucy Saturday** — *Adult & Cheeky* — Playful adult-themed polls.
 - **Saucy Secrets Saturday** — *Adult & Cheeky* — Cheeky anonymous-style prompts without requiring personal disclosures.
 - **Social Saturday** — *Social & Getting to Know You* — Group bonding and conversation.
-- **Soundtrack Saturday** — *Music & Entertainment* — Film and TV soundtrack guessing.
 - **Showdown Saturday** — *Competition & Elimination* — Competitive polls and matchups.
 - **Scramble Saturday** — *Puzzles & Brain Teasers* — Unscramble words or names.
 - **Suspect Saturday** — *Mystery & Detective* — Deduce the culprit from clues.
@@ -201,6 +226,12 @@ Each day has **existing games** and **alternative theme names** together. Altern
 
 - <a name="sunday-roast"></a>**🔥 Sunday Roast** — *See archive* — Playful jokes and memes about a featured member.
 - <a name="say-it-sunday"></a>**💬 Say It Sunday** — *See archive* — Group opinions and open discussion.
+
+**Approved entertainment formats (🟡 low-maintenance)**
+
+- <a name="soapy-sunday"></a>**Soapy Sunday** — Soap opera characters, storylines and trivia.
+- <a name="screen-sunday"></a>**Screen Sunday** — Mixed film and television quizzes.
+- <a name="soundtrack-sunday"></a>**Soundtrack Sunday** — Film and television music.
 
 **Alternative theme names**
 
