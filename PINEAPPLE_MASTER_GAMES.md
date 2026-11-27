@@ -4,7 +4,36 @@ Approved and existing games only. One main entry per game. Status reflects known
 
 ## Quick navigation
 
-[By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
+[A–Z Games Index](#az-games-index) · [By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
+
+<a name="az-games-index"></a>
+## A–Z Games Index
+
+**C** — [Celebrity Guess by Squares](#celebrity-guess-by-squares) · [Crack the Code](#crack-the-code)
+
+**D** — [Deal or No Deal](#deal-or-no-deal) · [Describe It](#describe-it) · [Double Trouble](#double-trouble)
+
+**F** — [Film Friday](#film-friday) · [Filth or Innocent?](#filth-or-innocent) · [Find the Lie Friday](#find-the-lie-friday) · [Finish Line Friday](#finish-line-friday) · [Flirt or Divert](#flirt-or-divert) · [Friday Fill in the Blank](#friday-fill-in-the-blank) · [Friday Flirt-Off](#friday-flirtoff) · [Friday Frenzy](#friday-frenzy)
+
+**G** — [Guess the Songs](#guess-the-songs)
+
+**H** — [Horse Racing / Sweepstake](#horse-racing-sweepstake)
+
+**M** — [Member Takeover](#member-takeover) · [Memory Chain](#memory-chain) · [Memory Mayhem](#memory-mayhem) · [Mingle Monday](#mingle-monday) · [Movie Monday](#movie-monday) · [Mr & Mrs](#mr-mrs) · [Musical Monday](#musical-monday) · [Mystery Member](#mystery-member) · [Mystery Monday](#mystery-monday)
+
+**O** — [One Word](#one-word)
+
+**P** — [Pineapple Catchphrase](#pineapple-catchphrase) · [Pineapple Connections](#pineapple-connections) · [Pineapple Countdown](#pineapple-countdown) · [Pineapple Fortunes](#pineapple-fortunes) · [Pineapple Murder Mystery](#pineapple-murder-mystery) · [Pineapple Puzzles](#pineapple-puzzles) · [Put It in Order](#put-it-in-order)
+
+**R** — [Real or Ridiculous?](#real-or-ridiculous)
+
+**S** — [Saturday Game Show](#saturday-game-show) · [Saturday Scavenger Hunt](#saturday-scavenger-hunt) · [Saturday Scramble](#saturday-scramble) · [Saturday Six](#saturday-six) · [Saturday Survival](#saturday-survival) · [Saturday Sweepstake](#saturday-sweepstake) · [Say It Sunday](#say-it-sunday) · [Say What You See](#say-what-you-see) · [Screen Sunday](#screen-sunday) · [Showdown Saturday](#showdown-saturday) · [Sitcom Saturday](#sitcom-saturday) · [Size Matters](#size-matters) · [Snap It Saturday](#snap-it-saturday) · [Soapy Sunday](#soapy-sunday) · [Soundtrack Saturday](#soundtrack-saturday) · [Soundtrack Sunday](#soundtrack-sunday) · [Squid Games](#squid-games) · [Sunday Caption Club](#sunday-caption-club) · [Sunday Excuses](#sunday-excuses) · [Sunday Roast](#sunday-roast) · [Sunday Spotlight](#sunday-spotlight) · [Sunday Storytime](#sunday-storytime) · [Sunday Swap](#sunday-swap)
+
+**T** — [Teaser Tuesday](#teaser-tuesday) · [Telly Tuesday](#telly-tuesday) · [Thank GIF It’s Friday](#thank-gif-its-friday) · [The Closest Wins](#the-closest-wins) · [The Flirt Factor](#the-flirt-factor) · [The Forbidden Word](#the-forbidden-word) · [The Million Pound Question / Ladder](#the-million-pound-question-ladder) · [The Missing Notes](#the-missing-notes) · [Throw the Dice Thursday](#throw-the-dice-thursday) · [Throwback Thursday](#throwback-thursday) · [Transform Thursday](#transform-thursday) · [Truth or Dare](#truth-or-dare) · [Tunes Tuesday](#tunes-tuesday)
+
+**W** — [What’s Missing?](#whats-missing) · [What’s That Wednesday](#whats-that-wednesday) · [Wheel of Misfortune](#wheel-of-misfortune) · [Where’s Scotty Lock-In](#wheres-scotty-lockin) · [Where’s Scotty Wednesday](#wheres-scotty-wednesday) · [Where’s Scotty? Hot or Cold](#wheres-scotty-hot-or-cold) · [Who Am I?](#who-am-i) · [Word Play Wednesday](#word-play-wednesday) · [Wrong ’Un / What a Wrong ’Un / Wrong ’Un Monday](#wrong-un-what-a-wrong-un-wrong-un-monday) · [Wrong ’Un Sunday](#wrong-un-sunday)
+
+**Z** — [Zoom In!](#zoom-in)
 
 ## By weekday
 
