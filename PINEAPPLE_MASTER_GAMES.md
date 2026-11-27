@@ -9,7 +9,31 @@ A simple working guide for choosing and running games. **One main entry per game
 
 ## 📖 Jump to a section
 
-[Weekly themes](#-weekly-themes) · [Scotty’s Quickies](#-scottys-quickies) · [Live specials](#-live-specials) · [All-day challenges](#-all-day-challenges) · [Self-running social games](#-self-running-social-games) · [Retired / on hold](#-retired--on-hold) · [Posters](#-poster-guide) · [Full archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md)
+[Weekly planning](#-weekly-planning-by-hosting-effort) · [Games by hosting effort](#-games-by-hosting-effort) · [Weekly themes](#-weekly-themes) · [Scotty’s Quickies](#-scottys-quickies) · [Live specials](#-live-specials) · [All-day challenges](#-all-day-challenges) · [Self-running social games](#-self-running-social-games) · [Retired / on hold](#-retired--on-hold) · [Posters](#-poster-guide) · [Full archive](PINEAPPLE_GAME_IDEAS_ARCHIVE.md)
+
+## 🗓️ Weekly planning by hosting effort
+
+Choose a theme day first, then select a format that fits your availability. The table is a planning index; the detailed catalogue below remains the source for game descriptions. A game may suit several days. Suggested variants are not necessarily tested.
+
+| Day | 🟢 Self-running | 🟡 Low-maintenance | 🔴 Live games |
+|---|---|---|---|
+| Monday — Mystery | Mingle Monday (alternative theme) | Mystery Monday; Celebrity Lock-In | Murder Mystery |
+| Tuesday — Tunes / Teaser / Telly | Song rankings (Tunes Tuesday variant) | Tunes Tuesday quizzes; Teaser Tuesday; Guess the Songs | The Missing Notes (interactive version); Pineapple Catchphrase |
+| Wednesday — Where’s Scotty / Word Play | Word Play Wednesday (open puzzle) | Where’s Scotty? picture reveals; Lock-In | Where’s Scotty? Hot or Cold (interactive distance feedback) |
+| Thursday — Transform / Throw the Dice | Transform Thursday; member-led Truth or Dare | Throw the Dice Thursday; Flirt or Divert; Size Matters | The Flirt Factor |
+| Friday — GIF / Finish Line | Thank GIF It’s Friday; sentence-completion variant | Find the Lie Friday | Finish Line Friday (hosted race) |
+| Saturday — Showdown / Snap It | Snap It Saturday (member-led) | Showdown Saturday | Wheel of Misfortune; Deal or No Deal |
+| Sunday — Roast / Social | Sunday Roast; Say It Sunday | Spotlight-style prompts (suggested) | Mr & Mrs; Pineapple Fortunes |
+
+**Workday default:** choose green first, or yellow if breaks allow. **Days off:** any category, especially red. No requirement to run a game every day.
+
+## 🎮 Games by hosting effort
+
+- 🟢 **Self-running:** see [Self-running social games](#-self-running-social-games). One opening post; no compulsory scoring or winner.
+- 🟡 **Low-maintenance:** Mystery Monday, Celebrity Lock-In, Teaser Tuesday, Tunes Tuesday quizzes, Guess the Songs, Where’s Scotty? picture reveals and Lock-In, Throw the Dice Thursday, Flirt or Divert, Find the Lie Friday, Showdown Saturday, The Closest Wins, Size Matters, Filth or Innocent?, Pineapple Connections, Zoom In!, Pineapple Countdown, Say What You See, Put It in Order, Real or Ridiculous?, Who Am I? and other standalone puzzles. The Missing Notes can also be low-maintenance when clues are released in batches. Prepare in advance and check in occasionally.
+- 🔴 **Live:** see [Live specials](#-live-specials), plus hosted Finish Line Friday races, interactive Where’s Scotty? Hot or Cold and live Missing Notes. Member Takeover is live for the volunteer host, but low-maintenance for the regular organiser.
+
+Hosting effort describes the chosen format, not the difficulty of the game. The same game may move between categories if adapted.
 
 ## 📅 Weekly themes
 
