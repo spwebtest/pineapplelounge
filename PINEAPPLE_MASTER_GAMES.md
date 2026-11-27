@@ -4,7 +4,7 @@ Approved and existing games only. One main entry per game. Status reflects known
 
 ## Quick navigation
 
-[A–Z Games Index](#az-games-index) · [By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
+[A–Z Games Index](#az-games-index) · [By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By game length](#by-game-length) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
 
 <a name="az-games-index"></a>
 ## A–Z Games Index
@@ -159,91 +159,104 @@ Formats describe how members play, rather than the subject or hosting effort. Ga
 
 **Format Pending Rule Confirmation** — [Wrong ’Un Sunday](#wrong-un-sunday)
 
+## By game length
+
+Suggested playing times, not strict limits or measured results. Quick and short durations can refer to a single round; repeated rounds can run throughout the day. Live specials generally take 30–60 minutes or longer. All-day play means the participation window, not continuous hosting. Games can appear in multiple categories. Durations for unconfirmed formats are provisional.
+
+**⚡ Quick Play — 1–5 mins** — [Teaser Tuesday](#teaser-tuesday) · [Word Play Wednesday](#word-play-wednesday) · [Throw the Dice Thursday](#throw-the-dice-thursday) · [Flirt or Divert](#flirt-or-divert) · [Saturday Scramble](#saturday-scramble) · [The Closest Wins](#the-closest-wins) · [Pineapple Connections](#pineapple-connections) · [Zoom In!](#zoom-in) · [Pineapple Countdown](#pineapple-countdown) · [Say What You See](#say-what-you-see) · [Put It in Order](#put-it-in-order) · [Real or Ridiculous?](#real-or-ridiculous) · [One Word](#one-word) · [Pineapple Puzzles](#pineapple-puzzles) · [What’s Missing?](#whats-missing) · [Filth or Innocent?](#filth-or-innocent)
+
+**🟢 Short Play — 5–15 mins** — [Guess the Songs](#guess-the-songs) · [Memory Mayhem](#memory-mayhem) · [Crack the Code](#crack-the-code) · [Double Trouble](#double-trouble) · [Size Matters](#size-matters) · [Who Am I?](#who-am-i) · [Saturday Six](#saturday-six) · [Describe It](#describe-it) · [Memory Chain](#memory-chain) · [What’s That Wednesday](#whats-that-wednesday) · [Celebrity Guess by Squares](#celebrity-guess-by-squares)
+
+**🟡 Extended Play — 15–30 mins** — [Tunes Tuesday](#tunes-tuesday) · [Telly Tuesday](#telly-tuesday) · [Find the Lie Friday](#find-the-lie-friday) · [Showdown Saturday](#showdown-saturday) · [Movie Monday](#movie-monday) · [Musical Monday](#musical-monday) · [Throwback Thursday](#throwback-thursday) · [Film Friday](#film-friday) · [Soundtrack Saturday](#soundtrack-saturday) · [Sitcom Saturday](#sitcom-saturday) · [Soapy Sunday](#soapy-sunday) · [Screen Sunday](#screen-sunday) · [Soundtrack Sunday](#soundtrack-sunday) · [The Missing Notes](#the-missing-notes) · [Finish Line Friday](#finish-line-friday)
+
+**🔴 Live Specials — 30–60+ mins** — [The Missing Notes](#the-missing-notes) · [Where’s Scotty? Hot or Cold](#wheres-scotty-hot-or-cold) · [Finish Line Friday](#finish-line-friday) · [Saturday Survival](#saturday-survival) · [Saturday Game Show](#saturday-game-show) · [Deal or No Deal](#deal-or-no-deal) · [Wheel of Misfortune](#wheel-of-misfortune) · [Pineapple Fortunes](#pineapple-fortunes) · [Pineapple Catchphrase](#pineapple-catchphrase) · [The Million Pound Question / Ladder](#the-million-pound-question-ladder) · [The Flirt Factor](#the-flirt-factor) · [Mr & Mrs](#mr-mrs) · [Pineapple Murder Mystery](#pineapple-murder-mystery) · [Squid Games](#squid-games) · [Horse Racing / Sweepstake](#horse-racing-sweepstake) · [Member Takeover](#member-takeover)
+
+**☀️ All-Day Play — throughout the day** — [Mystery Monday](#mystery-monday) · [Mystery Member](#mystery-member) · [Mingle Monday](#mingle-monday) · [Where’s Scotty Wednesday](#wheres-scotty-wednesday) · [Where’s Scotty Lock-In](#wheres-scotty-lockin) · [Word Play Wednesday](#word-play-wednesday) · [Transform Thursday](#transform-thursday) · [Truth or Dare](#truth-or-dare) · [Thank GIF It’s Friday](#thank-gif-its-friday) · [Friday Flirt-Off](#friday-flirtoff) · [Friday Fill in the Blank](#friday-fill-in-the-blank) · [Friday Frenzy](#friday-frenzy) · [Showdown Saturday](#showdown-saturday) · [Snap It Saturday](#snap-it-saturday) · [Saturday Six](#saturday-six) · [Saturday Scavenger Hunt](#saturday-scavenger-hunt) · [Saturday Sweepstake](#saturday-sweepstake) · [Sunday Roast](#sunday-roast) · [Wrong ’Un Sunday](#wrong-un-sunday) · [Sunday Caption Club](#sunday-caption-club) · [Sunday Storytime](#sunday-storytime) · [Sunday Swap](#sunday-swap) · [Sunday Excuses](#sunday-excuses) · [Say It Sunday](#say-it-sunday) · [Sunday Spotlight](#sunday-spotlight) · [Wrong ’Un / What a Wrong ’Un / Wrong ’Un Monday](#wrong-un-what-a-wrong-un-wrong-un-monday) · [Memory Chain](#memory-chain) · [The Forbidden Word](#the-forbidden-word) · [Describe It](#describe-it) · [Celebrity Guess by Squares](#celebrity-guess-by-squares)
+
 ## Catalogue
 
-| Game | Day | Hosting | Status | Description |
-|---|---|---|---|---|
-| <a name="mystery-monday"></a>**Mystery Monday** | Mon | 🟡 Low maintenance | Established / tested | Celebrity guessing: picture squares, six-clue private Lock In or Pass, or progressive public guesses. |
-| <a name="mystery-member"></a>**Mystery Member** | Mon | 🟡 Low maintenance | Approved — awaiting trial | Same three formats using a consenting member’s photo or facts. |
-| <a name="mingle-monday"></a>**Mingle Monday** | Mon | 🟢 Self-running | Approved — awaiting trial | Member-led social activities: Ask & Pass, Find Your Match, Pick Me, Two Truths & a Lie, Connections, First Impressions, Would We Get Along?, Never Have I Ever, Ask Me Anything, Perfect Pair. |
-| <a name="tunes-tuesday"></a>**Tunes Tuesday** | Tue | 🟡 Low maintenance | Established / tested | Music quizzes, rankings and guessing; Musical Notes uses unlocked clues earned through lyric quizzes. |
-| <a name="telly-tuesday"></a>**Telly Tuesday** | Tue | 🟡 Low maintenance | Existing — status unconfirmed | TV trivia and game-show-inspired rounds. |
-| <a name="teaser-tuesday"></a>**Teaser Tuesday** | Tue | 🟡 Low maintenance | Existing — status unconfirmed | Mixed picture puzzles. |
-| <a name="guess-the-songs"></a>**Guess the Songs** | Tue | 🟡 Low maintenance | Established / tested | Guess as many songs as possible; initially submit only the number. |
-| <a name="the-missing-notes"></a>**The Missing Notes** | Tue | 🟡 / 🔴 | Established / tested | Reveal piano-note clues; batch releases or live host controls. |
-| <a name="wheres-scotty-wednesday"></a>**Where’s Scotty Wednesday** | Wed | 🟡 Low maintenance | Established / tested | Find Scotty or identify a location through picture reveals. |
-| <a name="wheres-scotty-hot-or-cold"></a>**Where’s Scotty? Hot or Cold** | Wed | 🔴 Live | Established / tested | Guess location using distance feedback. |
-| <a name="wheres-scotty-lockin"></a>**Where’s Scotty Lock-In** | Wed | 🟡 Low maintenance | Established / tested | Progressive location clues with private locked guess. |
-| <a name="word-play-wednesday"></a>**Word Play Wednesday** | Wed | 🟢 Self-running | Approved — awaiting trial | Change one letter at a time to solve a word ladder. |
-| <a name="transform-thursday"></a>**Transform Thursday** | Thu | 🟢 Self-running | Established / tested | Post a theme for member-led funny AI photo transformations. |
-| <a name="throw-the-dice-thursday"></a>**Throw the Dice Thursday** | Thu | 🟡 Low maintenance | Existing — status unconfirmed | Roll 1–6 to select a challenge. |
-| <a name="truth-or-dare"></a>**Truth or Dare** | Thu | 🟢 Self-running | Existing — status unconfirmed | Voluntary member-led challenges; option to pass. |
-| <a name="flirt-or-divert"></a>**Flirt or Divert** | Thu | 🟡 Low maintenance | Established / tested | Rate chat-up lines using a 1–5 poll. |
-| <a name="thank-gif-its-friday"></a>**Thank GIF It’s Friday** | Fri | 🟢 Self-running | Established / tested | Reply to prompts with GIFs. |
-| <a name="finish-line-friday"></a>**Finish Line Friday** | Fri | 🟡 / 🔴 | Established / tested | Virtual race; low maintenance if prepared, live if hosted interactively. |
-| <a name="find-the-lie-friday"></a>**Find the Lie Friday** | Fri | 🟡 Low maintenance | Established / tested | Identify the false statement from mixed verified trivia. |
-| <a name="friday-flirtoff"></a>**Friday Flirt-Off** | Fri | 🟢 Self-running | Approved — awaiting trial | Members share funny chat-up lines and react. |
-| <a name="friday-fill-in-the-blank"></a>**Friday Fill in the Blank** | Fri | 🟢 Self-running | Approved — awaiting trial | Complete funny sentences; members set new prompts. |
-| <a name="friday-frenzy"></a>**Friday Frenzy** | Fri | 🟡 Low maintenance | Approved — awaiting trial | Independent quick puzzles released throughout the day. |
-| <a name="showdown-saturday"></a>**Showdown Saturday** | Sat | 🟡 Low maintenance | Established / tested | Four formats: popular-choice polls (established); knockout tournament / Battle of the Best, ranking and majority-match predictions (planned variants). |
-| <a name="snap-it-saturday"></a>**Snap It Saturday** | Sat | 🟢 Self-running | Established / tested | Photograph objects matching clues; members set subsequent challenges. |
-| <a name="saturday-scramble"></a>**Saturday Scramble** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Unscramble words, names or titles. |
-| <a name="saturday-six"></a>**Saturday Six** | Sat | 🟢 Self-running | Approved — awaiting trial | Find six valid answers; first successful member sets next challenge. |
-| <a name="saturday-survival"></a>**Saturday Survival** | Sat | 🔴 Live | Approved — awaiting trial | Mixed elimination rounds until one remains. |
-| <a name="saturday-scavenger-hunt"></a>**Saturday Scavenger Hunt** | Sat | 🟢 Self-running | Approved — awaiting trial | All-day checklist of objects to photograph. |
-| <a name="saturday-sweepstake"></a>**Saturday Sweepstake** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Random allocation to competitors; no stakes or entry fee. |
-| <a name="saturday-game-show"></a>**Saturday Game Show** | Sat | 🔴 Live | Approved — awaiting trial | Rotating slot for existing live specials; not a separate ruleset. |
-| <a name="sunday-roast"></a>**Sunday Roast** | Sun | 🟢 Self-running | Established / tested | Playful jokes and memes about a consenting featured member. |
-| <a name="wrong-un-sunday"></a>**Wrong ’Un Sunday** | Sun | 🟢 Self-running | Approved — awaiting trial | Sunday edition of Wrong ’Un; original rules and effort to be confirmed. |
-| <a name="sunday-caption-club"></a>**Sunday Caption Club** | Sun | 🟢 Self-running | Approved — awaiting trial | Members caption amusing pictures and submit new pictures. |
-| <a name="sunday-storytime"></a>**Sunday Storytime** | Sun | 🟢 Self-running | Approved — awaiting trial | Continue a ridiculous story one sentence at a time. |
-| <a name="sunday-swap"></a>**Sunday Swap** | Sun | 🟢 Self-running | Approved — awaiting trial | Replace one word in famous titles with the chosen word. |
-| <a name="sunday-excuses"></a>**Sunday Excuses** | Sun | 🟢 Self-running | Approved — awaiting trial | Invent funny excuses for ridiculous situations; members set new scenarios. |
-| <a name="say-it-sunday"></a>**Say It Sunday** | Sun | 🟢 Self-running | Existing — status unconfirmed | Existing discussion format; not a priority for rotation. |
-| <a name="sunday-spotlight"></a>**Sunday Spotlight** | Sun | 🟡 Low maintenance | Existing — status unconfirmed | Existing spotlight theme; avoid duplicating Hot Seat. |
-| <a name="movie-monday"></a>**Movie Monday** | Mon | 🟡 Low maintenance | Approved — awaiting trial | Film trivia, quotes and scenes. |
-| <a name="musical-monday"></a>**Musical Monday** | Mon | 🟡 Low maintenance | Approved — awaiting trial | Musical theatre and movie musicals. |
-| <a name="whats-that-wednesday"></a>**What’s That Wednesday** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Identify films, songs or programmes from clues. |
-| <a name="throwback-thursday"></a>**Throwback Thursday** | Thu | 🟡 Low maintenance | Approved — awaiting trial | Nostalgic entertainment by decade. |
-| <a name="film-friday"></a>**Film Friday** | Fri | 🟡 Low maintenance | Approved — awaiting trial | Film quizzes, actors and scenes. |
-| <a name="soundtrack-saturday"></a>**Soundtrack Saturday** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Identify films or TV from soundtracks. |
-| <a name="sitcom-saturday"></a>**Sitcom Saturday** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Sitcom and comedy programme trivia. |
-| <a name="soapy-sunday"></a>**Soapy Sunday** | Sun | 🟡 Low maintenance | Approved — awaiting trial | Soap opera characters, storylines and trivia. |
-| <a name="screen-sunday"></a>**Screen Sunday** | Sun | 🟡 Low maintenance | Approved — awaiting trial | Mixed film and television quizzes. |
-| <a name="soundtrack-sunday"></a>**Soundtrack Sunday** | Sun | 🟡 Low maintenance | Approved — awaiting trial | Film and television music. |
-| <a name="the-closest-wins"></a>**The Closest Wins** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Closest numerical estimate wins. |
-| <a name="size-matters"></a>**Size Matters** | Any | 🟡 Low maintenance | Approved — awaiting trial | Guess two mystery objects through playful questions without direct size questions. |
-| <a name="filth-or-innocent"></a>**Filth or Innocent?** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Cheeky choice or poll. |
-| <a name="pineapple-connections"></a>**Pineapple Connections** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Find the link between clues. |
-| <a name="zoom-in"></a>**Zoom In!** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Identify an object from a close-up. |
-| <a name="pineapple-countdown"></a>**Pineapple Countdown** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Short countdown-style puzzle. |
-| <a name="say-what-you-see"></a>**Say What You See** | Any | 🟡 Low maintenance | Approved — awaiting trial | Solve a rebus picture puzzle. |
-| <a name="put-it-in-order"></a>**Put It in Order** | Any | 🟡 Low maintenance | Approved — awaiting trial | Arrange items by stated criterion. |
-| <a name="real-or-ridiculous"></a>**Real or Ridiculous?** | Any | 🟡 Low maintenance | Approved — awaiting trial | Vote real or ridiculous on a verified claim. |
-| <a name="wrong-un-what-a-wrong-un-wrong-un-monday"></a>**Wrong ’Un / What a Wrong ’Un / Wrong ’Un Monday** | Any | 🟢 Self-running | Existing — status unconfirmed | Existing comedy format; original rules and hosting effort need confirmation. |
-| <a name="who-am-i"></a>**Who Am I?** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Identity guessing. |
-| <a name="one-word"></a>**One Word** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Standalone word game; see archive. |
-| <a name="pineapple-puzzles"></a>**Pineapple Puzzles** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Standalone puzzles. |
-| <a name="celebrity-guess-by-squares"></a>**Celebrity Guess by Squares** | Any | 🟡 Low maintenance | Established / tested | Reveal picture squares; also a Mystery Monday variant. |
-| <a name="deal-or-no-deal"></a>**Deal or No Deal** | Any | 🔴 Live | Established / tested | Hosted banker and boxes game. |
-| <a name="wheel-of-misfortune"></a>**Wheel of Misfortune** | Any | 🔴 Live | Established / tested | Elimination wheel with Golden Pass, Back in the Game and Taking You Out. |
-| <a name="pineapple-fortunes"></a>**Pineapple Fortunes** | Any | 🔴 Live | Established / tested | Family Fortunes-style host-controlled answers and public board. |
-| <a name="pineapple-catchphrase"></a>**Pineapple Catchphrase** | Any | 🔴 Live | Established / tested | Picture and video guessing; website tested, group trial not confirmed. Normal 1, bonus 3, super 5 points. [Game](pineapple-catchphrase.html). |
-| <a name="the-million-pound-question-ladder"></a>**The Million Pound Question / Ladder** | Any | 🔴 Live | Established / tested | 15 multiple-choice questions; wrong answer eliminates contestant. |
-| <a name="the-flirt-factor"></a>**The Flirt Factor** | Any | 🔴 Live | Established / tested | Anonymous contestants answer flirty questions. |
-| <a name="mr-mrs"></a>**Mr & Mrs** | Any | 🔴 Live | Established / tested | Couples compare answers. |
-| <a name="pineapple-murder-mystery"></a>**Pineapple Murder Mystery** | Any | 🔴 Live | Established / tested | Fictional suspects, evidence, alibis and final vote. |
-| <a name="squid-games"></a>**Squid Games** | Any | 🔴 Live | Existing — status unconfirmed | Themed elimination special. |
-| <a name="horse-racing-sweepstake"></a>**Horse Racing / Sweepstake** | Any | 🔴 Live | Existing — status unconfirmed | Hosted race or sweepstake; see Saturday low-maintenance variant. |
-| <a name="member-takeover"></a>**Member Takeover** | Any | 🔴 Live | Existing — status unconfirmed | Volunteer-hosted session; low effort for regular organiser. |
-
-| <a name="memory-mayhem"></a>**Memory Mayhem** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Study a busy picture briefly, then answer questions about it; no looking back. |
-| <a name="whats-missing"></a>**What’s Missing?** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Compare two pictures and identify the missing objects. |
-| <a name="memory-chain"></a>**Memory Chain** | Sun | 🟢 Self-running | Approved — awaiting trial | Repeat the previous list and add an item; avoid scrolling back. |
-| <a name="crack-the-code"></a>**Crack the Code** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Work together on puzzles revealing digits or letters of a secret code. |
-| <a name="double-trouble"></a>**Double Trouble** | Tue | 🟡 Low maintenance | Approved — awaiting trial | Match every item in two shuffled lists. |
-| <a name="the-forbidden-word"></a>**The Forbidden Word** | Fri | 🟢 Self-running | Approved — awaiting trial | Avoid the announced word in normal chat and catch each other using it; no compulsory scores. |
-| <a name="describe-it"></a>**Describe It** | Thu | 🟢 Self-running | Approved — awaiting trial | Describe a mystery object without specified obvious words; first correct guess sets next challenge. |
+| Game | Day | Hosting | Status | Description | Typical duration |
+|---|---|---|---|---|---|
+| <a name="mystery-monday"></a>**Mystery Monday** | Mon | 🟡 Low maintenance | Established / tested | Celebrity guessing: picture squares, six-clue private Lock In or Pass, or progressive public guesses. | throughout the day |
+| <a name="mystery-member"></a>**Mystery Member** | Mon | 🟡 Low maintenance | Approved — awaiting trial | Same three formats using a consenting member’s photo or facts. | throughout the day |
+| <a name="mingle-monday"></a>**Mingle Monday** | Mon | 🟢 Self-running | Approved — awaiting trial | Member-led social activities: Ask & Pass, Find Your Match, Pick Me, Two Truths & a Lie, Connections, First Impressions, Would We Get Along?, Never Have I Ever, Ask Me Anything, Perfect Pair. | throughout the day |
+| <a name="tunes-tuesday"></a>**Tunes Tuesday** | Tue | 🟡 Low maintenance | Established / tested | Music quizzes, rankings and guessing; Musical Notes uses unlocked clues earned through lyric quizzes. | 15–30 mins |
+| <a name="telly-tuesday"></a>**Telly Tuesday** | Tue | 🟡 Low maintenance | Existing — status unconfirmed | TV trivia and game-show-inspired rounds. | 15–30 mins |
+| <a name="teaser-tuesday"></a>**Teaser Tuesday** | Tue | 🟡 Low maintenance | Existing — status unconfirmed | Mixed picture puzzles. | 1–5 mins |
+| <a name="guess-the-songs"></a>**Guess the Songs** | Tue | 🟡 Low maintenance | Established / tested | Guess as many songs as possible; initially submit only the number. | 5–15 mins |
+| <a name="the-missing-notes"></a>**The Missing Notes** | Tue | 🟡 / 🔴 | Established / tested | Reveal piano-note clues; batch releases or live host controls. | 15–30 mins / 30–60+ mins |
+| <a name="wheres-scotty-wednesday"></a>**Where’s Scotty Wednesday** | Wed | 🟡 Low maintenance | Established / tested | Find Scotty or identify a location through picture reveals. | throughout the day |
+| <a name="wheres-scotty-hot-or-cold"></a>**Where’s Scotty? Hot or Cold** | Wed | 🔴 Live | Established / tested | Guess location using distance feedback. | 30–60+ mins |
+| <a name="wheres-scotty-lockin"></a>**Where’s Scotty Lock-In** | Wed | 🟡 Low maintenance | Established / tested | Progressive location clues with private locked guess. | throughout the day |
+| <a name="word-play-wednesday"></a>**Word Play Wednesday** | Wed | 🟢 Self-running | Approved — awaiting trial | Change one letter at a time to solve a word ladder. | 1–5 mins / throughout the day |
+| <a name="transform-thursday"></a>**Transform Thursday** | Thu | 🟢 Self-running | Established / tested | Post a theme for member-led funny AI photo transformations. | throughout the day |
+| <a name="throw-the-dice-thursday"></a>**Throw the Dice Thursday** | Thu | 🟡 Low maintenance | Existing — status unconfirmed | Roll 1–6 to select a challenge. | 1–5 mins |
+| <a name="truth-or-dare"></a>**Truth or Dare** | Thu | 🟢 Self-running | Existing — status unconfirmed | Voluntary member-led challenges; option to pass. | throughout the day |
+| <a name="flirt-or-divert"></a>**Flirt or Divert** | Thu | 🟡 Low maintenance | Established / tested | Rate chat-up lines using a 1–5 poll. | 1–5 mins |
+| <a name="thank-gif-its-friday"></a>**Thank GIF It’s Friday** | Fri | 🟢 Self-running | Established / tested | Reply to prompts with GIFs. | throughout the day |
+| <a name="finish-line-friday"></a>**Finish Line Friday** | Fri | 🟡 / 🔴 | Established / tested | Virtual race; low maintenance if prepared, live if hosted interactively. | 15–30 mins / 30–60+ mins |
+| <a name="find-the-lie-friday"></a>**Find the Lie Friday** | Fri | 🟡 Low maintenance | Established / tested | Identify the false statement from mixed verified trivia. | 15–30 mins |
+| <a name="friday-flirtoff"></a>**Friday Flirt-Off** | Fri | 🟢 Self-running | Approved — awaiting trial | Members share funny chat-up lines and react. | throughout the day |
+| <a name="friday-fill-in-the-blank"></a>**Friday Fill in the Blank** | Fri | 🟢 Self-running | Approved — awaiting trial | Complete funny sentences; members set new prompts. | throughout the day |
+| <a name="friday-frenzy"></a>**Friday Frenzy** | Fri | 🟡 Low maintenance | Approved — awaiting trial | Independent quick puzzles released throughout the day. | throughout the day |
+| <a name="showdown-saturday"></a>**Showdown Saturday** | Sat | 🟡 Low maintenance | Established / tested | Four formats: popular-choice polls (established); knockout tournament / Battle of the Best, ranking and majority-match predictions (planned variants). | 15–30 mins / throughout the day |
+| <a name="snap-it-saturday"></a>**Snap It Saturday** | Sat | 🟢 Self-running | Established / tested | Photograph objects matching clues; members set subsequent challenges. | throughout the day |
+| <a name="saturday-scramble"></a>**Saturday Scramble** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Unscramble words, names or titles. | 1–5 mins |
+| <a name="saturday-six"></a>**Saturday Six** | Sat | 🟢 Self-running | Approved — awaiting trial | Find six valid answers; first successful member sets next challenge. | 5–15 mins / throughout the day |
+| <a name="saturday-survival"></a>**Saturday Survival** | Sat | 🔴 Live | Approved — awaiting trial | Mixed elimination rounds until one remains. | 30–60+ mins |
+| <a name="saturday-scavenger-hunt"></a>**Saturday Scavenger Hunt** | Sat | 🟢 Self-running | Approved — awaiting trial | All-day checklist of objects to photograph. | throughout the day |
+| <a name="saturday-sweepstake"></a>**Saturday Sweepstake** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Random allocation to competitors; no stakes or entry fee. | throughout the day |
+| <a name="saturday-game-show"></a>**Saturday Game Show** | Sat | 🔴 Live | Approved — awaiting trial | Rotating slot for existing live specials; not a separate ruleset. | 30–60+ mins |
+| <a name="sunday-roast"></a>**Sunday Roast** | Sun | 🟢 Self-running | Established / tested | Playful jokes and memes about a consenting featured member. | throughout the day |
+| <a name="wrong-un-sunday"></a>**Wrong ’Un Sunday** | Sun | 🟢 Self-running | Approved — awaiting trial | Sunday edition of Wrong ’Un; original rules and effort to be confirmed. | throughout the day |
+| <a name="sunday-caption-club"></a>**Sunday Caption Club** | Sun | 🟢 Self-running | Approved — awaiting trial | Members caption amusing pictures and submit new pictures. | throughout the day |
+| <a name="sunday-storytime"></a>**Sunday Storytime** | Sun | 🟢 Self-running | Approved — awaiting trial | Continue a ridiculous story one sentence at a time. | throughout the day |
+| <a name="sunday-swap"></a>**Sunday Swap** | Sun | 🟢 Self-running | Approved — awaiting trial | Replace one word in famous titles with the chosen word. | throughout the day |
+| <a name="sunday-excuses"></a>**Sunday Excuses** | Sun | 🟢 Self-running | Approved — awaiting trial | Invent funny excuses for ridiculous situations; members set new scenarios. | throughout the day |
+| <a name="say-it-sunday"></a>**Say It Sunday** | Sun | 🟢 Self-running | Existing — status unconfirmed | Existing discussion format; not a priority for rotation. | throughout the day |
+| <a name="sunday-spotlight"></a>**Sunday Spotlight** | Sun | 🟡 Low maintenance | Existing — status unconfirmed | Existing spotlight theme; avoid duplicating Hot Seat. | throughout the day |
+| <a name="movie-monday"></a>**Movie Monday** | Mon | 🟡 Low maintenance | Approved — awaiting trial | Film trivia, quotes and scenes. | 15–30 mins |
+| <a name="musical-monday"></a>**Musical Monday** | Mon | 🟡 Low maintenance | Approved — awaiting trial | Musical theatre and movie musicals. | 15–30 mins |
+| <a name="whats-that-wednesday"></a>**What’s That Wednesday** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Identify films, songs or programmes from clues. | 5–15 mins |
+| <a name="throwback-thursday"></a>**Throwback Thursday** | Thu | 🟡 Low maintenance | Approved — awaiting trial | Nostalgic entertainment by decade. | 15–30 mins |
+| <a name="film-friday"></a>**Film Friday** | Fri | 🟡 Low maintenance | Approved — awaiting trial | Film quizzes, actors and scenes. | 15–30 mins |
+| <a name="soundtrack-saturday"></a>**Soundtrack Saturday** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Identify films or TV from soundtracks. | 15–30 mins |
+| <a name="sitcom-saturday"></a>**Sitcom Saturday** | Sat | 🟡 Low maintenance | Approved — awaiting trial | Sitcom and comedy programme trivia. | 15–30 mins |
+| <a name="soapy-sunday"></a>**Soapy Sunday** | Sun | 🟡 Low maintenance | Approved — awaiting trial | Soap opera characters, storylines and trivia. | 15–30 mins |
+| <a name="screen-sunday"></a>**Screen Sunday** | Sun | 🟡 Low maintenance | Approved — awaiting trial | Mixed film and television quizzes. | 15–30 mins |
+| <a name="soundtrack-sunday"></a>**Soundtrack Sunday** | Sun | 🟡 Low maintenance | Approved — awaiting trial | Film and television music. | 15–30 mins |
+| <a name="the-closest-wins"></a>**The Closest Wins** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Closest numerical estimate wins. | 1–5 mins |
+| <a name="size-matters"></a>**Size Matters** | Any | 🟡 Low maintenance | Approved — awaiting trial | Guess two mystery objects through playful questions without direct size questions. | 5–15 mins |
+| <a name="filth-or-innocent"></a>**Filth or Innocent?** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Cheeky choice or poll. | 1–5 mins |
+| <a name="pineapple-connections"></a>**Pineapple Connections** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Find the link between clues. | 1–5 mins |
+| <a name="zoom-in"></a>**Zoom In!** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Identify an object from a close-up. | 1–5 mins |
+| <a name="pineapple-countdown"></a>**Pineapple Countdown** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Short countdown-style puzzle. | 1–5 mins |
+| <a name="say-what-you-see"></a>**Say What You See** | Any | 🟡 Low maintenance | Approved — awaiting trial | Solve a rebus picture puzzle. | 1–5 mins |
+| <a name="put-it-in-order"></a>**Put It in Order** | Any | 🟡 Low maintenance | Approved — awaiting trial | Arrange items by stated criterion. | 1–5 mins |
+| <a name="real-or-ridiculous"></a>**Real or Ridiculous?** | Any | 🟡 Low maintenance | Approved — awaiting trial | Vote real or ridiculous on a verified claim. | 1–5 mins |
+| <a name="wrong-un-what-a-wrong-un-wrong-un-monday"></a>**Wrong ’Un / What a Wrong ’Un / Wrong ’Un Monday** | Any | 🟢 Self-running | Existing — status unconfirmed | Existing comedy format; original rules and hosting effort need confirmation. | throughout the day |
+| <a name="who-am-i"></a>**Who Am I?** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Identity guessing. | 5–15 mins |
+| <a name="one-word"></a>**One Word** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Standalone word game; see archive. | 1–5 mins |
+| <a name="pineapple-puzzles"></a>**Pineapple Puzzles** | Any | 🟡 Low maintenance | Existing — status unconfirmed | Standalone puzzles. | 1–5 mins |
+| <a name="celebrity-guess-by-squares"></a>**Celebrity Guess by Squares** | Any | 🟡 Low maintenance | Established / tested | Reveal picture squares; also a Mystery Monday variant. | 5–15 mins / throughout the day |
+| <a name="deal-or-no-deal"></a>**Deal or No Deal** | Any | 🔴 Live | Established / tested | Hosted banker and boxes game. | 30–60+ mins |
+| <a name="wheel-of-misfortune"></a>**Wheel of Misfortune** | Any | 🔴 Live | Established / tested | Elimination wheel with Golden Pass, Back in the Game and Taking You Out. | 30–60+ mins |
+| <a name="pineapple-fortunes"></a>**Pineapple Fortunes** | Any | 🔴 Live | Established / tested | Family Fortunes-style host-controlled answers and public board. | 30–60+ mins |
+| <a name="pineapple-catchphrase"></a>**Pineapple Catchphrase** | Any | 🔴 Live | Established / tested | Picture and video guessing; website tested, group trial not confirmed. Normal 1, bonus 3, super 5 points. [Game](pineapple-catchphrase.html). | 30–60+ mins |
+| <a name="the-million-pound-question-ladder"></a>**The Million Pound Question / Ladder** | Any | 🔴 Live | Established / tested | 15 multiple-choice questions; wrong answer eliminates contestant. | 30–60+ mins |
+| <a name="the-flirt-factor"></a>**The Flirt Factor** | Any | 🔴 Live | Established / tested | Anonymous contestants answer flirty questions. | 30–60+ mins |
+| <a name="mr-mrs"></a>**Mr & Mrs** | Any | 🔴 Live | Established / tested | Couples compare answers. | 30–60+ mins |
+| <a name="pineapple-murder-mystery"></a>**Pineapple Murder Mystery** | Any | 🔴 Live | Established / tested | Fictional suspects, evidence, alibis and final vote. | 30–60+ mins |
+| <a name="squid-games"></a>**Squid Games** | Any | 🔴 Live | Existing — status unconfirmed | Themed elimination special. | 30–60+ mins |
+| <a name="horse-racing-sweepstake"></a>**Horse Racing / Sweepstake** | Any | 🔴 Live | Existing — status unconfirmed | Hosted race or sweepstake; see Saturday low-maintenance variant. | 30–60+ mins |
+| <a name="member-takeover"></a>**Member Takeover** | Any | 🔴 Live | Existing — status unconfirmed | Volunteer-hosted session; low effort for regular organiser. | 30–60+ mins |
+| <a name="memory-mayhem"></a>**Memory Mayhem** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Study a busy picture briefly, then answer questions about it; no looking back. | 5–15 mins |
+| <a name="whats-missing"></a>**What’s Missing?** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Compare two pictures and identify the missing objects. | 1–5 mins |
+| <a name="memory-chain"></a>**Memory Chain** | Sun | 🟢 Self-running | Approved — awaiting trial | Repeat the previous list and add an item; avoid scrolling back. | 5–15 mins / throughout the day |
+| <a name="crack-the-code"></a>**Crack the Code** | Wed | 🟡 Low maintenance | Approved — awaiting trial | Work together on puzzles revealing digits or letters of a secret code. | 5–15 mins |
+| <a name="double-trouble"></a>**Double Trouble** | Tue | 🟡 Low maintenance | Approved — awaiting trial | Match every item in two shuffled lists. | 5–15 mins |
+| <a name="the-forbidden-word"></a>**The Forbidden Word** | Fri | 🟢 Self-running | Approved — awaiting trial | Avoid the announced word in normal chat and catch each other using it; no compulsory scores. | throughout the day |
+| <a name="describe-it"></a>**Describe It** | Thu | 🟢 Self-running | Approved — awaiting trial | Describe a mystery object without specified obvious words; first correct guess sets next challenge. | 5–15 mins / throughout the day |
 
 Entertainment quiz themes: use picture, multiple-choice, emoji, identity, year, connections, ordering, find-the-lie, quote or true/false rounds. Prepare verified question banks in advance.
 
