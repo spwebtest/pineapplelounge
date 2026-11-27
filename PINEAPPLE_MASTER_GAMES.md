@@ -4,7 +4,7 @@ Approved and existing games only. One main entry per game. Status reflects known
 
 ## Quick navigation
 
-[By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
+[By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [By game format](#by-game-format) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
 
 ## By weekday
 
@@ -57,6 +57,40 @@ Approved and existing games only. One main entry per game. Status reflects known
 **Creative Challenges** — [Transform Thursday](#transform-thursday) · [Thank GIF It’s Friday](#thank-gif-its-friday) · [Friday Fill in the Blank](#friday-fill-in-the-blank) · [Sunday Caption Club](#sunday-caption-club) · [Sunday Storytime](#sunday-storytime) · [Sunday Excuses](#sunday-excuses)
 
 **Bluffing & Psychology** — [Find the Lie Friday](#find-the-lie-friday) · [Real or Ridiculous?](#real-or-ridiculous)
+
+## By game format
+
+Formats describe how members play, rather than the subject or hosting effort. Games can appear in multiple formats. Planned games may use the suggested mechanics; see the catalogue for status. This is a navigation index, not a duplicate rules catalogue.
+
+**Lock-In or Pass** — One private committed guess, or pass. [Mystery Monday](#mystery-monday) · [Mystery Member](#mystery-member) · [Where’s Scotty Lock-In](#wheres-scotty-lockin)
+
+**Progressive Clues** — Reveal clues gradually. [Mystery Monday](#mystery-monday) · [Mystery Member](#mystery-member) · [Where’s Scotty Lock-In](#wheres-scotty-lockin) · [The Missing Notes](#the-missing-notes)
+
+**Picture Reveal** — Uncover an image in stages. [Mystery Monday](#mystery-monday) · [Mystery Member](#mystery-member) · [Celebrity Guess by Squares](#celebrity-guess-by-squares) · [Where’s Scotty Wednesday](#wheres-scotty-wednesday) · [Pineapple Catchphrase](#pineapple-catchphrase)
+
+**First Correct Answer** — Race to solve or complete a challenge. [Snap It Saturday](#snap-it-saturday) · [Saturday Scramble](#saturday-scramble) · [Say What You See](#say-what-you-see) · [Put It in Order](#put-it-in-order)
+
+**Poll Based** — Members vote on answers or choices. [Showdown Saturday](#showdown-saturday) · [Find the Lie Friday](#find-the-lie-friday) · [Flirt or Divert](#flirt-or-divert) · [Real or Ridiculous?](#real-or-ridiculous)
+
+**Elimination** — Players are progressively knocked out. [Wheel of Misfortune](#wheel-of-misfortune) · [The Million Pound Question / Ladder](#the-million-pound-question-ladder) · [Saturday Survival](#saturday-survival) · [Squid Games](#squid-games)
+
+**Chance & Luck** — Random outcomes influence play. [Throw the Dice Thursday](#throw-the-dice-thursday) · [Deal or No Deal](#deal-or-no-deal) · [Finish Line Friday](#finish-line-friday) · [Saturday Sweepstake](#saturday-sweepstake) · [Horse Racing / Sweepstake](#horse-racing-sweepstake)
+
+**Photo Challenges** — Members find, photograph or transform images. [Snap It Saturday](#snap-it-saturday) · [Transform Thursday](#transform-thursday) · [Saturday Scavenger Hunt](#saturday-scavenger-hunt)
+
+**Member-Led Interaction** — Members continue the activity independently. [Mingle Monday](#mingle-monday) · [Sunday Storytime](#sunday-storytime) · [Sunday Roast](#sunday-roast) · [Sunday Caption Club](#sunday-caption-club) · [Sunday Excuses](#sunday-excuses) · [Friday Flirt-Off](#friday-flirtoff) · [Friday Fill in the Blank](#friday-fill-in-the-blank) · [Truth or Dare](#truth-or-dare) · [Thank GIF It’s Friday](#thank-gif-its-friday)
+
+**Anonymous Identity** — Guess or choose between concealed identities. [Mystery Member](#mystery-member) · [The Flirt Factor](#the-flirt-factor)
+
+**Multiple-Choice Quiz** — Choose from supplied answers. [Soapy Sunday](#soapy-sunday) · [Film Friday](#film-friday) · [Tunes Tuesday](#tunes-tuesday) · [Telly Tuesday](#telly-tuesday) · [Movie Monday](#movie-monday) · [Musical Monday](#musical-monday) · [Throwback Thursday](#throwback-thursday) · [Sitcom Saturday](#sitcom-saturday) · [Screen Sunday](#screen-sunday) · [Soundtrack Saturday](#soundtrack-saturday) · [Soundtrack Sunday](#soundtrack-sunday) · [The Million Pound Question / Ladder](#the-million-pound-question-ladder)
+
+**Closest Answer Wins** — Nearest numerical estimate wins. [The Closest Wins](#the-closest-wins)
+
+**Wordplay** — Manipulate or solve words and phrases. [Word Play Wednesday](#word-play-wednesday) · [Sunday Swap](#sunday-swap) · [Saturday Scramble](#saturday-scramble) · [Pineapple Countdown](#pineapple-countdown) · [Say What You See](#say-what-you-see)
+
+**Winner Sets Next Challenge** — Successful member supplies the next challenge. [Snap It Saturday](#snap-it-saturday) · [Saturday Six](#saturday-six)
+
+**Guess the Connection** — Identify the shared link. [Pineapple Connections](#pineapple-connections) · [Teaser Tuesday](#teaser-tuesday)
 
 ## Catalogue
 
