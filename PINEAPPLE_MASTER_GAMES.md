@@ -124,6 +124,12 @@ Formats describe how members play, rather than the subject or hosting effort. Ga
 
 **Secret Mission** — No approved game yet; see development document.
 
+**Mixed Mini-Games / Rotating Game Shows** — [Friday Frenzy](#friday-frenzy) · [Saturday Game Show](#saturday-game-show)
+
+**Mystery Object / Entertainment Identification** — [Size Matters](#size-matters) · [What’s That Wednesday](#whats-that-wednesday)
+
+**Format Pending Rule Confirmation** — [Wrong ’Un Sunday](#wrong-un-sunday)
+
 ## Catalogue
 
 | Game | Day | Hosting | Status | Description |
