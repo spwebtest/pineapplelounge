@@ -1,17 +1,85 @@
-# 🍍 Pineapple Group — Photo & Social Themes
+# 🍍 Pineapple Daily Themes — Master Document
 
-A simple, mobile-friendly master list of our group photo-sharing and social themes. Alternative weekday names are shown beneath selected themes, without duplicating the main entries. These are **not** the Pineapple games. Add new themes under the relevant day as we go.
+Updated 27 November 2026. Photo, outfit and social-sharing themes; games are tracked separately. Original names, descriptions, aliases and historical calendar retained below. Classifications are planning suggestions, not measured participation data.
 
-> **Artwork note:** Theme names have been recovered from previous planning and artwork discussions. Individual poster files have not all been checked, so inclusion here does not confirm an image exists.
+## Quick links
 
-## ⭐ Established crowd favourites
+- [Established favourites](#established-favourites)
+- [Weekday themes](#weekday-themes) · [Monday](#monday) · [Tuesday](#tuesday) · [Wednesday](#wednesday) · [Thursday](#thursday) · [Friday](#friday) · [Saturday](#saturday) · [Sunday](#sunday)
+- [Theme types](#theme-types) · [Participation and admin effort](#participation-and-admin-effort)
+- [Adults-only register](#adults-only-register) · [Christmas and winter](#christmas-and-winter)
+- [A–Z directory](#az-directory) · [Artwork tracking](#artwork-tracking) · [Retired and new ideas](#retired-and-new-ideas)
+
+## Established favourites
 
 - **Mono Monday** — One of the group's most popular regular photo themes; keep as a Monday anchor.
 - **Tits Out Tuesday** — One of the group's most popular regular photo themes; keep as a Tuesday anchor.
 
 Use the other weekday ideas as rotating alternatives, not replacements for these favourites.
 
-## 📅 Regular daily themes
+## Theme types
+
+### Photography & creativity
+
+Mono Monday · Moody Monday · Mono Mesh & Minimal · Black Monday · White Monday · Ink & Shadows Monday · Mirror Monday · Messy Hair Monday · Texture Tuesday · Tattoo Tuesday · Two Looks Tuesday · Wet Wednesday · Wild Card Wednesday · Wet-Hair Wednesday · Wicked Wednesday · Whip Wednesday · Kiss and Wink Wednesday · Wardrobe Wednesday · Without Makeup Wednesday · Thighs & Angles Thursday · Angles Thursday · Throwback Thursday · Texture Thursday · Then & Now Thursday · Face Pic Friday · Face Friday · Feature Friday · Focus Friday · Fabulous Friday · Filters Friday · Fierce Face Friday · Face Part Friday · Feet Friday · Tattoo Friday · Freckles Friday · Shadows Saturday · Spotlight Sunday · Silk & Skin Sunday · Soft-Light Sunday · Selfie Sunday · Silhouette Sunday · Sunday Smiles · Sunday Best
+
+### Social / mixed format
+
+Mystery Monday · Motivated Monday · Top or Bottom Thursday · First Time Friday · Sell Yourself Saturday · Sunday Confessions
+
+### Transformations
+
+Mimic Monday · Shape-Shift Wednesday · Fantasy Friday · Switch Saturday · Something New Saturday
+
+### Comedy & movement
+
+Move It Monday · Wiggle Wednesday · Wacky Wednesday · Funny Face Friday · SHATURDAY · Sat-ur-play · Silly Saturday · Slow Mo Sunday
+
+### Flirty & body confidence
+
+Tits Out Tuesday · Tease Me Tuesday · Torso Tuesday · Tits or Tattoos Tuesday · Tummy Tuesday · Thirsty Thursday · Thighs Thursday · Thong Thursday · Bootylicious Thursday · Flash-Me Friday · Fella Friday · Flirty Friday · Sin Sunday · Spicy Sunday · Sultry Sunday
+
+### Wellbeing & fitness
+
+Tone-Up Tuesday · Workout Wednesday · Wellbeing Wednesday · Friday Fitness · Fit Friday · Sporty Saturday · Self Care Sunday
+
+### Fashion & outfits
+
+Tied Tuesday · Work Wear Wednesday · Wear It Wednesday · Thigh-High Thursday · Ties Thursday · Tartan Thursday · Tight Fit Thursday · Touch of Colour Thursday · Fetish Friday · Femme Fatale Friday · Favourite Outfit Friday · Glam Saturday · Showtime Saturday · Style Saturday · Sparkle and Shine Saturday · Straps and Buckles Saturday
+
+### Lifestyle
+
+Wax Wednesday · Toys Thursday · Taste Thursday · Secret Saturday · Lazy Sunday · Stillness Sunday · Soapy Sunday · Sleepy Sunday · Snuggle Sunday
+
+### Adults-only
+
+Meaty Monday · Mouthy Monday · Morning Wood Monday · Mooning Monday · Topless Tuesday · Taste Tuesday · Tail & Toys Tuesday · Tied Tuesday – NSFW · Temptation Tuesday · Wank Wednesday · Whip It Out Wednesday · Willy Wednesday · Whips & Wishes Wednesday · Between the Thighs Thursday · Extreme Toys Thursday · Thrust Thursday · Thirsty Thursday – NSFW · Top or Bottom Thursday – NSFW · Threesome Thursday · Tie Me Thursday · Flash Friday · Fetish Friday · Fist It Friday · Full Frontal Friday · Fuck It Friday · Facial Friday · Flogger Friday · Freaky Friday · Spank Me Saturday · Speccsy Saturday · Self Love Saturday · Spread Them Saturday · Saturday Swaps · Stripped Saturday · Sensory Saturday · Sloppy Sunday · Spanking Sunday · Sinful Secrets Sunday
+
+### Seasonal
+
+Monday White Out · Mistletoe Monday · Winter White Out · Holiday Hues · Merry and Bright · Jingle Bell Boobs · Tits and Tinsel · Tits and Tartan · Tits and Tease · Tits and Baubles · Tuesday Wobble Theme · Unwrap Me Wednesday · Winter Wear · Candy Wednesday · Christmas Eve Candlelight · New Year's Eve · Tree Top Thursday · Thursday Baubles · Festive Thirst · Xmas Day · Happy Nudes Year · Black Friday · Festive Party Friday · Fuzzy or Funky Socks · Boxing Day · Stockings Filler · Santa's Naughty List · Showcase · SilenyNit · Sugarplum · S-Elfie · Naughty or Nice · Silent Night · S-elfie Sunday · Twinkle Twinkle Like a Star · Self Care Sunday
+
+## Participation and admin effort
+
+Most photo themes are self-running, all-day prompts: post the theme once, then allow voluntary participation. Easy = existing photo or quick snap; moderate = styling, pose or setup; moderate–high = creative preparation; varies = assess the particular prompt. Mixed-format prompts may require replies or hosting; keep games and confessions separate when planning photo-only calendars. Participation and consent are voluntary; adults-only content belongs in the appropriate restricted space.
+
+### Easy
+
+Mono Monday · Moody Monday · Mono Mesh & Minimal · Black Monday · White Monday · Mirror Monday · Messy Hair Monday · Tits Out Tuesday · Tease Me Tuesday · Tone-Up Tuesday · Torso Tuesday · Tits or Tattoos Tuesday · Tattoo Tuesday · Tummy Tuesday · Wild Card Wednesday · Wax Wednesday · Wicked Wednesday · Whip Wednesday · Workout Wednesday · Wellbeing Wednesday · Kiss and Wink Wednesday · Wardrobe Wednesday · Wacky Wednesday · Without Makeup Wednesday · Thirsty Thursday · Toys Thursday · Taste Thursday · Thong Thursday · Throwback Thursday · Bootylicious Thursday · Tight Fit Thursday · Touch of Colour Thursday · Face Pic Friday · Face Friday · Flash-Me Friday · Feature Friday · Focus Friday · Fabulous Friday · Funny Face Friday · Fierce Face Friday · Friday Fitness · Fetish Friday · Face Part Friday · Feet Friday · Femme Fatale Friday · Fella Friday · Fit Friday · Tattoo Friday · Freckles Friday · Flirty Friday · Showtime Saturday · SHATURDAY · Sporty Saturday · Sat-ur-play · Secret Saturday · Silly Saturday · Spotlight Sunday · Lazy Sunday · Silk & Skin Sunday · Soft-Light Sunday · Stillness Sunday · Sin Sunday · Soapy Sunday · Sleepy Sunday · Spicy Sunday · Sultry Sunday · Selfie Sunday · Self Care Sunday · Snuggle Sunday · Sunday Smiles · Sunday Best
+
+### Moderate
+
+Ink & Shadows Monday · Move It Monday · Texture Tuesday · Tied Tuesday · Two Looks Tuesday · Wiggle Wednesday · Work Wear Wednesday · Wet Wednesday · Wet-Hair Wednesday · Wear It Wednesday · Thigh-High Thursday · Thighs & Angles Thursday · Angles Thursday · Thighs Thursday · Ties Thursday · Tartan Thursday · Texture Thursday · Then & Now Thursday · Filters Friday · Favourite Outfit Friday · Glam Saturday · Style Saturday · Sparkle and Shine Saturday · Straps and Buckles Saturday · Shadows Saturday · Slow Mo Sunday · Silhouette Sunday
+
+### Moderate–high
+
+Mimic Monday · Shape-Shift Wednesday · Fantasy Friday · Switch Saturday · Something New Saturday
+
+### Varies
+
+Mystery Monday · Motivated Monday · Top or Bottom Thursday · First Time Friday · Sell Yourself Saturday · Sunday Confessions · Meaty Monday · Mouthy Monday · Morning Wood Monday · Mooning Monday · Topless Tuesday · Taste Tuesday · Tail & Toys Tuesday · Tied Tuesday – NSFW · Temptation Tuesday · Wank Wednesday · Whip It Out Wednesday · Willy Wednesday · Whips & Wishes Wednesday · Between the Thighs Thursday · Extreme Toys Thursday · Thrust Thursday · Thirsty Thursday – NSFW · Top or Bottom Thursday – NSFW · Threesome Thursday · Tie Me Thursday · Flash Friday · Fetish Friday · Fist It Friday · Full Frontal Friday · Fuck It Friday · Facial Friday · Flogger Friday · Freaky Friday · Spank Me Saturday · Speccsy Saturday · Self Love Saturday · Spread Them Saturday · Saturday Swaps · Stripped Saturday · Sensory Saturday · Sloppy Sunday · Spanking Sunday · Sinful Secrets Sunday · Monday White Out · Mistletoe Monday · Winter White Out · Holiday Hues · Merry and Bright · Jingle Bell Boobs · Tits and Tinsel · Tits and Tartan · Tits and Tease · Tits and Baubles · Tuesday Wobble Theme · Unwrap Me Wednesday · Winter Wear · Candy Wednesday · Christmas Eve Candlelight · New Year's Eve · Tree Top Thursday · Thursday Baubles · Festive Thirst · Xmas Day · Happy Nudes Year · Black Friday · Festive Party Friday · Fuzzy or Funky Socks · Boxing Day · Stockings Filler · Santa's Naughty List · Showcase · SilenyNit · Sugarplum · S-Elfie · Naughty or Nice · Silent Night · S-elfie Sunday · Twinkle Twinkle Like a Star · Self Care Sunday
+
+## Weekday themes
 
 ### Monday
 
@@ -160,7 +228,7 @@ Use the other weekday ideas as rotating alternatives, not replacements for these
 
 ---
 
-## 🔞 NSFW themes
+## Adults-only register
 
 ### Monday
 
@@ -203,7 +271,8 @@ Use the other weekday ideas as rotating alternatives, not replacements for these
 - **Full Frontal Friday** — Adults-only nude photo theme
 - **Fuck It Friday** — Full-on, anything-goes adult theme within group boundaries
 - **Facial Friday** — Adults-only sexual theme
-- **Flogger Friday** — Consensual impact-play and fetish-themed content- **Freaky Friday** — Unusual kinks and adult interests
+- **Flogger Friday** — Consensual impact-play and fetish-themed content
+- **Freaky Friday** — Unusual kinks and adult interests
 
 ### Saturday
 
@@ -228,7 +297,7 @@ Use the other weekday ideas as rotating alternatives, not replacements for these
 ---
 
 - **Sinful Secrets Sunday** — Adults-only confessions and secrets
-## 🎄 Seasonal themes — Christmas & winter
+## Christmas and winter
 
 These stay separate from the regular weekday themes.
 
@@ -304,10 +373,202 @@ These dates are from the previous Christmas schedule, not a proposed 2026 calend
 
 ---
 
-## 🖼️ Artwork tracking
+## A–Z directory
+
+| Theme | Day | Register | Type | Member effort |
+|---|---|---|---|---|
+| Angles Thursday | Thursday | Regular | Photography & creativity | Moderate |
+| Between the Thighs Thursday | Thursday | Adults-only | Adults-only | Varies |
+| Black Friday | Friday | Seasonal | Seasonal | Varies |
+| Black Monday | Monday | Regular | Photography & creativity | Easy |
+| Bootylicious Thursday | Thursday | Regular | Flirty & body confidence | Easy |
+| Boxing Day | Friday | Seasonal | Seasonal | Varies |
+| Candy Wednesday | Wednesday | Seasonal | Seasonal | Varies |
+| Christmas Eve Candlelight | Wednesday | Seasonal | Seasonal | Varies |
+| Extreme Toys Thursday | Thursday | Adults-only | Adults-only | Varies |
+| Fabulous Friday | Friday | Regular | Photography & creativity | Easy |
+| Face Friday | Friday | Regular | Photography & creativity | Easy |
+| Face Part Friday | Friday | Regular | Photography & creativity | Easy |
+| Face Pic Friday | Friday | Regular | Photography & creativity | Easy |
+| Facial Friday | Friday | Adults-only | Adults-only | Varies |
+| Fantasy Friday | Friday | Regular | Transformations | Moderate–high |
+| Favourite Outfit Friday | Friday | Regular | Fashion & outfits | Moderate |
+| Feature Friday | Friday | Regular | Photography & creativity | Easy |
+| Feet Friday | Friday | Regular | Photography & creativity | Easy |
+| Fella Friday | Friday | Regular | Flirty & body confidence | Easy |
+| Femme Fatale Friday | Friday | Regular | Fashion & outfits | Easy |
+| Festive Party Friday | Friday | Seasonal | Seasonal | Varies |
+| Festive Thirst | Thursday | Seasonal | Seasonal | Varies |
+| Fetish Friday | Friday | Regular | Fashion & outfits | Easy |
+| Fetish Friday | Friday | Adults-only | Adults-only | Varies |
+| Fierce Face Friday | Friday | Regular | Photography & creativity | Easy |
+| Filters Friday | Friday | Regular | Photography & creativity | Moderate |
+| First Time Friday | Friday | Regular | Social / mixed format | Varies |
+| Fist It Friday | Friday | Adults-only | Adults-only | Varies |
+| Fit Friday | Friday | Regular | Wellbeing & fitness | Easy |
+| Flash Friday | Friday | Adults-only | Adults-only | Varies |
+| Flash-Me Friday | Friday | Regular | Flirty & body confidence | Easy |
+| Flirty Friday | Friday | Regular | Flirty & body confidence | Easy |
+| Flogger Friday | Friday | Adults-only | Adults-only | Varies |
+| Focus Friday | Friday | Regular | Photography & creativity | Easy |
+| Freaky Friday | Friday | Adults-only | Adults-only | Varies |
+| Freckles Friday | Friday | Regular | Photography & creativity | Easy |
+| Friday Fitness | Friday | Regular | Wellbeing & fitness | Easy |
+| Fuck It Friday | Friday | Adults-only | Adults-only | Varies |
+| Full Frontal Friday | Friday | Adults-only | Adults-only | Varies |
+| Funny Face Friday | Friday | Regular | Comedy & movement | Easy |
+| Fuzzy or Funky Socks | Friday | Seasonal | Seasonal | Varies |
+| Glam Saturday | Saturday | Regular | Fashion & outfits | Moderate |
+| Happy Nudes Year | Thursday | Seasonal | Seasonal | Varies |
+| Holiday Hues | Monday | Seasonal | Seasonal | Varies |
+| Ink & Shadows Monday | Monday | Regular | Photography & creativity | Moderate |
+| Jingle Bell Boobs | Tuesday | Seasonal | Seasonal | Varies |
+| Kiss and Wink Wednesday | Wednesday | Regular | Photography & creativity | Easy |
+| Lazy Sunday | Sunday | Regular | Lifestyle | Easy |
+| Meaty Monday | Monday | Adults-only | Adults-only | Varies |
+| Merry and Bright | Monday | Seasonal | Seasonal | Varies |
+| Messy Hair Monday | Monday | Regular | Photography & creativity | Easy |
+| Mimic Monday | Monday | Regular | Transformations | Moderate–high |
+| Mirror Monday | Monday | Regular | Photography & creativity | Easy |
+| Mistletoe Monday | Monday | Seasonal | Seasonal | Varies |
+| Monday White Out | Monday | Seasonal | Seasonal | Varies |
+| Mono Mesh & Minimal | Monday | Regular | Photography & creativity | Easy |
+| Mono Monday | Monday | Regular | Photography & creativity | Easy |
+| Moody Monday | Monday | Regular | Photography & creativity | Easy |
+| Mooning Monday | Monday | Adults-only | Adults-only | Varies |
+| Morning Wood Monday | Monday | Adults-only | Adults-only | Varies |
+| Motivated Monday | Monday | Regular | Social / mixed format | Varies |
+| Mouthy Monday | Monday | Adults-only | Adults-only | Varies |
+| Move It Monday | Monday | Regular | Comedy & movement | Moderate |
+| Mystery Monday | Monday | Regular | Social / mixed format | Varies |
+| Naughty or Nice | Sunday | Seasonal | Seasonal | Varies |
+| New Year's Eve | Wednesday | Seasonal | Seasonal | Varies |
+| S-Elfie | Sunday | Seasonal | Seasonal | Varies |
+| S-elfie Sunday | Sunday | Seasonal | Seasonal | Varies |
+| Santa's Naughty List | Saturday | Seasonal | Seasonal | Varies |
+| Sat-ur-play | Saturday | Regular | Comedy & movement | Easy |
+| Saturday Swaps | Saturday | Adults-only | Adults-only | Varies |
+| Secret Saturday | Saturday | Regular | Lifestyle | Easy |
+| Self Care Sunday | Sunday | Regular | Wellbeing & fitness | Easy |
+| Self Care Sunday | Sunday | Seasonal | Seasonal | Varies |
+| Self Love Saturday | Saturday | Adults-only | Adults-only | Varies |
+| Selfie Sunday | Sunday | Regular | Photography & creativity | Easy |
+| Sell Yourself Saturday | Saturday | Regular | Social / mixed format | Varies |
+| Sensory Saturday | Saturday | Adults-only | Adults-only | Varies |
+| Shadows Saturday | Saturday | Regular | Photography & creativity | Moderate |
+| Shape-Shift Wednesday | Wednesday | Regular | Transformations | Moderate–high |
+| SHATURDAY | Saturday | Regular | Comedy & movement | Easy |
+| Showcase | Saturday | Seasonal | Seasonal | Varies |
+| Showtime Saturday | Saturday | Regular | Fashion & outfits | Easy |
+| Silent Night | Sunday | Seasonal | Seasonal | Varies |
+| SilenyNit | Saturday | Seasonal | Seasonal | Varies |
+| Silhouette Sunday | Sunday | Regular | Photography & creativity | Moderate |
+| Silk & Skin Sunday | Sunday | Regular | Photography & creativity | Easy |
+| Silly Saturday | Saturday | Regular | Comedy & movement | Easy |
+| Sin Sunday | Sunday | Regular | Flirty & body confidence | Easy |
+| Sinful Secrets Sunday | Sunday | Adults-only | Adults-only | Varies |
+| Sleepy Sunday | Sunday | Regular | Lifestyle | Easy |
+| Sloppy Sunday | Sunday | Adults-only | Adults-only | Varies |
+| Slow Mo Sunday | Sunday | Regular | Comedy & movement | Moderate |
+| Snuggle Sunday | Sunday | Regular | Lifestyle | Easy |
+| Soapy Sunday | Sunday | Regular | Lifestyle | Easy |
+| Soft-Light Sunday | Sunday | Regular | Photography & creativity | Easy |
+| Something New Saturday | Saturday | Regular | Transformations | Moderate–high |
+| Spank Me Saturday | Saturday | Adults-only | Adults-only | Varies |
+| Spanking Sunday | Sunday | Adults-only | Adults-only | Varies |
+| Sparkle and Shine Saturday | Saturday | Regular | Fashion & outfits | Moderate |
+| Speccsy Saturday | Saturday | Adults-only | Adults-only | Varies |
+| Spicy Sunday | Sunday | Regular | Flirty & body confidence | Easy |
+| Sporty Saturday | Saturday | Regular | Wellbeing & fitness | Easy |
+| Spotlight Sunday | Sunday | Regular | Photography & creativity | Easy |
+| Spread Them Saturday | Saturday | Adults-only | Adults-only | Varies |
+| Stillness Sunday | Sunday | Regular | Lifestyle | Easy |
+| Stockings Filler | Saturday | Seasonal | Seasonal | Varies |
+| Straps and Buckles Saturday | Saturday | Regular | Fashion & outfits | Moderate |
+| Stripped Saturday | Saturday | Adults-only | Adults-only | Varies |
+| Style Saturday | Saturday | Regular | Fashion & outfits | Moderate |
+| Sugarplum | Saturday | Seasonal | Seasonal | Varies |
+| Sultry Sunday | Sunday | Regular | Flirty & body confidence | Easy |
+| Sunday Best | Sunday | Regular | Photography & creativity | Easy |
+| Sunday Confessions | Sunday | Regular | Social / mixed format | Varies |
+| Sunday Smiles | Sunday | Regular | Photography & creativity | Easy |
+| Switch Saturday | Saturday | Regular | Transformations | Moderate–high |
+| Tail & Toys Tuesday | Tuesday | Adults-only | Adults-only | Varies |
+| Tartan Thursday | Thursday | Regular | Fashion & outfits | Moderate |
+| Taste Thursday | Thursday | Regular | Lifestyle | Easy |
+| Taste Tuesday | Tuesday | Adults-only | Adults-only | Varies |
+| Tattoo Friday | Friday | Regular | Photography & creativity | Easy |
+| Tattoo Tuesday | Tuesday | Regular | Photography & creativity | Easy |
+| Tease Me Tuesday | Tuesday | Regular | Flirty & body confidence | Easy |
+| Temptation Tuesday | Tuesday | Adults-only | Adults-only | Varies |
+| Texture Thursday | Thursday | Regular | Photography & creativity | Moderate |
+| Texture Tuesday | Tuesday | Regular | Photography & creativity | Moderate |
+| Then & Now Thursday | Thursday | Regular | Photography & creativity | Moderate |
+| Thigh-High Thursday | Thursday | Regular | Fashion & outfits | Moderate |
+| Thighs & Angles Thursday | Thursday | Regular | Photography & creativity | Moderate |
+| Thighs Thursday | Thursday | Regular | Flirty & body confidence | Moderate |
+| Thirsty Thursday | Thursday | Regular | Flirty & body confidence | Easy |
+| Thirsty Thursday – NSFW | Thursday | Adults-only | Adults-only | Varies |
+| Thong Thursday | Thursday | Regular | Flirty & body confidence | Easy |
+| Threesome Thursday | Thursday | Adults-only | Adults-only | Varies |
+| Throwback Thursday | Thursday | Regular | Photography & creativity | Easy |
+| Thrust Thursday | Thursday | Adults-only | Adults-only | Varies |
+| Thursday Baubles | Thursday | Seasonal | Seasonal | Varies |
+| Tie Me Thursday | Thursday | Adults-only | Adults-only | Varies |
+| Tied Tuesday | Tuesday | Regular | Fashion & outfits | Moderate |
+| Tied Tuesday – NSFW | Tuesday | Adults-only | Adults-only | Varies |
+| Ties Thursday | Thursday | Regular | Fashion & outfits | Moderate |
+| Tight Fit Thursday | Thursday | Regular | Fashion & outfits | Easy |
+| Tits and Baubles | Tuesday | Seasonal | Seasonal | Varies |
+| Tits and Tartan | Tuesday | Seasonal | Seasonal | Varies |
+| Tits and Tease | Tuesday | Seasonal | Seasonal | Varies |
+| Tits and Tinsel | Tuesday | Seasonal | Seasonal | Varies |
+| Tits or Tattoos Tuesday | Tuesday | Regular | Flirty & body confidence | Easy |
+| Tits Out Tuesday | Tuesday | Regular | Flirty & body confidence | Easy |
+| Tone-Up Tuesday | Tuesday | Regular | Wellbeing & fitness | Easy |
+| Top or Bottom Thursday | Thursday | Regular | Social / mixed format | Varies |
+| Top or Bottom Thursday – NSFW | Thursday | Adults-only | Adults-only | Varies |
+| Topless Tuesday | Tuesday | Adults-only | Adults-only | Varies |
+| Torso Tuesday | Tuesday | Regular | Flirty & body confidence | Easy |
+| Touch of Colour Thursday | Thursday | Regular | Fashion & outfits | Easy |
+| Toys Thursday | Thursday | Regular | Lifestyle | Easy |
+| Tree Top Thursday | Thursday | Seasonal | Seasonal | Varies |
+| Tuesday Wobble Theme | Tuesday | Seasonal | Seasonal | Varies |
+| Tummy Tuesday | Tuesday | Regular | Flirty & body confidence | Easy |
+| Twinkle Twinkle Like a Star | Sunday | Seasonal | Seasonal | Varies |
+| Two Looks Tuesday | Tuesday | Regular | Photography & creativity | Moderate |
+| Unwrap Me Wednesday | Wednesday | Seasonal | Seasonal | Varies |
+| Wacky Wednesday | Wednesday | Regular | Comedy & movement | Easy |
+| Wank Wednesday | Wednesday | Adults-only | Adults-only | Varies |
+| Wardrobe Wednesday | Wednesday | Regular | Photography & creativity | Easy |
+| Wax Wednesday | Wednesday | Regular | Lifestyle | Easy |
+| Wear It Wednesday | Wednesday | Regular | Fashion & outfits | Moderate |
+| Wellbeing Wednesday | Wednesday | Regular | Wellbeing & fitness | Easy |
+| Wet Wednesday | Wednesday | Regular | Photography & creativity | Moderate |
+| Wet-Hair Wednesday | Wednesday | Regular | Photography & creativity | Moderate |
+| Whip It Out Wednesday | Wednesday | Adults-only | Adults-only | Varies |
+| Whip Wednesday | Wednesday | Regular | Photography & creativity | Easy |
+| Whips & Wishes Wednesday | Wednesday | Adults-only | Adults-only | Varies |
+| White Monday | Monday | Regular | Photography & creativity | Easy |
+| Wicked Wednesday | Wednesday | Regular | Photography & creativity | Easy |
+| Wiggle Wednesday | Wednesday | Regular | Comedy & movement | Moderate |
+| Wild Card Wednesday | Wednesday | Regular | Photography & creativity | Easy |
+| Willy Wednesday | Wednesday | Adults-only | Adults-only | Varies |
+| Winter Wear | Wednesday | Seasonal | Seasonal | Varies |
+| Winter White Out | Monday | Seasonal | Seasonal | Varies |
+| Without Makeup Wednesday | Wednesday | Regular | Photography & creativity | Easy |
+| Work Wear Wednesday | Wednesday | Regular | Fashion & outfits | Moderate |
+| Workout Wednesday | Wednesday | Regular | Wellbeing & fitness | Easy |
+| Xmas Day | Thursday | Seasonal | Seasonal | Varies |
+
+## Artwork tracking
 
 When an existing poster is verified, add a link beside its theme, for example: `— [View poster](images/example.png)`. Do not assume a theme has artwork until it has been checked.
 
-## ➕ Adding themes
+## Adding themes
 
 Add the new name and a short description under its weekday. Keep seasonal themes in their own section.
+
+## Retired and new ideas
+
+No retirements confirmed. Keep retired names and reasons here rather than deleting them. Proposed new visual themes: Transform Thursday (dress-up or styling; distinct from any game version), festive elf and Christmas tree outfit variations. Review before adding to the active register. Track poster links, participation feedback and last-used dates only when verified.
