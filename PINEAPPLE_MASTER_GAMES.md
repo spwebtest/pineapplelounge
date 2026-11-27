@@ -296,3 +296,5 @@ A rolling eight-day plan around the organiser’s four-on, four-off 7–7 shifts
 - **[🍍 Sign Up for the Hot Seat](https://docs.google.com/forms/d/e/1FAIpQLSfFxGyb7Nd4c1WUe-YRtfunK6C2m-F8_ScAbxJ-oJon7iLMug/viewform)** — members choose suitable days and time slots; admins confirm on Telegram.
 
 - **[🍍 Hot Seat Form Responses — Bookings & Curation](https://docs.google.com/spreadsheets/d/1tknIw-TFhg-puXaJatWxRrKRc-CiW20wQFkWfiD-Tdw/edit?usp=drivesdk)** — admin response spreadsheet; access subject to Google Drive permissions.
+
+- **[🍍 Games Feedback Form Responses](https://docs.google.com/spreadsheets/d/1Ac3bwCr124U5RJ1E9CHZ9Ai8OLKTClguEkiizi18L0A/edit?usp=drivesdk)** — admin spreadsheet for reviewing member feedback; access subject to Google Drive permissions.
