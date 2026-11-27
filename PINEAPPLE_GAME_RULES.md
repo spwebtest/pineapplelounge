@@ -469,3 +469,17 @@ When a format changes, record:
 
 - [Pineapple Master Games List](PINEAPPLE_MASTER_GAMES.md)
 - [Pineapple Games Psychology & Member Feedback](PINEAPPLE_GAMES_PSYCHOLOGY_AND_FEEDBACK.md)
+
+
+## Approved formats awaiting trial — 27 November 2026
+
+These are proposed operating rules, not records of completed games.
+
+- **Memory Mayhem:** Post a busy picture for a stated study period; remove it if practical, then ask questions. Ask members not to save or revisit it. Telegram cannot guarantee this.
+- **What’s Missing?:** Post two pictures with one or more objects removed; identify the missing items. Both pictures may remain visible.
+- **Memory Chain:** Start a themed list. Each member repeats the list and adds one item. No scrolling back; informal honour system.
+- **Crack the Code:** Release all puzzles together, each yielding a digit or letter; members cooperate to solve the final code.
+- **Double Trouble:** Post two shuffled lists with numbered and lettered entries; match all pairs (e.g. 1C, 2D). Prepare answer key.
+- **The Forbidden Word:** Announce one word to avoid in normal chat. Members playfully catch each other using it; no compulsory scoring or elimination.
+- **Describe It:** Clue setter chooses an object and forbidden associated words. Describe without using them; first correct guess sets next challenge.
+- **Showdown Saturday variations:** Popular-choice polls remain the established format. Battle of the Best is a knockout variation using 8 or 16 choices in head-to-head polls; winners advance. Ranking and majority-match predictions are further planned variants. Set poll closing and tie handling before play.
