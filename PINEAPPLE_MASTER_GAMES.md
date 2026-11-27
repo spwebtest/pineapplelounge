@@ -295,3 +295,4 @@ A rolling eight-day plan around the organiser’s four-on, four-off 7–7 shifts
 - **[🍍 Submit an Anonymous Game Idea](https://docs.google.com/forms/d/e/1FAIpQLSdqEXHXUoCfRU-o3IHCfmjkRUS4oNCgWa_YOkrYUXpjtjwqcA/viewform)** — members can suggest games without a name or email. [Admin guide](PINEAPPLE_IDEAS_BOX_ADMIN_GUIDE.md).
 - **[🍍 Sign Up for the Hot Seat](https://docs.google.com/forms/d/e/1FAIpQLSfFxGyb7Nd4c1WUe-YRtfunK6C2m-F8_ScAbxJ-oJon7iLMug/viewform)** — members choose suitable days and time slots; admins confirm on Telegram.
 
+- **[🍍 Hot Seat Form Responses — Bookings & Curation](https://docs.google.com/spreadsheets/d/1tknIw-TFhg-puXaJatWxRrKRc-CiW20wQFkWfiD-Tdw/edit?usp=drivesdk)** — admin response spreadsheet; access subject to Google Drive permissions.
