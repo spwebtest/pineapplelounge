@@ -4,7 +4,7 @@ Approved and existing games only. One main entry per game. Status reflects known
 
 ## Quick navigation
 
-[By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [Catalogue](#catalogue) · [Related documents](#related-documents)
+[By weekday](#by-weekday) · [By hosting effort](#by-hosting-effort) · [By genre](#by-genre) · [Catalogue](#catalogue) · [📖 Game rules & host guide](PINEAPPLE_GAME_RULES.md) · [Related documents](#related-documents)
 
 ## By weekday
 
